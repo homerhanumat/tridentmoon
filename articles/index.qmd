@@ -1,0 +1,12 @@
+---
+title: "A Few Articles"
+listing:
+  contents: .
+  sort-ui: false
+  filter-ui: false
+  type: table
+  fields: [title]
+---
+
+I hope you will find these articles helpful!
+
