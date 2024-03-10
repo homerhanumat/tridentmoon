@@ -197,7 +197,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Trident Moon promotes the practice of Aśṭāṅga Yoga and meditation in Central Kentucky.</p>
+<p>Trident Moon promotes the practice of Aṣṭāṅga Yoga and meditation in Central Kentucky.</p>
 <p>This site is under construction. Students can find links to posture cheat-sheets in one of the articles.</p>
 
 
@@ -428,7 +428,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/cab6ea50-a00e-4cb3-a31e-dc4bb3713c35\.netlify\.app\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
