@@ -21,28 +21,6 @@
     "text": "Trident Moon promotes the practice of Aṣṭāṅga Yoga and meditation in Central Kentucky.\nThis site is under construction. Students can find links to posture cheat-sheets in one of the articles."
   },
   {
-    "objectID": "articles/index.html",
-    "href": "articles/index.html",
-    "title": "A Few Articles",
-    "section": "",
-    "text": "I hope you will find these articles helpful!\n\n\n\n\n\n\n\n\n\nTitle\n\n\n\n\n\n\nResouces for Students\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Home",
-      "Articles"
-    ]
-  },
-  {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "The Trident Moon Blog",
-    "section": "",
-    "text": "Coming someday!",
-    "crumbs": [
-      "Home",
-      "Posts"
-    ]
-  },
-  {
     "objectID": "articles/ashtanga-resources/index.html",
     "href": "articles/ashtanga-resources/index.html",
     "title": "Resouces for Students",
@@ -71,7 +49,7 @@
     "href": "articles/ashtanga-resources/index.html#primary-series-postures",
     "title": "Resouces for Students",
     "section": "Primary Series Postures",
-    "text": "Primary Series Postures\nDr. Ronald Steiner collects a number of useful Aṣṭāṅga resources on his website, including “cheat-sheets” for the series here.1 You’ll want the sheets for:\n\nSun Salutation A and B\nFundamental Positions\nPrimary Series\nFinishing Sequence",
+    "text": "Primary Series Postures\nDr. Ronald Steiner collects a number of useful Aṣṭāṅga resources on his website, including “cheat-sheets” for the series here.1 You’ll want the sheets for:\n\nFundamental Positions with BNS Iyengar\nPrimary Series with BNS Iyengar",
     "crumbs": [
       "Home",
       "Articles",
@@ -103,13 +81,6 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Homer",
-    "section": "",
-    "text": "Hello, I’m Homer White. More about me soon.\n \n  \n   \n  \n    \n     Facebook\n  \n  \n    \n     Email"
-  },
-  {
     "objectID": "articles/ashtanga-resources/index.html#footnotes",
     "href": "articles/ashtanga-resources/index.html#footnotes",
     "title": "Resouces for Students",
@@ -120,5 +91,34 @@
       "Articles",
       "Ashtanga Resources"
     ]
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "The Trident Moon Blog",
+    "section": "",
+    "text": "Coming someday!",
+    "crumbs": [
+      "Home",
+      "Posts"
+    ]
+  },
+  {
+    "objectID": "articles/index.html",
+    "href": "articles/index.html",
+    "title": "A Few Articles",
+    "section": "",
+    "text": "I hope you will find these articles helpful!\n\n\n\n\n\n\n\n\n\nTitle\n\n\n\n\n\n\nResouces for Students\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home",
+      "Articles"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Homer",
+    "section": "",
+    "text": "Hello, I’m Homer White. More about me soon.\n \n  \n   \n  \n    \n     Facebook\n  \n  \n    \n     Email"
   }
 ]
