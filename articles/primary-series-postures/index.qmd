@@ -3,99 +3,233 @@ title:  "Postures of the Primary Series"
 draft: true
 ---
 
-Below are notes I took on one of Andrew Eppler's training videos.  I have supplemented his statement of the vinyāsa count with accurate Sanskrit names of the postures.
+This article lists the postures of the Primary Series as taught by BNS Iyngar, along with a fairly standard variant of the encompassing vinyāsa,^[The vinyāsa qre based quite heavily on a video produced by Andrew Eppler, as part of the Yoga Methodology unit in his <a href="https://ashtangayogastudio.com/200hrtraining" target="_blank">Intensive Training</a> course.]  The postures are identified by their Sanskrit names, along with english translations.
+
+It is important to bear in mind that, just as the postures themselves should be modified to individual bodies and needs, so the encompassing vinyāsa count should treated as aspirational only and should be subject to adjustment.  Even experienced persons who come to the practice with considerable bodily gifts find themselves adding breaths, especially as they move into or out of postures.
+
+**Terminological Note**: The term *vinyāsa* is often used loosely to refer to the sequence of movments that form a transition from one seated posture to the next---lifitng up, jumping/stepping back to plank, up-dog, down-down, jump/step through to a sitting position to begin the next posture---but here it is used in its strict sense as one-half of a breath (either the inhale or the exhale) that is to be associated with a particular movement between postures as opposed to breaths taken while in the postures themselves.
 
 
-## sūryanamakāra (Salutations to the Sun)
+## sūryanamakāra (Salutations to the Sun) Sequences
 
-Andrew says that sūryanamakāra are the meter and scale of the "song" that is the Primary Series.
+Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" that is the Primary Series.
+
+### sūryanamakāra A Sequence
+
+Repeat this sequence 4-5 times.  Only one posture of the sequence (adhomukhaśvānāsana)(is held.
+
+Begin in __samasthitiḥ__.
+
+1. inhale: raise arms and look up, to __ūrdhvavṛkṣāsana__ (Upward Tree Posture)
+1. exhale: fold down to __uttanāsana A__ (Stretching Out Posture A)
+1. inhale: straighten the spine and look forward but stay down (this is __uttanāsana B__, Stretching Out Posture A)
+1. exhale: jump/step back to __caturaṅgadaṇḍāsana__ (Four-Limbed Stick Posture)
+1. inhale: press up, bending back and looking up, to __ūrdhvamukhaśvānāsana__ (Upward-Face Dog Posture)
+1. exhale: to __adhomukhaśvānāsana__ (Downward-Face Dog Posture).  *This posture is held for five complete breaths.*
+1. inhale: jump/step forward to __uttanāsana B__
+1. exhale: fold down to __uttanāsana A__
+1. inhale: up to __ūrdhvavṛkṣāsana__
+1. exhale: to __samasthitiḥ__
+
+### sūryanamakāra B Sequence
+
+Repeat this sequence 3-4 times as needed.  Again only one posture of the sequence (adhomukhaśvānāsana)(is held, and then only in its third occurence.
+
+Begin in __samasthitiḥ__ from the final iteration of the sūryanamakāra A sequence.
+
+1. inhale: raise arms and look up, to __ūrdhvavṛkṣāsana__ (Upward Tree Posture)
+1. exhale: fold down to __uttanāsana A__ (Stretching Out Posture A)
+1. inhale: straighten the spine and look forward but stay down (this is __uttanāsana B__, Stretching Out Posture A)
+1. exhale: jump/step back to __caturaṅgadaṇḍāsana__ (Four-Limbed Stick Posture)
+1. inhale: press up, bending back and looking up, to __ūrdhvamukhaśvānāsana__ (Upward-Face Dog Posture)
+1. exhale: to __adhomukhaśvānāsana__ (Downward-Face Dog Posture).  *Do not hold this posture.*
+1. inhale:  step right foot forward between hands, come up to __vīrabhadrāsana A__ (Auspicious Hero Posture A)
+1. exhale:  step the right foot back, come down into __caturaṅgadaṇḍāsana__
+1. inhale:  press up into __ūrdhvamukhaśvānāsana__
+1. exhale:  to __adhomukhaśvānāsana__.  *Again, do not hold this posture.*
+1. inhale:  step left foot forward between hands, come up to __vīrabhadrāsana A__ (Auspicious Hero Posture A)
+1. exhale:  step the left foot back, come down into __caturaṅgadaṇḍāsana__
+1. inhale:  press up into __ūrdhvamukhaśvānāsana__
+1. exhale:  to __adhomukhaśvānāsana__.  *This time, hold the posture for five complete breaths.*
+1. inhale: jump/step forward to __uttanāsana B__
+1. exhale: fold down to __uttanāsana A__
+1. inhale: up to __ūrdhvavṛkṣāsana__
+1. exhale: to __samasthitiḥ__
+
 
 ## Standing Sequence
 
 ### pādāṅguṣṭhāsana (Thumb to Foot Posture)
 
-4 to enter:
+Entering vinyāsa (4):
 
-* inhale step left hands to hips  look up 1
-* exhale fold forward 2
-* inhale straighten look up 3
-* exhale fold 4
+1. inhale: step left, hands to hips, look up
+1. exhale: fold forward
+1. inhale: straighten, look up
+1. exhale: fold
 
-(andrew stays down, Joey does 4 to exit, ending in sama)
+(Here andrew stays down for the next posture. Joey Paz exits with four vinyāsa, ending in samasthitiḥ.)
 
 ### pādahastāsana (Hand [under] Foot Posture)
 
-4 to enter:
+Entering vinyāsa (4):
 
-* inhale look up hands to hips
-* exhale hands under feet
-* inhale look up
-* exhale fold
+1. inhale: look up, hands to hips
+1. exhale: hands under feet
+1. inhale: look up
+1. exhale: fold
 
-4 to exit (ends in sama):
+Exiting vinyāsa (4, ends in samasamasthitiḥ):
 
-* inhale look up hands to hips
-* exahle fold
-* inhale up
-* exhale step back to same
+1. inhale: look up, hands to hips
+1. exahle: fold
+1. inhale: up
+1. exhale: step back to samasamasthitiḥ
 
-### trikoṇāsana (Triangle Posture) and parivṛttatrikoṇāsana (Revolved Triangle Posture)
+### trikoṇāsana (Triangle Posture) 
 
-2 e trik
-2 change sides
-2 e pari tri. (could add 2 as prep as "extra")
-2 exit
+Entering vinyāsa (2):
+
+1. inhale:  step to the left, feet a bit more than a leg's length distance apart, spread arms, "fix" the feet
+2. exhale:  fold down to the right
+
+Transition vinyāsa (2):
+
+1. inhale:  rise up, fix feet the other way
+2. exhale:  fold down to the left
+
+Exiting vinyāsa (1):
+
+* inhale:  rise up, fix feet the other way
+
+### parivṛttatrikoṇāsana (Revolved Triangle Posture)
+
+Entering vinyāsa (1):
+
+* exhale:  fold and twist down and to the right
+
+Transition vinyāsa (2):
+
+1. inhale:  rise up, fix feet the other way
+2. exhale:  fold and twist down and to the left
+
+Exiting vinyāsa (2):
+
+1. inhale:  rise up, feet back to neutral
+2. exhale:  step back to samasamasthitiḥ
+
 
 ### parśvakoṇāsna (Side Angle Posture)
 
-2's for parsva
-come back to sama after
+Entering vinyāsa (2):
+
+1. inhale:  step to the left, feet quite a bit more than a leg's length distance apart, spread arms, "fix" the feet
+2. exhale:  bend right knee over ankle, fold down to the right
+
+Transition vinyāsa (2):
+
+1. inhale:  rise up, fix feet the other way
+2. exhale:  bend left knee over ankle, fold down to the left
+
+Exiting vinyāsa (1):
+
+* inhale:  rise up, fix feet the other way
 
 ### parivrttaparśvakoṇāsana (Revolved Side Angle Posture)
 
-2 to enter (with 4 "extra" option as prep)
+Entering vinyāsa (1):
+
+* exhale:  bend right knee over ankle, fold and twist down and to the right
+
+Transition vinyāsa (2):
+
+1. inhale:  rise up, fix feet the other way
+2. exhale:  bend left knee over angle, fold and twist down and to the left
+
+Exiting vinyāsa (2):
+
+1. inhale:  rise up, feet back to neutral
+2. exhale:  step back to samasamasthitiḥ
 
 ### prasāritapādottānāsana (Stretching Out to Spread Feet Posture)
 
-four vinyāsa to enter A
+There are four variations:  A, B, C, D.
 
-transition to B:
+Entering vinyāsa for A (4):
 
-* inhale stand, arms wide 1
-* exhale hands to hips 2
-* inhale look up 3
-* exhale down 4
+1. inhale: step to the left, feet quite a bit more than a leg's length distance apart, spread arms
+2. exhale:  hands on hips
+3. inhale:  arch back, look up
+4. exhale:  fold forwards, hands (and maybe head) on floor
 
-transition to C:
+Exiting vinyāsa from A (4):
 
-* inhale up hands still on hips1
-* exhale clasp 2
-* inhale look up 3
-* exhale down 4
+1. inhale:  straighten the spine, look up but stay down
+1. exhale:  hands on hips
+1. inhale:  stand, arms out
+1. exhale:  hands to hips
 
-transition to D:
+Entering vinyāsa for B (4):
 
-* inhale up arms wide 1
-* exhale hands to hips 2
-* inhale look up 3
-* exhale down 4
+* inhale stand, arms spread
+* exhale hands to hips, elbows trending toward each other behind you
+* inhale look up
+* exhale fold down, head maybe on floor
 
-exit is inhale up arms wide, exhale step forward to sama
+Exiting vinyāsa from B (2):
+
+1. inhale:  stand
+1. exhale:  hands to hips
+
+Entering vinyāsa for C (4):
+
+1. inhale: spread arms
+1. exhale: clasp ahnds behind back
+1. inhale: arch back, look up
+1. exhale:  fold down, head maybe on floor, hands on floor a distant possibility
+
+Exiting vinyāsa from C (2):
+
+1. inhale:  stand
+1. exhale:  release clasp, hands to hips
+
+Entering vinyāsa for D (4):
+
+1. inhale: up arms wide
+1. exhale: hands to hips
+1. inhale: arch bak, look up
+1. exhale: fold down, grab big toes, head maybe on floor
+
+Exiting vinyāsa from D (4):
+
+1. inhale:  straighten the spine, look up but stay down
+1. exhale:  hands on hips
+1. inhale:  stand, arms out
+1. exhale:  step forward to samasamasthitiḥ
 
 ### parśvottānāsana (Stretching Out to the Side Posture)
 
-inhale step left arms wide
-exhale hands to reverse namaste
-inhale turn foward look up
-ex fold into posture
+Entering vinyāsa (4):
 
-inhale out
-ex rotate
-inhale up
-ex fold
+1. inhale: step left arms wide, less than a leg's width distance between feet
+1. exhale: hands to reverse namaste
+1. inhale: fix feet, turn torso to right, arch back and look up
+1. exhale: fold into posture
 
-inhale up and open arms
-ex trun and step to sama
+Transition vinyāsa (4):
+
+1. inhale: rise back up, arch back and look up
+1. exhale: rotate to left, fixing feet other way
+1. inhale: arch back, look up
+1. exhale: fold
+
+Exiting Vinyāsa (2):
+
+
+1. inhale: rise back up, look up
+1. exhale:  release hands, open arms, step forward to samasamasthitiḥ
+
+## Primary Series Postures
 
 ### utthitahastapādāṅguṣṭhāsana (Big Toe of the Foot [grasped] with Risen Hand Posture)
 
@@ -168,8 +302,6 @@ exiting:
 * in updog
 * ex down
 * inhale jump through
-
-## Seated Postures
 
 ### daṇḍāsana (Stick Posture)
 
