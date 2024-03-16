@@ -7,14 +7,16 @@ This article lists the postures of the Primary Series as taught by BNS Iyngar, a
 
 It is important to bear in mind that, just as the postures themselves should be modified to individual bodies and needs, so the encompassing vinyāsa count should treated as aspirational only and should be subject to adjustment.  Even experienced persons who come to the practice with considerable bodily gifts find themselves adding breaths, especially as they move into or out of postures.
 
-**Terminological Note**: The term *vinyāsa* is often used loosely to refer to the sequence of movments that form a transition from one seated posture to the next---lifitng up, jumping/stepping back to plank, up-dog, down-down, jump/step through to a sitting position to begin the next posture---but here it is used in its strict sense as one-half of a breath (either the inhale or the exhale) that is to be associated with a particular movement between postures as opposed to breaths taken while in the postures themselves.
+**Terminological Note**: The term *vinyāsa* is often used loosely to refer to the sequence of movments that form a transition from one seated posture to the next---lifitng up, jumping/stepping back to plank, up-dog, down-down, jump/step through to a sitting position to begin the next posture---but here it is used in its strict sense as one-half of a breath (either the inhale or the exhale) that is to be associated with a particular movement between postures as opposed to breaths taken while in the postures themselves.^[Both the loose and strict sense of the term appear to have introduced in the 20th century, probably by Tirumalai Kṛśṇamācharya, the developer of Aṣṭāṅga Yoga.  See <a href="https://www.theluminescent.org/2016/07/vinyasa-medieval-and-modern-meanings.html" target="_blank">this article</a> for more information on the term.]
 
 
-## sūryanamakāra (Salutations to the Sun) Sequences
+## sūryanamaskāra Sequences
+
+*English*:  Salutations to the Sun
 
 Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" that is the Primary Series.
 
-### sūryanamakāra A Sequence
+### sūryanamaskāra A Sequence
 
 Repeat this sequence 4-5 times.  Only one posture of the sequence (adhomukhaśvānāsana)(is held.
 
@@ -31,7 +33,7 @@ Begin in __samasthitiḥ__.
 1. inhale: up to __ūrdhvavṛkṣāsana__
 1. exhale: to __samasthitiḥ__
 
-### sūryanamakāra B Sequence
+### sūryanamaskāra B Sequence
 
 Repeat this sequence 3-4 times as needed.  Again only one posture of the sequence (adhomukhaśvānāsana)(is held, and then only in its third occurence.
 
@@ -59,7 +61,9 @@ Begin in __samasthitiḥ__ from the final iteration of the sūryanamakāra A seq
 
 ## Standing Sequence
 
-### pādāṅguṣṭhāsana (Thumb to Foot Posture)
+### pādāṅguṣṭhāsana
+
+*English*: Thumb to Foot Posture
 
 Entering vinyāsa (4):
 
@@ -70,7 +74,9 @@ Entering vinyāsa (4):
 
 (Here andrew stays down for the next posture. Joey Paz exits with four vinyāsa, ending in samasthitiḥ.)
 
-### pādahastāsana (Hand [under] Foot Posture)
+### pādahastāsana
+
+*English*: Hand [under] Foot Posture
 
 Entering vinyāsa (4):
 
@@ -86,7 +92,9 @@ Exiting vinyāsa (4, ends in samasamasthitiḥ):
 1. inhale: up
 1. exhale: step back to samasamasthitiḥ
 
-### trikoṇāsana (Triangle Posture) 
+### trikoṇāsana
+
+*English*: Triangle Posture
 
 Entering vinyāsa (2):
 
@@ -102,7 +110,9 @@ Exiting vinyāsa (1):
 
 * inhale:  rise up, fix feet the other way
 
-### parivṛttatrikoṇāsana (Revolved Triangle Posture)
+### parivṛttatrikoṇāsana
+
+*English*: Revolved Triangle Posture
 
 Entering vinyāsa (1):
 
@@ -119,7 +129,9 @@ Exiting vinyāsa (2):
 2. exhale:  step back to samasamasthitiḥ
 
 
-### parśvakoṇāsna (Side Angle Posture)
+### parśvakoṇāsna
+
+*English*: Side Angle Posture
 
 Entering vinyāsa (2):
 
@@ -135,7 +147,9 @@ Exiting vinyāsa (1):
 
 * inhale:  rise up, fix feet the other way
 
-### parivrttaparśvakoṇāsana (Revolved Side Angle Posture)
+### parivrttaparśvakoṇāsana
+
+*English*: Revolved Side Angle Posture
 
 Entering vinyāsa (1):
 
@@ -151,9 +165,11 @@ Exiting vinyāsa (2):
 1. inhale:  rise up, feet back to neutral
 2. exhale:  step back to samasamasthitiḥ
 
-### prasāritapādottānāsana (Stretching Out to Spread Feet Posture)
+### prasāritapādottānāsana
 
-There are four variations:  A, B, C, D.
+*English*: Stretching Out to Spread Feet Posture
+
+There are four phases:  A, B, C, D.
 
 Entering vinyāsa for A (4):
 
@@ -207,7 +223,9 @@ Exiting vinyāsa from D (4):
 1. inhale:  stand, arms out
 1. exhale:  step forward to samasamasthitiḥ
 
-### parśvottānāsana (Stretching Out to the Side Posture)
+### parśvottānāsana
+
+*English*: Stretching Out to the Side Posture
 
 Entering vinyāsa (4):
 
@@ -231,83 +249,128 @@ Exiting Vinyāsa (2):
 
 ## Primary Series Postures
 
-### utthitahastapādāṅguṣṭhāsana (Big Toe of the Foot [grasped] with Risen Hand Posture)
+### utthitahastapādāṅguṣṭhāsana
 
-to A:
+*English*: Big Toe of the Foot [grasped] with Risen Hand Posture
 
-* in take toe
-* ex extend
+There are four phases:  A, B, C, D.
 
-to B:
+Entering vinyāsa for A (2):
 
-* in out to right
-* ex turn head left
+1. inhale: raise the right leg, taking the big toe with thumb and first two fingers
+1. exhale:  extend the leg as much as possible.
 
-to C:
+Transition to B:
 
-* ex center
-* in head up and grab
-* ex head down
+1. inhale: open leg to the right
+1. exhale: turn head to the left
 
-to D:
+Transition to C:
 
-* in head back up
-* ex hands on hips
+1. exhale: return the leg to center
+1. inhale: shift right hand to grip foot under the sole; release left hand from hip, bring it toward the right foot
+1. exhale:  add left hand to the undersole grip on the right foot
 
-2-2-3-2
+Transition to D:
 
-same on the other side
+1. inhale: release hands from foot
+1. exhale: place hands on hips
 
-### ardhabaddhapadmottānāsana (Stretching out in Half Bound Lotus Posture)
+Exiting from D:
 
-4 to enter
-2 to exit (only 2!)
+1. exhale:  lower the leg, returning to samasamasthitiḥ
 
-### utkaṭāsana (Fierce Posture)
+Then perform all four phases using the left leg.
+
+### ardhabaddhapadmottānāsana
+
+*English*: Stretching out in Half Bound Lotus Posture
+
+Entering vinyāsa (4):
+
+1. inhale: right leg into half-lotus
+1. exhale: right hand reaches behind back to grab right foot
+1. inhale: lift left hand
+1. exhale: fold forward, left hand on floor outside of left foot, head maybe to left leg
+
+Exiting vinyāsa (4):
+
+1. inhale: straighten spine and look forward but stay down
+1. exhale: hold
+1. inhale: stand up
+1. exhale: release foot, return to samasamasthitiḥ
+
+Repeat posture on the left side.
+
+### utkaṭāsana
+
+*English*: Fierce Posture
 
 **Note**:  In this posture the body resembles a jagged lightening-bolt; some people say this is why it is "fierce".
 
-2 to enter but exhale is placeholder
+Entering vinyāsa (2):
 
-exit is 2 (in up, ex to sama)
+1. inhale: lift arms, squat
+2. exhale: mostly hold, but settling slightly into the squat
 
-### vīrabhadrāsana (Auspicious Hero Posture)
+Exiting vinyāsa (2):
 
-**Note**:  "Vīrabhadra" is the name of an incarnation of Śiva.  Monier-Williams says:
+1. inhale: stand up straight
+1. exhale: lower arms, returning to samasamasthitiḥ
 
->... in the Vāyu-Purāṇa he is said to have been created from Śiva's mouth in order to spoil the sacrifice of Dakṣa, and is described as having a thousand heads, a thousand eyes, a thousand feet, and wielding a thousand clubs; his appearance is fierce and terrific, he is clothed in a tiger's skin dripping with blood, and he bears a blazing bow and battle-axe; in another Purāṇa he is described as produced from a drop of Śiva's sweat.
+### vīrabhadrāsana
 
-5 to enter:
+*English*: Auspicious Hero Posture[^virabhadra]
 
-* in step arms wide
-* ex turn lunge
-* in up
-* ex placehold
+[^virabhadra]: "Vīrabhadra" is the name of an incarnation of Śiva.  <a href="https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php" target="_blank">Monier-Williams</a> says:
 
-5 to transition:
+    >... in the Vāyu-Purāṇa he is said to have been created from Śiva's mouth in order to spoil the sacrifice of Dakṣa, and is described as having a thousand heads, a thousand eyes, a thousand feet, and wielding a thousand clubs; his appearance is fierce and terrific, he is clothed in a tiger's skin dripping with blood, and he bears a blazing bow and battle-axe; in another Purāṇa he is described as produced from a drop of Śiva's sweat.
 
-* exhale 1 arms out to side
-* inhale turn
-* exhale turn and lunge 
-* in up
-* ex placehold
+There are two phases:  A and B.
 
-thne to B:  ex down
-
-transition: in turn, ex settle in
-
-exiting:
-
-* ex down srep back
-* in updog
-* ex down
-* inhale jump through
-
-### daṇḍāsana (Stick Posture)
+Entering vinyāsa into A (4):
 
 
+1. inhale: step left, arms wide
+1. exhale: turn right, bend right knee over ankle
+1. inhale: lift arms, look up
+1. exhale: hold
 
-### paścimottānāsana (West Stretching out Posture)
+]Transition vinyāsa to other side (5):
+
+1. exhale: lower arms
+1. inhale: turn left 90 degrees
+1. exhale: turn left remaining 90 degrees, bend left knee over ankle
+1. inhale: lift arms, look up
+1. exhale: hold
+
+Transition vinyāsa to B (3):
+
+1. exhale: arms down
+1. inhale: turn torso right 90 degrees, arms out
+1. exhale: settle down into posture, gazing left
+
+Transition to other side (2):
+
+1. inhale: turn front and fix feet the other way
+2. exhale: settle down into the posture, gazing right
+
+Exiting vinyāsa (4):
+
+1. exhale: turn torso to front of mat, hands to floor, step back to caturaṅgadaṇḍāsana
+1. inhale: to Up dog
+1. exhale: to Down Dog
+1. inhale: step/jump through to seated position
+
+### daṇḍāsana
+
+*English*: Stick Posture
+
+
+
+### paścimottānāsana
+
+*English*: West Stretching out Posture
 
 ex, in ex then start 5 breaths 
 
@@ -315,7 +378,9 @@ three versions
 
 3-2-2
 
-### pūrvottānāsana (East Stretching out Posture)
+### pūrvottānāsana
+
+*English*: East Stretching out Posture
 
 4 to enter:
 
@@ -332,7 +397,9 @@ standard jump-back and jump-through: 5 count
 * ex down-dog
 * in jump through
 
-### ardhabaddhapadmapaścimottānāsana (Half Bound Lotus West Stretching out Posture)
+### ardhabaddhapadmapaścimottānāsana
+
+*English*: Half Bound Lotus West Stretching out Posture
 
 * in half-lotus
 * ex reach around
@@ -354,7 +421,9 @@ exit is:
 * in look up
 * ex fold
 
-### tryaṅgamukhaikapādapaścimottānāsana (Three-Limbed Face to One Leg West Stretching out Posture)
+### tryaṅgamukhaikapādapaścimottānāsana
+
+*English*: Three-Limbed Face to One Leg West Stretching out Posture
 
 * in release
 * ex back
@@ -364,14 +433,18 @@ exit is:
 * ex fold
 
 
-### jānuśīrṣāsana (Head to Knee Posture)
+### jānuśīrṣāsana
+
+*English*: Head to Knee Posture
 
 * 8 to enter
 * 10 to transition to next side
 
 or think of it as 8 to get in, 2 to get out
 
-### marīcyāsana (Marīci Posture)
+### marīcyāsana
+
+*English*: Marīci Posture
 
 This posture is dedicated to the sage <a href="https://en.wikipedia.org/wiki/Marichi" target="_blank">Marīci</a>.  There are four variations:  A, B, C and D.
 
@@ -389,40 +462,56 @@ C:  5+3 to get in: ex knee up in twist exwarp around and grab
 
 D:  5 + ex lotus, in knee up, ex twist, in arm up, ex wrap around and grab
 
-### nāvāsana (Boat Posture)
+### nāvāsana
+
+*English*: Boat Posture
 
 5 to enter, begin count in exhale,
 
 inhale up, exhale back into posture
 
-### bhujapīḍāsana (Pressure on the Shoulders Posture)
+### bhujapīḍāsana
+
+*English*: Pressure on the Shoulders Posture
 
 in jump around, ex the start counting
 
 on 5th ex, tuck down to B
 
-### kūrmāsana (Tortoise Posture)
+### kūrmāsana
+
+*English*: Tortoise Posture
 
 officially: in jump around, exhale flatten out
 
 
-### suptakūrmāsana (Sleeping Tortoise Posture)
+### suptakūrmāsana
+
+*English*: Sleeping Tortoise Posture
 
 for the "less advanced" version, it's 2 to enter
 
-### garbhapiṇḍāsana (Embryo in the Womb Posture)
+### garbhapiṇḍāsana
+
+*English*: Embryo in the Womb Posture
 
 ex into padma, in right hand ex left hand. take 5, then roll 9 times
 
-### kukkuṭāsana (Rooster Posture)
+### kukkuṭāsana
+
+*English*: Rooster Posture
 
 you come up into it on an inhale
 
-### baddhakoṇāsana (Bound Angle Posture)
+### baddhakoṇāsana
+
+*English*: Bound Angle Posture
 
 no problem
 
-### upaviṣṭakoṇāsana ("Entered Into" Angle Posture)
+### upaviṣṭakoṇāsana
+
+*English*: "Entered Into" Angle Posture
 
 **Note**: *upaviṣṭa* can also mean "seated" but here it most likely refer to the way that the forward-folding torso "enters into" the angle formed by the legs.
 
@@ -433,7 +522,9 @@ no problem
 then in look up ex grab toes and all up
 
 
-### suptakoṇāsana (Sleeping Angle Posture)
+### suptakoṇāsana
+
+*English*: Sleeping Angle Posture
 
 no jump-through transition, instead just
 in get read ex roll back
@@ -442,7 +533,9 @@ in roll up, ex come down
 
 and then do another 5 breaths!
 
-### suptapadāṅguṣṭhāsana (Sleeping Thumb to Foot Posture)
+### suptapadāṅguṣṭhāsana
+
+*English*: Sleeping Thumb to Foot Posture
 
 There are four stages:  A, B, C, D.
 
@@ -462,21 +555,29 @@ another to count to enter D
 
 Consider taking chakrāsana for the transition out.
 
-### ubhayapādāṅguṣṭhāsana (Thumbs to Both Feet Posture)
+### ubhayapādāṅguṣṭhāsana
+
+*English*: Thumbs to Both Feet Posture
 
 the roll-back comes after!
 
-### ūrdhvamukhapaścimottānāsana (Upward Face West Stretching out Posture)
+### ūrdhvamukhapaścimottānāsana
+
+*English*: Upward Face West Stretching out Posture
 
 roll up into this, no jump-through
 
-### setubandhāsana (Bridge-Binding Posture)
+### setubandhāsana
+
+*English*: Bridge-Binding Posture
 
 10 to enter
 
 Again consider chakrāsana for the transition out.
 
-### ūrdhvadhanurāsana (Upward Bow Posture)
+### ūrdhvadhanurāsana
+
+*English*: Upward Bow Posture
 
 not more than 3 breaths between
 
@@ -484,56 +585,82 @@ do some kind of forward fold after
 
 ## Closing Sequence
 
-### sālambhasarvāṅgāsana (Posture where All Limbs have Suppport)
+### sālambhasarvāṅgāsana
+
+*English*: Posture where All Limbs have Suppport
 
 in down, ex up
 
-### hālāsana  (Plow Posture)
+### hālāsana
 
-### karṇapīḍāsana (Pressure on the Ears Posture)
+*English*: Plow Posture
+
+### karṇapīḍāsana
+
+*English*: Pressure on the Ears Posture
 
 one ex in
 
 
-### ūrdhvapadmāsana (Upward Lotus Posture)
+### ūrdhvapadmāsana
+
+*English*: Upward Lotus Posture
 
 4 to enter
 
-### piṇḍāsana (Embryo Posture)
+### piṇḍāsana
+
+*English*: Embryo Posture
 
 2 to enter
 
 
-### matsyāsana (Fish Posture)
+### matsyāsana
+
+*English*: Fish Posture
 
 2 to enter
 
-### uttānapādāsana (Legs Stretching out Posture)
+### uttānapādāsana
+
+*English*: Legs Stretching out Posture
 
 2 to enter
 
 
-### śīrṣāsana (Head[stand] Posture)
+### śīrṣāsana
+
+*English*: Head[stand] Posture
 
 25 breaths, then come down holding for 5, maybe even do that three times
 
 interesting he says in down ex up
 
-### bālāsana (Child Posture)
+### bālāsana
+
+*English*: Child Posture
 
 
-### baddhapadmāsana (Bound Lotus Posture)
+### baddhapadmāsana
+
+*English*: Bound Lotus Posture
 
 generally folks just sit down into this after previous
 
-### padmāsana (Lotus Posture)
+### padmāsana
+
+*English*: Lotus Posture
 
 minimum 25 in this posture
 
 prāṇāyāma, mudras encouraged here
 
-### tolāsana (Lift Posture)
+### tolāsana
+
+*English*: Lift Posture
 
 **Note**:  Monier-Williams cites *tolana* as "lifitng up" in the Rāmāyana.
 
-### śāvāsana (Corpse Posture)
+### śāvāsana
+
+*English*: Corpse Posture
