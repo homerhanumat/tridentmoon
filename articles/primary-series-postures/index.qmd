@@ -3,11 +3,13 @@ title:  "Postures of the Primary Series"
 draft: true
 ---
 
-This article lists the postures of the Primary Series as taught by BNS Iyngar, along with a fairly standard variant of the encompassing vinyāsa,^[The vinyāsa qre based quite heavily on a video produced by Andrew Eppler, as part of the Yoga Methodology unit in his <a href="https://ashtangayogastudio.com/200hrtraining" target="_blank">Intensive Training</a> course.]  The postures are identified by their Sanskrit names, along with english translations.
+This article lists the postures of the Primary Series as taught by BNS Iyngar, along with a rendering of the encompassing vinyāsa.[^vinyasa] The postures are identified first in Sanskrit and then in English translation.
+
+[^vinyasa]: The term *vinyāsa* is often used loosely to refer to the sequence of movments that form a transition from one seated posture to the next---liftng up, jumping/stepping back to plank, up-dog, down-down, jump/step through to a sitting position to begin the next posture---but here it is used in its strict sense as one-half of a breath (either the inhale or the exhale) that is to be associated with a particular movement between postures as opposed to breaths taken while in the postures themselves.
+
+    Both the loose and strict sense of the term appear to have been introduced in the 20th century, probably by Tirumalai Kṛśṇamācharya, the developer of Aṣṭāṅga Yoga.  See <a href="https://www.theluminescent.org/2016/07/vinyasa-medieval-and-modern-meanings.html" target="_blank">this article</a> for more information on the term.]
 
 It is important to bear in mind that, just as the postures themselves should be modified to individual bodies and needs, so the encompassing vinyāsa count should treated as aspirational only and should be subject to adjustment.  Even experienced persons who come to the practice with considerable bodily gifts find themselves adding breaths, especially as they move into or out of postures.
-
-**Terminological Note**: The term *vinyāsa* is often used loosely to refer to the sequence of movments that form a transition from one seated posture to the next---lifitng up, jumping/stepping back to plank, up-dog, down-down, jump/step through to a sitting position to begin the next posture---but here it is used in its strict sense as one-half of a breath (either the inhale or the exhale) that is to be associated with a particular movement between postures as opposed to breaths taken while in the postures themselves.^[Both the loose and strict sense of the term appear to have introduced in the 20th century, probably by Tirumalai Kṛśṇamācharya, the developer of Aṣṭāṅga Yoga.  See <a href="https://www.theluminescent.org/2016/07/vinyasa-medieval-and-modern-meanings.html" target="_blank">this article</a> for more information on the term.]
 
 
 ## sūryanamaskāra Sequences
@@ -18,7 +20,7 @@ Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" t
 
 ### sūryanamaskāra A Sequence
 
-Repeat this sequence 4-5 times.  Only one posture of the sequence (adhomukhaśvānāsana)(is held.
+Repeat this sequence 4-5 times.  Only one posture of the sequence (adhomukhaśvānāsana) is held.
 
 Begin in __samasthitiḥ__.
 
@@ -42,7 +44,7 @@ Begin in __samasthitiḥ__ from the final iteration of the sūryanamakāra A seq
 1. inhale: raise arms and look up, to __ūrdhvavṛkṣāsana__ (Upward Tree Posture)
 1. exhale: fold down to __uttanāsana A__ (Stretching Out Posture A)
 1. inhale: straighten the spine and look forward but stay down (this is __uttanāsana B__, Stretching Out Posture A)
-1. exhale: jump/step back to __caturaṅgadaṇḍāsana__ (Four-Limbed Stick Posture)
+1. exhale: jump/step back to __caturaṅgadaṇḍāsana__ (Four-Limbed Stick Posture, ommonly known as Plank)
 1. inhale: press up, bending back and looking up, to __ūrdhvamukhaśvānāsana__ (Upward-Face Dog Posture)
 1. exhale: to __adhomukhaśvānāsana__ (Downward-Face Dog Posture).  *Do not hold this posture.*
 1. inhale:  step right foot forward between hands, come up to __vīrabhadrāsana A__ (Auspicious Hero Posture A)
@@ -357,7 +359,7 @@ Transition to other side (2):
 
 Exiting vinyāsa (4):
 
-1. exhale: turn torso to front of mat, hands to floor, step back to caturaṅgadaṇḍāsana
+1. exhale: turn torso to front of mat, hands to floor, step back and down into Plank
 1. inhale: to Up dog
 1. exhale: to Down Dog
 1. inhale: step/jump through to seated position
@@ -366,194 +368,452 @@ Exiting vinyāsa (4):
 
 *English*: Stick Posture
 
-
+No encompassing vinyāsa:  simply hold for the usual five breaths.
 
 ### paścimottānāsana
 
 *English*: West Stretching out Posture
 
-ex, in ex then start 5 breaths 
+There are three phases:  A, B and C.
 
-three versions
+Entering vinyāsa into A (2):
 
-3-2-2
+1. inhale: take big toes with thumbs and forefingers, lengthen spine, look up
+1. exhale: fold forward
+
+Transition vinyāsa to B (2):
+
+1. inhale: straighten the spine and look up, grasping around soles of feet
+1. exhale: fold forward
+
+Transition vinyāsa to C (2):
+
+1. inhale: straighten the spine and look up, clasping left wrist with right hand beyond feet
+1. exhale: fold forward
+
+Exiting vinyāsa from C (1):
+
+1. inhale: straighten the spine and look up
 
 ### pūrvottānāsana
 
 *English*: East Stretching out Posture
 
-4 to enter:
+Entering Vinyāsa (3):
 
-* in head up
-* ex hands back
-* in lift
-* ex
+1. exhale:  release hands, place them on the about a foot behind the hips, fingers forward
+1. inhale: lift the torso, look back
+1. exhale:  hold
 
-standard jump-back and jump-through: 5 count
+Exiting vinyāsa:
 
-* in release
-* ex back 
-* in up-dog
-* ex down-dog
-* in jump through
+1. exhale:  lower torse back down, sit up to daṇḍāsana
+
+The following sequence of vinyāsas, often referred to as "taking your vinyāsa", is the standard transition between seated postures:
+
+1. inhale: having released the previous posture, lift up
+1. exhale: jump/step back to caturaṅgadaṇḍāsana
+1. inhale: to Up Dog
+1. exhale: to Down Dogog
+1. inhale: jump/step through to sitting
 
 ### ardhabaddhapadmapaścimottānāsana
 
 *English*: Half Bound Lotus West Stretching out Posture
 
-* in half-lotus
-* ex reach around
-* in look up
-* ex fold forward
+Entering vinyāsa (4):
 
-So that's actually a 9-count vinyāsa
+1. inhale: right leg into half-lotus
+1. exhale: reach right hand around back to bind with right foot
+1. inhale: take big toe of left foot with free hand, straighten the spine, look up
+1. exhale: fold forward over the left leg
 
-But there are two inhales in a row!
+Exiting vinyāsa (2):
 
-exit is:
+1. inhale:  lengthen spine, look up
+2. exhale:  release posture
 
-*in undo
-* ex jump back
-* in up
-* ex down
-* in jump
-* ex lotus
-* in look up
-* ex fold
+Then:
+
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
 
 ### tryaṅgamukhaikapādapaścimottānāsana
 
 *English*: Three-Limbed Face to One Leg West Stretching out Posture
 
-* in release
-* ex back
-* in up
-* ex down
-* in through into posture and look up
-* ex fold
+Entering vinyāsa (4):
 
+1. inhale: place right foot alongiside right hip, sole up
+1. exhale: finish the maneuver, or hold
+1. inhale: lengthen spine, grab around sole of left foot with both hands, look up
+1. exhale: fold forward over the left leg
 
-### jānuśīrṣāsana
+Exiting vinyāsa (2):
+
+1. inhale:  lengthen spine, look up
+2. exhale:  release posture
+
+Then:
+
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
+
+### jānuśīrṣāsana A
 
 *English*: Head to Knee Posture
 
-* 8 to enter
-* 10 to transition to next side
+This posture has three variants:  A, B and C.
 
-or think of it as 8 to get in, 2 to get out
+Entering vinyāsa (2):
 
-### marīcyāsana
+1. inhale: place right foot alongside inner left thigh, heel near groin; grab around sole of left foot with both hands; lengthen spine, look up
+1. fold forward over the left leg
 
-*English*: Marīci Posture
+Exiting vinyāsa (2):
 
-This posture is dedicated to the sage <a href="https://en.wikipedia.org/wiki/Marichi" target="_blank">Marīci</a>.  There are four variations:  A, B, C and D.
+1. inhale:  lengthen spine, look up
+2. exhale:  release posture
 
-* ex bend knee
-* in forward
-* ex complete the wrap around
-* in look up
-* ex fold forward
+Then:
 
-10 counts on both sides
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
 
-B:  10 to get in, both sides
+### jānuśīrṣāsana B
 
-C:  5+3 to get in: ex knee up in twist exwarp around and grab
+Entering vinyāsa (4):
 
-D:  5 + ex lotus, in knee up, ex twist, in arm up, ex wrap around and grab
+1. inhale: place right foot alongside inner left thigh, heel near groin
+1. exhale: twist right, placing left hand on floor under right knee, palm down
+1. inhale: lengthen spine
+1. exhale: fold and twist down and to the right, over left leg, grabbing left foot with both hands
+
+Exiting vinyāsa (2):
+
+1. inhale:  lengthen spine, look up
+2. exhale:  release posture
+
+Then:
+
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
+
+### jānuśīrṣāsana C
+
+Entering vinyāsa:
+
+1. inhale: lift right leg, grabbing heel and middle of right foot with the hands
+1. exhale: place ball of right foot on floor against inner left thigh near groin, heel over ball of foot
+1. inhale:  grab around sole of left foot with both hands, lengthen spine, look up
+1. exhale:  fold forward over the left leg
+
+Exiting vinyāsa (2):
+
+1. inhale:  lengthen spine, look up
+2. exhale:  release posture
+
+Then:
+
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
+
+### marīcyāsana A
+
+*English*: Marīci Posture^[This posture is dedicated to the sage <a href="https://en.wikipedia.org/wiki/Marichi" target="_blank">Marīci</a>.]
+
+There are four variations:  A, B, C and D.
+
+Entering vinyāsa into A (6):
+
+1. inhale: bend right knee, planting foot near right hip, lean forward
+1. exhale: lean forward, right arm reaches forward
+1. inhale: right arms begins to wrap around
+1. exhale: left arm reaches around, right hand grabs left hand/wrist
+1. inhale: lengthen spine, look up
+1. exhale: fold forward over left leg
+
+Exiting vinyāsa (2):
+
+1. inhale:  lengthen spine, look up
+2. exhale:  release posture
+
+Then:
+
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
+
+### marīcyāsana B
+
+Entering vinyāsa into B (6):
+
+1. inhale: right leg into half-lotus
+1. exhale: bend left knee, planting foot near left hip, lean forward
+1. inhale: left arm reaches forward and begins to wrap around
+1. exhale: right arm reaches around, left hand grabs right hand/wrist
+1. inhale: lengthen spine, look up
+1. exhale: fold forward, head toward floor
+
+Exiting vinyāsa (2):
+
+1. inhale:  lengthen spine, look up
+2. exhale:  release posture
+
+Then:
+
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
+
+### marīcyāsana C
+
+Entering vinyāsa into C (8):
+
+1. inhale: bend right knee, planting foot near right hip
+1. exhale: twist to the right
+1. inhale: keep twisting until left shoulder is beyond right knee
+1. exhale: left arm wraps around right shin
+1. inhlae: right arm begins to reach around
+1. exhale: left hand grabs right hand/wrist
+1. inhale: lengthen spine, look up
+1. exhale: deepen twist into the posture
+
+Exiting vinyāsa (2):
+
+1. inhale:  lengthen spine, look forward
+2. exhale:  release posture
+
+Then:
+
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
+
+### marīcyāsana D
+
+Entering vinyāsa into D (8):
+
+1. inhale: right leg into half-lotus
+1. exhale: bend left knee, planting foot near left hip
+1. inhale: begin twist to the left
+1. exhale: keep twisting until right shoulder is beyond left knee
+1. inhale: left arm begins to wrap around right shin
+1. exhale: right arm wraps behind back, left hand grabs right hand/wrist
+1. inhale: lengthen spine, look up
+1. exhale: deepen twist into the posture
+
+Exiting vinyāsa (2):
+
+1. inhale:  lengthen spine, look forward
+2. exhale:  release posture
+
+Then:
+
+* take your vinyāsa
+* repeat the posture on the other side
+* take your vinyāsa
 
 ### nāvāsana
 
 *English*: Boat Posture
 
-5 to enter, begin count in exhale,
+This posture is repeated five times.
 
-inhale up, exhale back into posture
+Entering vinyāsa (0);
+
+* in the final exhale of "taking your vinyāsa", you don't go into seated position; instead you raise the legs and hold out the arms.
+
+Transition vinyāsa betwee repetitions (2):
+
+1. inhale: lift up
+1. exhale: lower down, raise the legs and hold out the arms
+
+Then take your vinyāsa.[^This concludes what is known as "Half-Primary Series."]
 
 ### bhujapīḍāsana
 
 *English*: Pressure on the Shoulders Posture
 
-in jump around, ex the start counting
+This postures has two phases:  A and B.
 
-on 5th ex, tuck down to B
+Entering vinyāsa into A (4):
+
+1. inhale: jump/step forward, feet a bit beyond the hands
+1. exhale: work thighs onto triceps near shoulders
+1. inhale: using the triceps as a shelf for the body, lift up until feet are off the floor
+1. exhale: cross the feet, look forward
+
+Transition vinyāsa to B:
+
+1. on fifth exhale of A, tuck down into B:  bend arms, lower head to floor, crown of head or forehead eventually touching floor
+
+Exiting vinyāsa:
+
+1. inhale: lift head back up
+1. exhale: uncross feet, bend knees fo feet are pointed back, soles up
+1. inhale: lift body a bit
+1. exhale: jump back
+
+Continue taking your vinyāsa.
 
 ### kūrmāsana
 
 *English*: Tortoise Posture
 
-officially: in jump around, exhale flatten out
+Entering vinyāsa into A (4+):
+
+1. inhale: jump/step forward, feet a bit beyond the hands
+1. one or more breaths, ending on an exhale: flatten torso towards the floor, with arms out wide under legs, palms down
 
 
 ### suptakūrmāsana
 
 *English*: Sleeping Tortoise Posture
 
-for the "less advanced" version, it's 2 to enter
+Entering vinyāsa (2+):
+
+1. within kūrmāsana, move feet toward each other with the intent to cross the legs at the ankles, behind the head or neck; end on an exhale
+
+Exiting vinyāsa (2):
+
+1. inhale: uncross legs
+1. exhale: sit up
+
+Then take your vinyāsa.
 
 ### garbhapiṇḍāsana
 
 *English*: Embryo in the Womb Posture
 
-ex into padma, in right hand ex left hand. take 5, then roll 9 times
+Entering vinyāsa:
+
+1. inhale: right leg into half-lotus
+1. exhale: left leg completes lotus
+1. inhale/exhale: right arm through gap between thigh and shin
+1. inhale/exhale: left arm through gap
+1. inhale: place palms on sides of head
+
+Exhaling roll back, inhaling roll up; repeat 5-9 times.[^This is the one posture that is held while moving!]
 
 ### kukkuṭāsana
 
 *English*: Rooster Posture
 
-you come up into it on an inhale
+Come up into it on inhale from final roll of garbhapiṇḍāsana.
+
+Posture is held balancing on the hands.
+
+Exiting vinyāsa (3):
+
+1. on final exhale, place lower to sit
+1. inhale: begin to release lotus
+1. exhale:  finish releasing lotus
+
+Take your vinyāsa.
 
 ### baddhakoṇāsana
 
 *English*: Bound Angle Posture
 
-no problem
+This posture has two phases:  A and B.
+
+Entering vinyāsa into A:
+
+1. inhale: place soles of feet together near groin
+1. exhale: open hips to lower knees to floor
+
+Transition vinyāsa to B (2):
+
+1. inhale:  hold
+1. exhale:  fold forward, head to floor
+
+Exiting vinyāsa (2):
+
+1. inhale:  rise up
+1. exhale:  release posture
+
+Take your vinyāsa.
 
 ### upaviṣṭakoṇāsana
 
-*English*: "Entered Into" Angle Posture
+*English*: "Entered-into" Angle Posture[^*upaviṣṭa* can mean "seated" but here it most likely refers to the way that the forward-folding torso "enters into" the angle formed by the legs.]
 
-**Note**: *upaviṣṭa* can also mean "seated" but here it most likely refer to the way that the forward-folding torso "enters into" the angle formed by the legs.
+This posture has two phases:  A and B.
 
-* ex spread legs out
-* in grab toes and look up
-* ex fold
+Entering vinyāsa into A (3):
 
-then in look up ex grab toes and all up
+1. last exhale from taking vinyāsa: spread legs out on floor
+1. inhale:  lengthen spine, grab both feet, look up
+1. exhale:  fold forward, torso to floor
 
+Transition vinyāsa to B (2):
+
+1. inhale: bring legs up
+1. exhale: straighten legs, sit back to balance, looking up
 
 ### suptakoṇāsana
 
 *English*: Sleeping Angle Posture
 
-no jump-through transition, instead just
-in get read ex roll back
+This posture has two phases:  A and B.
 
-in roll up, ex come down
+Entering vinyāsa to A (1):
 
-and then do another 5 breaths!
+1. last exhale in upaviṣṭakoṇāsana B:  roll back onto shoulders, feet to floor; grip has switched to big toes
 
-### suptapadāṅguṣṭhāsana
+Transition vinyāsa to B (2):
 
-*English*: Sleeping Thumb to Foot Posture
+1. inhale: roll up
+1. exhale: roll down to enter same position as A
 
-There are four stages:  A, B, C, D.
+Exiting vinyāsa (2):
 
-* ex down
-* in leg up
-* ex draw shouler down
+1. inhale:  lengthen spine, look up
+1. exhale:  release posture
 
-then B
+Take your vinyāsa.
 
-then enter C
+### suptapādāṅguṣṭhāsana
 
-* on 5th exhale, flip hand over
-* in bring leg around
-* ex head within
+*English*: Sleeping Thumb-to-Foot Posture
 
-another to count to enter D
+This posture has four phases:  A, B, C, D.
 
-Consider taking chakrāsana for the transition out.
+Entering vinyāsa into A (3):
+
+1. exhale: lie down
+1. inhale: raise right leg, grasp big toe
+1. exhale: draw right shoulder back down to floor
+
+Transition vinyāsa to B:
+
+1. last exhale of A:  lower leg out to right, to the floor
+
+Transition vinyāsa to C (3):
+
+1. exhale: bend the right knee a bit and draw the leg in, changing grip on foot
+1. inhale: draw foot over to right side of the body
+1. exhale: insert head between right shin and right forearm
+
+Transition vinyāsa to D ():
+
+1. inhale: remove head, place it back to the floor, extend right leg
+1. exhale: both hands grasp around sole of right foot, drawing the leg toward floor alongside of the head
+
+Exiting vinyāsa (2):
+
+1. inhale: hold
+1. exhale:  release foot, lower leg to floor
+
+Repeat the posture on the left side.
+
+Consider taking chakrāsana for the transition to the next posture (or just sit up and take the regular vinyāsana).
 
 ### ubhayapādāṅguṣṭhāsana
 
