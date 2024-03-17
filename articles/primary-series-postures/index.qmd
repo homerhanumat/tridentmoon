@@ -1,6 +1,6 @@
 ---
 title:  "Postures of the Primary Series"
-draft: true
+draft: false
 ---
 
 This article lists the postures of the Primary Series as taught by BNS Iyngar, along with a rendering of the encompassing vinyāsa.[^vinyasa] The postures are identified first in Sanskrit and then in English translation.
@@ -699,7 +699,7 @@ Entering vinyāsa:
 1. inhale/exhale: left arm through gap
 1. inhale: place palms on sides of head
 
-Exhaling roll back, inhaling roll up; repeat 5-9 times.[^This is the one posture that is held while moving!]
+Exhaling roll back, inhaling roll up; repeat 5-9 times.^[This is the one of only two postures that are held while moving!]
 
 ### kukkuṭāsana
 
@@ -742,7 +742,7 @@ Take your vinyāsa.
 
 ### upaviṣṭakoṇāsana
 
-*English*: "Entered-into" Angle Posture[^*upaviṣṭa* can mean "seated" but here it most likely refers to the way that the forward-folding torso "enters into" the angle formed by the legs.]
+*English*: "Entered-into" Angle Posture^[*upaviṣṭa* can mean "seated" but here it most likely refers to the way that the forward-folding torso "enters into" the angle formed by the legs.]
 
 This posture has two phases:  A and B.
 
@@ -819,108 +819,242 @@ Consider taking chakrāsana for the transition to the next posture (or just sit 
 
 *English*: Thumbs to Both Feet Posture
 
-the roll-back comes after!
+This posture has two phases:  A and B.
+
+Entering vinyāsa into A (2):
+
+1. inhale: lift both legs, grabbing big toes
+1. exhale: straighten legs, look up
+
+Transition vinyāsa to B (1):
+
+1. final exhale of A: roll back onto shoulders
+
 
 ### ūrdhvamukhapaścimottānāsana
 
 *English*: Upward Face West Stretching out Posture
 
-roll up into this, no jump-through
+Entering vinyāsa (2):
+
+1. inhale: flick shoulders to stimulate the roll up
+2. exhale: switch grip on feet to around soles, fold toward legs
+
+Exiting vinyāsa (1):
+
+1. final exhale of posture:  release feet, lower legs
+
+Take your vinyāsa.
 
 ### setubandhāsana
 
 *English*: Bridge-Binding Posture
 
-10 to enter
+Entering vinyāsa (5):
 
-Again consider chakrāsana for the transition out.
+1. exhale: lie back
+1. inhale: draw feet one third of the way toward the hips
+1. exhale: place hands under upper thighs
+1. inhale: arch and place crown of head on floor
+1. exhale: press up and back, moving hands to floor palms down for support^[Or the advanced version:  arms crossed over chest.]
+
+Exiting vinyāsa (1):
+
+1. final exhale:  lower down, straigthen legs
+
+
+Consider taking chakrāsana for the transition to the next posture (or just sit up and take the regular vinyāsana).
 
 ### ūrdhvadhanurāsana
 
 *English*: Upward Bow Posture
 
-not more than 3 breaths between
+Entering vinyāsa (3):
 
-do some kind of forward fold after
+1. exhale: lie back
+1. inhale: pull feet up
+1. exhale: set hands
+1. inhale: press up
+
+Exiting vinyāsa:
+
+1. final exhale:  come down
+
+Repeat the posture at least three times.  Try not to take more than three breaths in between each one.
+
+Afterwards, sit up and do some kind of forward fold.
+
+Take your vinyāsa.
 
 ## Closing Sequence
 
+Postures in this sequence are held for eight breaths, unless otherwise indicated.
+
 ### sālambhasarvāṅgāsana
 
-*English*: Posture where All Limbs have Suppport
+*English*: Posture where All Limbs have Suppport (AKA Shoulder Stand)
 
-in down, ex up
+Entering vinyāsa (5):
+
+1. exhale: lie down
+1. inhale: work one should deeply behind back
+1. exhale: work other shoulder behind back, hands on floor beside hips, palams down
+1. inhale: roll legs up
+1. exhale: hands to back, work body more over shoulders
+
+Hold the posture for 10-25 breaths.
+
 
 ### hālāsana
 
 *English*: Plow Posture
 
+Entering vinyāsa (1):
+
+1. final exhale of sālambhasarvāṅgāsana: legs down until toes touch floor behind head, hands to floor, palms down, for support^[You may also clasp hands together on the floor.]
+
 ### karṇapīḍāsana
 
 *English*: Pressure on the Ears Posture
 
-one ex in
+Entering vinyāsa (1):
+
+1. final exhale of hālāsana: bend the knees, bringing them near the ears
 
 
 ### ūrdhvapadmāsana
 
 *English*: Upward Lotus Posture
 
-4 to enter
+Entering vinyāsa (4):
+
+1. inhale:  lift legs back to Shoulder Stand, hands return to the back
+1. exhale/inhale/exhale: place legs in lotus (you may remove hands form back to assist in this), by the end the hands are on the knees with arms straight
+
 
 ### piṇḍāsana
 
 *English*: Embryo Posture
 
-2 to enter
+Entering vinyāsa (1):
 
+1. final exhale of ūrdhvapadmāsana: staying in lotus, bring the knees down, clasping hands around to hug around the legs
 
 ### matsyāsana
 
 *English*: Fish Posture
 
-2 to enter
+Entering vinyāsa (5):
+
+1. final exhale of piṇḍāsana:  roll down along spine
+1. inhale:  hands under upper thigns, lift hips slightly, supporting lower bodu on elbows
+1. exhale/inhale/exhale: arch back, work crown of head to floor, place hands on feet with arms straight
 
 ### uttānapādāsana
 
 *English*: Legs Stretching out Posture
 
-2 to enter
+Entering vinyāsa (2):
+
+1. inhale: release hands from feet
+1. exhale: release lotus, extend legs and arms
+
+Consider taking chakrāsana for the transition to the next posture (or just sit up and take the regular vinyāsana), but only halfway (see next posture).
 
 
 ### śīrṣāsana
 
 *English*: Head[stand] Posture
 
-25 breaths, then come down holding for 5, maybe even do that three times
+Entering vinyāsa:
 
-interesting he says in down ex up
+1. inhale: from Down Dog, form a triangle with the forearms
+1. exhale: nestle head between palms, walk feet toward head
+1. inhale: lift up into posture
+
+Hold for 10-15 breaths.
+
+### ūrdhvadaṇḍāsana
+
+*English*: Upward Stick Posture
+
+This posture has two phases:  A and B.
+
+Entering vinyāsa into A (1):
+
+1.  final exhale of śīrṣāsana:  lower legs halfway down
+
+This posture is held for five breaths.
+
+Transition vinyāsa to B (1):
+
+1. inhale:  raise legs back up to śīrṣāsana
+
+For B:
+
+1. exhale: lower legs until toes nearly touch the floor
+1. inhale: raise legs back up to śīrṣāsana
+
+Repeat the above motion ten times.^[This is the second and last posture that is "held" while moving]
 
 ### bālāsana
 
 *English*: Child Posture
+
+Entering vinyāsa:
+
+1.  exhale: lower legs until toes touch the floor, bend knees, come down into posture
+
+Hold this posture 4-5 breaths.
 
 
 ### baddhapadmāsana
 
 *English*: Bound Lotus Posture
 
-generally folks just sit down into this after previous
+Entering vinyāsa: Most people just rise from bālāsana and sit down, then:
+
+1. inhale: right leg into half-lotus
+1. exhale: left leg completes lotus
+1. inhale: left arms wraps around
+1. exhale: left hand grabs left foot
+1. inhale: right arms wraps around
+1. exhale: right hand grapbs right foot
+1. inhale: look up
+1. exhale: fold forward, head to floor
+
+Exiting vinyāsa (1):
+
+1. inhale: rise back up, release feet
+
 
 ### padmāsana
 
 *English*: Lotus Posture
 
-minimum 25 in this posture
+Entering vinyāsa (1):
 
-prāṇāyāma, mudras encouraged here
+1. exhale: hands to knees, in mudrā
+
+Hold this posture 10-25 breaths.
 
 ### tolāsana
 
-*English*: Lift Posture
+*English*: Lift Posture^[Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*.]
 
-**Note**:  Monier-Williams cites *tolana* as "lifitng up" in the Rāmāyana.
+Entering vinyāsa:
+
+1. inhale:  releasing hands from mudrā, place them on the floor palms beside hips and lift off the floor
+
+Hold this posture at least five breaths. (Some suggest working up to 25 breaths; others suggest that the number of breaths should equal one's age.)
+
+Exiting vinyāsa (1):
+
+1. exhale:  lower back down
+1. inhale/exhale: release lotus, lie down into śāvāsana
 
 ### śāvāsana
 
 *English*: Corpse Posture
+
+Release all bandhas, cease ujjāyi breathing.  Relax for at least five minutes.
