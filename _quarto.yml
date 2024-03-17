@@ -37,6 +37,8 @@ website:
           contents: 
             - text: "Ashtanga Resources"
               href:  articles/ashtanga-resources/index.qmd
+            - text: "Primary Series Postures"
+              href:  articles/primary-series-postures/index.qmd
         - section: "Posts"
           href: posts/index.qmd
           #contents: "posts/*/*.qmd"
