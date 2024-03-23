@@ -1,5 +1,9 @@
 ---
 title: "Welcome to Trident Moon!"
+description-meta: >
+    Ashtanga Yoga in Central Kentucky.  Information on classes,
+    articles about Ashtanga, Sanskrit, Tantra and related topics.
+    Resources for students.
 ---
 
 Trident Moon promotes the practice of Aṣṭāṅga Yoga and meditation in Central Kentucky.
