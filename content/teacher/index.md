@@ -6,6 +6,24 @@ featured_image: images/shiva_moon_landscape-2.jpg
 type: page
 ---
 
+<figure class="center mw5 pb3">
+    <img src="/images/Homer_MPC.jpeg" class="br-100 mw5">
+    <figcaption class="tc mw5 center">
+    Hello, I'm Homer White!
+    </figcaption>
+</figure>
+
+{{< rawhtml >}}
+<div class="mw7 center">
+<ul class="ul-socials mw7 center">
+    <li><a class="f5 grow no-underline br-pill ba bw2 ph3 pv2 mb2 dib near-black" href="https://www.instagram.com/tridentmoonyoga" target="_blank">Instagram</a></li>
+    <li><a class="f5 grow no-underline br-pill ba bw2 ph3 pv2 mb2 dib near-black" href="https://www.facebook.com/profile.php?id=61556987980351" target="_blank">Facebook</a></li>
+    <li><a class="f5 grow no-underline br-pill ba bw2 ph3 pv2 mb2 dib near-black" href="mailto:tridentmoonyoga@gmail.com" target="_blank">&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;&nbsp;</a></li>
+</ul>
+</div>
+<hr>
+{{< /rawhtml >}}
+
 ## My First Teachers
 
 <img class="image-left-250" src="/images/hittleman.jpeg">One's parents are one's first--and hopefully best-- teachers.  From my father I acquired a love of science and mathematics.  My mother took up Yoga in 1971 when I was eight years old.  (I remember thumbing through her copy of Richard Hittleman's *Yoga:  A 28-Day Exercise Plan* and trying out the postures, imitating what I imagined to be practice of sages in the mountains and forests of Eastern lands.)  Together the two of them fostered a home-environment that was perhaps unsusal for native Southerner familes of that generation:  rationalist, humanist, and religiously free-thinking, albeit with a slight New Age twist.
