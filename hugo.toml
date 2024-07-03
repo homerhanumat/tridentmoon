@@ -21,8 +21,8 @@ enableEmoji = true
   favicon = "/images/trident_favicon.jpg"
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = "https://www.facebook.com/profile.php?id=61556987980351"
-  instagram = "https://www.instagram.com/tridentmoonyoga"
+  #facebook = "https://www.facebook.com/profile.php?id=61556987980351"
+  #instagram = "https://www.instagram.com/tridentmoonyoga"
   youtube = ""
   github = ""
   gitlab = ""
@@ -39,6 +39,20 @@ enableEmoji = true
   site_header_text_background_color = "rgba(50, 50, 50, 0.7);"
   page_header_text_background_color = "rgba(50, 50, 50, 0.7)"
   custom_css = ["css/custom.css"]
+
+[[params.ananke_socials]]
+  name = "facebook"
+  url = "https://www.facebook.com/profile.php?id=61556987980351"
+
+[[params.ananke_socials]]
+  name = "instagram"
+  url = "https://www.instagram.com/tridentmoonyoga"
+
+[[params.ananke_socials]]
+  name = "email"
+  url = "mailto:tridentmoonyoga@gmail.com"
+  #label = "Email"
+
 
 [markup.goldmark.renderer]
   unsafe = true
