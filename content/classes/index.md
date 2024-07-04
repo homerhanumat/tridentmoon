@@ -31,10 +31,9 @@ All classes are at <a href="https://gscparks.com/facilities/the-pavilion/" targe
 
 The Pavilion is run by Georgetown/Scott County Parks and Recreation.  Classes are free for Pavilion members.  For non-members the rates are:
 
-* $8 (single class, Scott County resident)
-* $10 (single class, non-resident)
-* $40 (ten-class pass, resident)
-* $40 (ten-class pass, non-resident)
+* $8 (single class, adultScott County resident)
+* $10 (single class, adult non-resident)
+* $4 (Georgetown College student)
 
 ## (Starting July 23) Sole Collective Classes
 
@@ -44,3 +43,5 @@ The <a href="https://www.instagram.com/solecollective.studio/" target="_blank">S
 * Thursdays, 5:30-7:00pm.
 
 I'll accomodate people who are new to Aṣṭāṅga, but the aim will be to move people quickly into guided Primary Series.
+
+Book classes on the Sole Collective website.  Currently the price for a drop-in class is $20.
