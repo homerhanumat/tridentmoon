@@ -27,7 +27,7 @@ This class presumes familiarity with Sun Salutations and the fundamental standin
 
 ### Location and Pricing
 
-All classes are at <a href="https://gscparks.com/facilities/the-pavilion/" target="_blank">The Pavilion</a>in Georgetown, KY.
+All classes are at <a href="https://gscparks.com/facilities/the-pavilion/" target="_blank">The Pavilion</a> in Georgetown, KY.
 
 The Pavilion is run by Georgetown/Scott County Parks and Recreation.  Classes are free for Pavilion members.  For non-members the rates for a day-pass are:
 

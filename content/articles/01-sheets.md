@@ -56,6 +56,7 @@ Dr. Ronald Steiner collects a number of useful Aṣṭāṅga resources on his w
 
 * I teach a version of Primary Series of Aṣṭāṅga Yoga that was passed down by BNS Iyengar of Mysore, India, to my own teacher Andrew Eppler.  One of Andrew's students, Joey Paz, has produced a very accurate video of himself performing the BNS Iyengar Primary Series.  It can be purchased for a low price <a href="https://www.joeypazyoga.com/bns-primary-series" target="_blank">here</a>.
 * In this <a href="https://www.youtube.com/watch?v=1Krp4W0TlAU" target="_blank">Youtube video</a>, <a href="https://www.petriandwambui.com/wambui/" target="_blank">Wambui Njuguna-Räisänen</a> leads a student through a large fraction of the Primary Series, offering very sensible modifications to the postures. (Wambui follows the more-commonly seen "Patabhi Jois" version of the Primary Series, so you'll notice a few small difference from what we do in class.)
+* The jump-through portion of the vinyāsa transition is a frequent point of inquiry among students.  In <a href="https://www.youtube.com/watch?v=Y1SL70mDLOw" target="_blank">this video</a> Laruga Glaser describes a sequence of modifications that many people find useful to train for the full jump-through.
 
 ## Mats and Rugs
 
