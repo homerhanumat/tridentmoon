@@ -37,7 +37,7 @@ The Pavilion is run by Georgetown/Scott County Parks and Recreation.  Classes ar
 
 ## (Starting July 23) Sole Collective Classes
 
-The <a href="https://www.instagram.com/solecollective.studio/" target="_blank">Sole Collective</a>, conveniently located in downtown Georgetown,]holds its Grand Opening on July 6, and I'll begin teaching classes there on July 23.  Schedule is:
+The <a href="https://www.instagram.com/solecollective.studio/" target="_blank">Sole Collective</a>, conveniently located in downtown Georgetown, holds its Grand Opening on July 6, and I'll begin teaching classes there on July 23.  Schedule is:
 
 * Tuesdays and Thursday, 6:00-7:45am;
 * Thursdays, 5:30-7:00pm.
