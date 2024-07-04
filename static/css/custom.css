@@ -1,3 +1,5 @@
+/* for the social links on the about page */
+
 .ul-socials {
   list-style-type: none !important;
   padding: 0;
@@ -14,49 +16,18 @@
   padding: 8px;
   margin: 10px;
 }
+  
+/* wrapping text around an image */
 
- .dropdown {
-    position: relative;
-    display: inline-block;
+.image-left-250 {
+    width: 250px !important;
+    float: left;
+    padding: 0 15px 15px 0;
   }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: rgba(50, 50, 50, 0.5);
-    list-style-type: none; /* Remove bullets */
-    margin: 0; /* Remove margins */
-    min-width: 120px;
-    padding: 6px 8px;
-    z-index: 1;
+
+  .image-right-250 {
+    width: 250px !important;
+    float: right;
+    padding: 0  15px 15px;
   }
-  
-  .dropdown-content li a {
-    color: #f8f8ff;
-    opacity: 92%;
-    text-decoration: none;
-  }
-  
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-  
-  .dropdown .dropdown-content li a:hover {
-    color: white;
-    opacity: 100%;
-  }
-  
-  /* wrapping text around an image */
-  
-  .image-left-250 {
-      width: 250px !important;
-      float: left;
-      padding: 0 15px 15px 0;
-    }
-  
-    .image-right-250 {
-      width: 250px !important;
-      float: right;
-      padding: 0  15px 15px;
-    }
-  
+
