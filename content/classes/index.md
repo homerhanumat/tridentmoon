@@ -29,10 +29,10 @@ This class presumes familiarity with Sun Salutations and the fundamental standin
 
 All classes are at <a href="https://gscparks.com/facilities/the-pavilion/" target="_blank">The Pavilion</a>in Georgetown, KY.
 
-The Pavilion is run by Georgetown/Scott County Parks and Recreation.  Classes are free for Pavilion members.  For non-members the rates are:
+The Pavilion is run by Georgetown/Scott County Parks and Recreation.  Classes are free for Pavilion members.  For non-members the rates for a day-pass are:
 
-* $8 (single class, adultScott County resident)
-* $10 (single class, adult non-resident)
+* $8 (adultScott County resident)
+* $10 (adult non-resident)
 * $4 (Georgetown College student)
 
 ## (Starting July 23) Sole Collective Classes
