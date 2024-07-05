@@ -14,7 +14,7 @@ A small list:
 * My own teacher is <a href="https://ashtangayogastudio.com/" target="_blank">Andrew Eppler</a> in Oklahoma.
 * <a href="https://www.ashtanga.net/" target="_blank">David Swenson</a> is one of the earliest American students of Aṣṭāṅga, and he still travels quite a bit to give Workshops.
 * I have learned a lot over the years by visiting with <a href="https://www.ashtangayogacenter.com/" target="_blank">Tim Miller</a>, but he seems to be retired now.
-* <a href="https://ashtangayogaclubdurham.com/" target="_blank">The Ashtanga Yoga Club of Durham</a> was founded by the late Suzanne Faulkner, one of the saints of the Aśṭāṅga community, along with her partner Nikos.  Now it continues under the leadership of Suzanne's yoga-sister <a href="https://joannadarlington.com/" target="_blank">Joanna Darlington</a>.  Both were students of <a href="https://davidgarrigues.com/" target="_blank">David Garrigue</a>, whose approach to the practice integrates elements of alignment-awareness.
+* <a href="https://ashtangayogaclubdurham.com/" target="_blank">The Ashtanga Yoga Club of Durham</a> was founded by the late Suzanne Faulkner, one of the saints of the Aṣṭāṅga community, along with her partner Nikos.  Now it continues under the leadership of Suzanne's yoga-sister <a href="https://joannadarlington.com/" target="_blank">Joanna Darlington</a>.  Both were students of <a href="https://davidgarrigues.com/" target="_blank">David Garrigue</a>, whose approach to the practice integrates elements of alignment-awareness.
 
 ## Primary Series Postures
 
