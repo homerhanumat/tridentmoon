@@ -52,6 +52,6 @@ Although not designed specifically as a form of exercise, Aṣṭāṅga is none
 
 ## Note on Lineage
 
-<img class="image-right-250" src="/images/galavasana.jpg">My most extensive formal training in Aṣṭāṅga is from <a href="https://ashtangayogastudio.com/" target="_blank">Andrew Eppler</a> in the form of a 200-hour Intensive Training, in virtue of which I am <a href="https://www.yogaalliance.org/TeacherPublicProfile?tid=326005" target="_blank">registered</a> with the Yoga Alliance as a teacher.  I continue to study with Andrew from time to time I travel to practice at his studio in Oklahoma.
+<img class="image-right-250" src="/images/galavasana.jpg">My most extensive formal training in Aṣṭāṅga is from <a href="https://ashtangayogastudio.com/" target="_blank">Andrew Eppler</a> in the form of a 200-hour Intensive Training, in virtue of which I am <a href="https://www.yogaalliance.org/TeacherPublicProfile?tid=326005" target="_blank">registered</a> with the Yoga Alliance as a teacher.  I continue to study with Andrew, residing periodically at his shala in Oklahoma.
 
-Andrew is the primary American student of BNS Iyengar of Mysore, India, who in turn was a student of both Patabhi Jois and Jois' own teacher, Sri Tirumalai krishnamacharya.  It was Krishnamacharya who developed Aṣṭāṅga Vinyāsa Yoga system while teaching at the Mysore Palace School (1931-1948).
+Andrew is the primary American student of BNS Iyengar of Mysore, India, who in turn was a student of both Patabhi Jois and Jois' own teacher, Sri Tirumalai Krishnamacharya.  It was Krishnamacharya who developed the Aṣṭāṅga Vinyāsa Yoga system while teaching at the Mysore Palace School (1931-1948).
