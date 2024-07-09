@@ -44,4 +44,4 @@ The <a href="https://www.instagram.com/solecollective.studio/" target="_blank">S
 
 I'll accomodate people who are new to Aṣṭāṅga, but the aim will be to move people quickly into guided Primary Series.
 
-Book classes on the Sole Collective website.  Currently the price for a drop-in class is $20.
+Book classes on the Sole Collective website.  The price for a drop-in class is $20, and unlimited membership is $125 per month ($55 for the first month).
