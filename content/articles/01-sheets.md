@@ -7,7 +7,17 @@ summary: "Links to good teachers, useful practice videos, cheatsheets, and suppl
 type: page
 ---
 
-## Really Good Teachers
+{{< rawhtml >}}
+<div class="accordion">
+<div class="accordion-item">
+    <input type="radio" class="dn" name="slides" id="slide1" checked>
+    <label for="slide1" class="accordion-item-label db pv3 link black hover-blue pointer blue">
+    Really Good Teachers
+    </label>
+    <hr>
+    <div class="accordion-content">
+{{< /rawhtml >}}
+
 
 A small list:
 
@@ -16,13 +26,21 @@ A small list:
 * I have learned a lot over the years by visiting with <a href="https://www.ashtangayogacenter.com/" target="_blank">Tim Miller</a>, but he seems to be retired now.
 * <a href="https://ashtangayogaclubdurham.com/" target="_blank">The Ashtanga Yoga Club of Durham</a> was founded by the late Suzanne Faulkner, one of the saints of the Aṣṭāṅga community, along with her partner Nikos.  Now it continues under the leadership of Suzanne's yoga-sister <a href="https://joannadarlington.com/" target="_blank">Joanna Darlington</a>.  Both were students of <a href="https://davidgarrigues.com/" target="_blank">David Garrigue</a>, whose approach to the practice integrates elements of alignment-awareness.
 
-## Primary Series Postures
-
-### From the Source!
+{{< rawhtml >}}
+</div>  <!-- end previous accordion content -->
+</div>  <!-- end previous accordion item -->
+<div class="accordion-item">
+    <input type="radio" class="dn" name="slides" id="slide1" checked>
+    <label for="slide1" class="accordion-item-label db pv3 link black hover-blue pointer blue">
+    Posture Cheatsheets
+    </label>
+    <hr>
+    <div class="accordion-content">
+{{< /rawhtml >}}
 
 The old posture-sheets from BNS Iyengar's original Yogashala in Mysore, India:
 
-## Primary Series, Page 1
+### Primary Series, Page 1
 
 
 
@@ -33,7 +51,7 @@ The old posture-sheets from BNS Iyengar's original Yogashala in Mysore, India:
 <a href="/files/bns-primary-1.pdf">Download</a> this sheet.
 
 
-## Primary Series, Page 2
+### Primary Series, Page 2
 
 
 <object data="/files/bns-primary-series-2.pdf" type="application/pdf" width="100%" height="850px">
@@ -52,14 +70,41 @@ Dr. Ronald Steiner collects a number of useful Aṣṭāṅga resources on his w
 * Fundamental Positions with BNS Iyengar
 * Primary Series with BNS Iyengar
 
-## Primary Series Videos
+{{< rawhtml >}}
+</div>  <!-- end previous accordion content -->
+</div>  <!-- end previous accordion item -->
+<div class="accordion-item">
+    <input type="radio" class="dn" name="slides" id="slide1" checked>
+    <label for="slide1" class="accordion-item-label db pv3 link black hover-blue pointer blue">
+    Primary Series Videos
+    </label>
+    <hr>
+    <div class="accordion-content">
+{{< /rawhtml >}}
+
 
 * I teach a version of Primary Series of Aṣṭāṅga Yoga that was passed down by BNS Iyengar of Mysore, India, to my own teacher Andrew Eppler.  One of Andrew's students, Joey Paz, has produced a very accurate video of himself performing the BNS Iyengar Primary Series.  It can be purchased for a low price <a href="https://www.joeypazyoga.com/bns-primary-series" target="_blank">here</a>.
 * In this <a href="https://www.youtube.com/watch?v=1Krp4W0TlAU" target="_blank">Youtube video</a>, <a href="https://www.petriandwambui.com/wambui/" target="_blank">Wambui Njuguna-Räisänen</a> leads a student through a large fraction of the Primary Series, offering very sensible modifications to the postures. (Wambui follows the more-commonly seen "Patabhi Jois" version of the Primary Series, so you'll notice a few small difference from what we do in class.)
 * The jump-through portion of the vinyāsa transition is a frequent point of inquiry among students.  In <a href="https://www.youtube.com/watch?v=Y1SL70mDLOw" target="_blank">this video</a> Laruga Glaser describes a sequence of modifications that many people find useful to train for the full jump-through.
 
-## Mats and Rugs
+{{< rawhtml >}}
+</div>  <!-- end previous accordion content -->
+</div>  <!-- end previous accordion item -->
+<div class="accordion-item">
+    <input type="radio" class="dn" name="slides" id="slide1" checked>
+    <label for="slide1" class="accordion-item-label db pv3 link black hover-blue pointer blue">
+    Mats and Rugs
+    </label>
+    <hr>
+    <div class="accordion-content">
+{{< /rawhtml >}}
 
 If you practice Aṣṭāṅga consistently, you'll wear out a regular "sticky" mat within a year or so.  Most practitioners gravitate to one of the <a href="https://www.manduka.com/collections/yoga-mats" target="_blank">Manduka</a> mats:  being quite thick and tough, they save a lot of money in the long-run. I've had my Manduka for over twenty years and am only just now beginning to see signs of wear.
 
 Depending on the climate and the intensity of your practice, you may sweat enough to render your mat and the surface surrounding it rather slippery.  In that case you might want to put a "Mysore-style" cotton rug over your mat.  A popular vendor of rugs for Aṣṭāṅgis is <a href="https://ekaminhale.com/collections/yoga-rug" target="_blank">Ekam Inhale</a>.
+
+{{< rawhtml >}}
+</div>  <!-- end previous accordion content -->
+</div>  <!-- end previous accordion item -->
+</div> <!-- end accordion -->
+{{< /rawhtml >}}

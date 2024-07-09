@@ -31,3 +31,12 @@
     padding: 0  15px 15px;
   }
 
+  /*  accordian.  inspiration from 
+  https://codepen.io/Anotherdago/pen/yjVxOB */
+
+ .accordion-content {
+    display: none;
+  }
+
+
+
