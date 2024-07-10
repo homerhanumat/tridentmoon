@@ -4,7 +4,7 @@ description: ""
 omit_header_text: false
 featured_image: images/shiva_moon_landscape-2.jpg
 type: page
-summary: "This article lists the postures of the Primary Series as taught by BNS Iyngar, along with a rendering of the encompassing vinyāsa."
+summary: "This article lists the postures of the Primary Series as taught by BNS Iyengar, along with a rendering of the encompassing vinyāsa."
 ---
 
 This article lists the postures of the Primary Series as taught by BNS Iyngar, along with a rendering of the encompassing vinyāsa.[^vinyasa] The postures are identified first in Sanskrit and then in English translation.
