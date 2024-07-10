@@ -26,7 +26,7 @@ type: page
 
 ## My First Teachers
 
-<img class="image-left-250" src="/images/hittleman.jpeg">One's parents are one's first--and hopefully best-- teachers.  From my father I acquired a love of science and mathematics.  My mother took up Yoga in 1971 when I was eight years old.  (I remember thumbing through her copy of Richard Hittleman's *Yoga:  A 28-Day Exercise Plan* and trying out the postures, imitating what I imagined to be practice of sages in the mountains and forests of Eastern lands.)  Together the two of them fostered a home-environment that was perhaps unsusal for native Southerner familes of that generation:  rationalist, humanist, and religiously free-thinking, albeit with a slight New Age twist.
+<img class="image-left-250" src="/images/hittleman.jpeg">One's parents are one's first--and hopefully best-- teachers.  From my father I acquired a love of science and mathematics.  My mother took up Yoga in 1971 when I was eight years old.  (I remember thumbing through her copy of Richard Hittleman's *Yoga:  A 28-Day Exercise Plan* and trying out the postures, imitating what I imagined to be practice of sages in the mountains and forests of Eastern lands.)  Together the two of them fostered a home-environment that was perhaps unusual among Southern familes of that generation:  rationalist, humanist, and religiously free-thinking, albeit with a slight New Age twist.
 
 A dream that I experienced several times as a child expresses, I think, the interplay between Reason and Mystery that my parents hoped I would grow up to explore:
 
