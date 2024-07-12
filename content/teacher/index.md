@@ -4,6 +4,7 @@ description: ""
 omit_header_text: false
 featured_image: images/shiva_moon_landscape-2.jpg
 type: page
+summary:  "Ashtanga, pranayama, Sanskrit, meditation, Georgetown Kentucky.  Homer White"
 ---
 
 <figure class="center mw5 pb3">

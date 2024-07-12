@@ -20,7 +20,7 @@ enableEmoji = true
 [params]
   favicon = "/images/trident_favicon.jpg"
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  headdescription = "Promoting and teaching Ashtanga Yoga in Central Kentucky.  Ashtanga, pranayama, Sanskrit, meditation, Georgetown Kentucky."
   #facebook = "https://www.facebook.com/profile.php?id=61556987980351"
   #instagram = "https://www.instagram.com/tridentmoonyoga"
   youtube = ""
