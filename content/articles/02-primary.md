@@ -91,12 +91,12 @@ Entering vinyāsa (4):
 1. inhale: look up
 1. exhale: fold
 
-Exiting vinyāsa (4, ends in samasamasthitiḥ):
+Exiting vinyāsa (4, ends in samasthitiḥ):
 
 1. inhale: look up, hands to hips
 1. exahle: fold
 1. inhale: up
-1. exhale: step back to samasamasthitiḥ
+1. exhale: step back to samasthitiḥ
 
 ### trikoṇāsana
 
@@ -132,7 +132,7 @@ Transition vinyāsa (2):
 Exiting vinyāsa (2):
 
 1. inhale:  rise up, feet back to neutral
-2. exhale:  step back to samasamasthitiḥ
+2. exhale:  step back to samasthitiḥ
 
 
 ### parśvakoṇāsna
@@ -169,7 +169,7 @@ Transition vinyāsa (2):
 Exiting vinyāsa (2):
 
 1. inhale:  rise up, feet back to neutral
-2. exhale:  step back to samasamasthitiḥ
+2. exhale:  step back to samasthitiḥ
 
 ### prasāritapādottānāsana
 
@@ -227,7 +227,7 @@ Exiting vinyāsa from D (4):
 1. inhale:  straighten the spine, look up but stay down
 1. exhale:  hands on hips
 1. inhale:  stand, arms out
-1. exhale:  step forward to samasamasthitiḥ
+1. exhale:  step forward to samasthitiḥ
 
 ### parśvottānāsana
 
@@ -251,7 +251,7 @@ Exiting Vinyāsa (2):
 
 
 1. inhale: rise back up, look up
-1. exhale:  release hands, open arms, step forward to samasamasthitiḥ
+1. exhale:  release hands, open arms, step forward to samasthitiḥ
 
 ## Primary Series Postures
 
@@ -284,7 +284,7 @@ Transition to D:
 
 Exiting from D:
 
-1. exhale:  lower the leg, returning to samasamasthitiḥ
+1. exhale:  lower the leg, returning to samasthitiḥ
 
 Then perform all four phases using the left leg.
 
@@ -322,7 +322,7 @@ Entering vinyāsa (2):
 Exiting vinyāsa (2):
 
 1. inhale: stand up straight
-1. exhale: lower arms, returning to samasamasthitiḥ
+1. exhale: lower arms, returning to samasthitiḥ
 
 ### vīrabhadrāsana
 
@@ -418,7 +418,7 @@ The following sequence of vinyāsas, often referred to as "taking your vinyāsa"
 1. inhale: having released the previous posture, lift up
 1. exhale: jump/step back to caturaṅgadaṇḍāsana
 1. inhale: to Up Dog
-1. exhale: to Down Dogog
+1. exhale: to Down Dog
 1. inhale: jump/step through to sitting
 
 ### ardhabaddhapadmapaścimottānāsana
@@ -813,7 +813,7 @@ Transition vinyāsa to C (3):
 1. inhale: draw foot over to right side of the body
 1. exhale: insert head between right shin and right forearm
 
-Transition vinyāsa to D ():
+Transition vinyāsa to D (2):
 
 1. inhale: remove head, place it back to the floor, extend right leg
 1. exhale: both hands grasp around sole of right foot, drawing the leg toward floor alongside of the head
