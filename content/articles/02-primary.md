@@ -304,7 +304,7 @@ Exiting vinyāsa (4):
 1. inhale: straighten spine and look forward but stay down
 1. exhale: hold
 1. inhale: stand up
-1. exhale: release foot, return to samasamasthitiḥ
+1. exhale: release foot, return to samasthitiḥ
 
 Repeat posture on the left side.
 
