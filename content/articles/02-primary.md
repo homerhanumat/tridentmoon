@@ -78,7 +78,7 @@ Entering vinyāsa (4):
 1. inhale: straighten, look up
 1. exhale: fold
 
-(Here andrew stays down for the next posture. Joey Paz exits with four vinyāsa, ending in samasthitiḥ.)
+(Here Andrew stays down for the next posture. Joey Paz exits with four vinyāsa, ending in samasthitiḥ.)
 
 ### pādahastāsana
 
@@ -529,7 +529,9 @@ Then:
 
 ### marīcyāsana A
 
-*English*: Marīci Posture^[This posture is dedicated to the sage <a href="https://en.wikipedia.org/wiki/Marichi" target="_blank">Marīci</a>.]
+*English*: Marīci Posture[^marici]
+
+[^marici]: This posture is dedicated to the sage <a href="https://en.wikipedia.org/wiki/Marichi" target="_blank">Marīci</a>.]
 
 There are four variations:  A, B, C and D.
 
@@ -633,12 +635,14 @@ Entering vinyāsa (0);
 
 * in the final exhale of "taking your vinyāsa", you don't go into seated position; instead you raise the legs and hold out the arms.
 
-Transition vinyāsa betwee repetitions (2):
+Transition vinyāsa between repetitions (2):
 
 1. inhale: lift up
 1. exhale: lower down, raise the legs and hold out the arms
 
-Then take your vinyāsa.[^This concludes what is known as "Half-Primary Series."]
+Then take your vinyāsa.[^half-primary]
+
+[^half-primary]: This concludes what is known as "Half-Primary Series."]
 
 ### bhujapīḍāsana
 
@@ -703,7 +707,9 @@ Entering vinyāsa:
 1. inhale/exhale: left arm through gap
 1. inhale: place palms on sides of head
 
-Exhaling roll back, inhaling roll up; repeat 5-9 times.^[This is the one of only two postures that are held while moving!]
+Exhaling roll back, inhaling roll up; repeat 5-9 times.[^garbha]
+
+[^garbha]: This is the one of only two postures that are held while moving!]
 
 ### kukkuṭāsana
 
@@ -746,7 +752,9 @@ Take your vinyāsa.
 
 ### upaviṣṭakoṇāsana
 
-*English*: "Entered-into" Angle Posture^[*upaviṣṭa* can mean "seated" but here it most likely refers to the way that the forward-folding torso "enters into" the angle formed by the legs.]
+*English*: "Entered-into" Angle Posture[^entered-into]
+
+[^entered-into]: *upaviṣṭa* can mean "seated" but here it most likely refers to the way that the forward-folding torso "enters into" the angle formed by the legs.]
 
 This posture has two phases:  A and B.
 
@@ -860,7 +868,9 @@ Entering vinyāsa (5):
 1. inhale: draw feet one third of the way toward the hips
 1. exhale: place hands under upper thighs
 1. inhale: arch and place crown of head on floor
-1. exhale: press up and back, moving hands to floor palms down for support^[Or the advanced version:  arms crossed over chest.]
+1. exhale: press up and back, moving hands to floor palms down for support[^setu]
+
+[^setu]: Or the advanced version:  arms crossed over chest.]
 
 Exiting vinyāsa (1):
 
@@ -915,7 +925,9 @@ Hold the posture for 10-25 breaths.
 
 Entering vinyāsa (1):
 
-1. final exhale of sālambhasarvāṅgāsana: legs down until toes touch floor behind head, hands to floor, palms down, for support^[You may also clasp hands together on the floor.]
+1. final exhale of sālambhasarvāṅgāsana: legs down until toes touch floor behind head, hands to floor, palms down, for support[^plow]
+
+[^plow]: You may also clasp hands together on the floor.]
 
 ### karṇapīḍāsana
 
@@ -999,7 +1011,9 @@ For B:
 1. exhale: lower legs until toes nearly touch the floor
 1. inhale: raise legs back up to śīrṣāsana
 
-Repeat the above motion ten times.^[This is the second and last posture that is "held" while moving]
+Repeat the above motion ten times.[^up-down]
+
+[^up-down]: This is the second and last posture that is "held" while moving]
 
 ### bālāsana
 
@@ -1044,7 +1058,9 @@ Hold this posture 10-25 breaths.
 
 ### tolāsana
 
-*English*: Lift Posture^[Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*.]
+*English*: Lift Posture[^tolana]
+
+[^tolana]: Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*.]
 
 Entering vinyāsa:
 
