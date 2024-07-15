@@ -18,7 +18,11 @@ It is important to bear in mind that, just as the postures themselves should be 
 
 ## sūryanamaskāra Sequences
 
+{{<audio src="/audio/suryanamaskara.m4a" span="3" title="Pronunciation">}}
+
 *English*:  Salutations to the Sun
+
+
 
 Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" that is the Primary Series.
 
@@ -69,6 +73,8 @@ Begin in __samasthitiḥ__ from the final iteration of the sūryanamakāra A seq
 
 ### pādāṅguṣṭhāsana
 
+{{<audio src="/audio/padangushthasana.m4a" span="3" title="Pronunciation">}}
+
 *English*: Thumb to Foot Posture
 
 Entering vinyāsa (4):
@@ -81,6 +87,8 @@ Entering vinyāsa (4):
 (Here Andrew stays down for the next posture. Joey Paz exits with four vinyāsa, ending in samasthitiḥ.)
 
 ### pādahastāsana
+
+{{<audio src="/audio/padahastasana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Hand [under] Foot Posture
 
@@ -100,6 +108,8 @@ Exiting vinyāsa (4, ends in samasthitiḥ):
 
 ### trikoṇāsana
 
+{{<audio src="/audio/trikonasana.m4a" span="3" title="Pronunciation">}}
+
 *English*: Triangle Posture
 
 Entering vinyāsa (2):
@@ -117,6 +127,8 @@ Exiting vinyāsa (1):
 * inhale:  rise up, fix feet the other way
 
 ### parivṛttatrikoṇāsana
+
+{{<audio src="/audio/parivrttatrikonasana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Revolved Triangle Posture
 
