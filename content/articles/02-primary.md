@@ -28,10 +28,6 @@ Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" t
 
 ### sūryanamaskāra A Sequence
 
-{{< collapse id="yo" label="there" >}}
-some stuff
-{{< /collapse >}}
-
 {{< collapse id="surya-a" label="Performance" >}}
 
 Repeat this sequence 4-5 times.  Only one posture of the sequence (adhomukhaśvānāsana) is held.
@@ -52,6 +48,8 @@ Begin in __samasthitiḥ__ ("Even Standing").
 {{< /collapse >}}
 
 ### sūryanamaskāra B Sequence
+
+{{< collapse id="surya-b" label="Performance" >}}
 
 Repeat this sequence 3-4 times as needed.  Again only one posture of the sequence (adhomukhaśvānāsana)(is held, and then only in its third occurence.
 
@@ -76,6 +74,7 @@ Begin in __samasthitiḥ__ from the final iteration of the sūryanamakāra A seq
 1. inhale: up to __ūrdhvavṛkṣāsana__
 1. exhale: to __samasthitiḥ__
 
+{{< /collapse >}}
 
 ## Standing Sequence
 
@@ -87,6 +86,8 @@ Begin in __samasthitiḥ__ from the final iteration of the sūryanamakāra A seq
 
 **Note**:  Possibly "Big Toe of the Foot Posture", as *aṅguśṭha* means both "thumb" and "big toe".
 
+{{< collapse id="padanga" label="Performance" >}}
+
 Entering vinyāsa (4):
 
 1. inhale: step left, hands to hips, look up
@@ -96,11 +97,15 @@ Entering vinyāsa (4):
 
 (Here Andrew stays down for the next posture. Joey Paz exits with four vinyāsa, ending in samasthitiḥ.)
 
+{{< /collapse >}}
+
 ### pādahastāsana
 
 {{<audio src="/audio/padahastasana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Hand under Foot Posture
+
+{{< collapse id="padahasta" label="Performance" >}}
 
 Entering vinyāsa (4):
 
@@ -116,11 +121,15 @@ Exiting vinyāsa (4, ends in samasthitiḥ):
 1. inhale: up
 1. exhale: step back to samasthitiḥ
 
+{{< /collapse >}}
+
 ### trikoṇāsana
 
 {{<audio src="/audio/trikonasana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Triangle Posture
+
+{{< collapse id="trikona" label="Performance" >}}
 
 Entering vinyāsa (2):
 
@@ -136,6 +145,8 @@ Exiting vinyāsa (1):
 
 * inhale:  rise up, fix feet the other way
 
+{{</collapse >}}
+
 ### parivṛttatrikoṇāsana
 
 {{<audio src="/audio/parivrttatrikonasana.m4a" span="3" title="Pronunciation">}}
@@ -143,6 +154,9 @@ Exiting vinyāsa (1):
 *English*: Revolved Triangle Posture
 
 **Note**:  *parivṛtta* = "turned around", "revolved".
+
+{{< collapse id="paritri" label="Performance" >}}
+
 
 Entering vinyāsa (1):
 
@@ -159,11 +173,15 @@ Exiting vinyāsa (2):
 2. exhale:  step back to samasthitiḥ
 
 
+{{< /collapse >}}
+
 ### parśvakoṇāsna
 
 {{<audio src="/audio/parshvakona.m4a" span="3" title="Pronunciation">}}
 
 *English*: Side Angle Posture
+
+{{< collapse id="parshva" label="Performance" >}}
 
 Entering vinyāsa (2):
 
@@ -179,11 +197,16 @@ Exiting vinyāsa (1):
 
 * inhale:  rise up, fix feet the other way
 
+
+{{< /collapse >}}
+
 ### parivrttaparśvakoṇāsana
 
 {{<audio src="/audio/parivrttaparshva.m4a" span="3" title="Pronunciation">}}
 
 *English*: Revolved Side Angle Posture
+
+{{< collapse id="pariparsh" label="Performance" >}}
 
 Entering vinyāsa (1):
 
@@ -199,6 +222,9 @@ Exiting vinyāsa (2):
 1. inhale:  rise up, feet back to neutral
 2. exhale:  step back to samasthitiḥ
 
+
+{{< /collapse >}}
+
 ### prasāritapādottānāsana
 
 {{<audio src="/audio/prasarita.m4a" span="3" title="Pronunciation">}}
@@ -208,6 +234,8 @@ Exiting vinyāsa (2):
 *English*: Stretching Out to Spread Feet Posture
 
 **Note**:  *prasārita* is literally "caused to flow forth", and can mean "spread". The feet are spread apart from each other.
+
+{{< collapse id="prasarita" label="Performance" >}}
 
 There are four phases:  A, B, C, D.
 
@@ -263,11 +291,16 @@ Exiting vinyāsa from D (4):
 1. inhale:  stand, arms out
 1. exhale:  step forward to samasthitiḥ
 
+
+{{< /collapse >}}
+
 ### parśvottānāsana
 
 {{<audio src="/audio/parshvottana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Stretching Out to the Side Posture
+
+{{< collapse id="parshvottana" label="Performance" >}}
 
 Entering vinyāsa (4):
 
@@ -289,6 +322,9 @@ Exiting Vinyāsa (2):
 1. inhale: rise back up, look up
 1. exhale:  release hands, open arms, step forward to samasthitiḥ
 
+
+{{< /collapse >}}
+
 ## Primary Series Postures
 
 ### utthitahastapādāṅguṣṭhāsana
@@ -298,6 +334,8 @@ Exiting Vinyāsa (2):
 *English*: Standing Hand-to-Big-Toe-of-the-Foot Posture
 
 *Note*:  *utthita* = "stood up", thus "standing".
+
+{{< collapse id="utthita" label="Performance" >}}
 
 There are four phases:  A, B, C, D.
 
@@ -328,11 +366,16 @@ Exiting from D:
 
 Then perform all four phases using the left leg.
 
+
+{{< /collapse >}}
+
 ### ardhabaddhapadmottānāsana
 
 {{<audio src="/audio/ardhabaddhapadmottana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Stretching out in Half Bound Lotus Posture
+
+{{< collapse id="hop" label="Performance" >}}
 
 Entering vinyāsa (4):
 
@@ -350,6 +393,9 @@ Exiting vinyāsa (4):
 
 Repeat posture on the left side.
 
+
+{{< /collapse >}}
+
 ### utkaṭāsana
 
 {{<audio src="/audio/utkata.m4a" span="3" title="Pronunciation">}}
@@ -359,6 +405,8 @@ Repeat posture on the left side.
 *Note*:  *utkaṭa* = "exceeding the usual measure, immense, gigantic".
 
 **Note**:  Some people say that in this posture the body resembles a jagged lightening-bolt.  This may come from a lesser-used meaning of *utkaṭa*:  "uneven".
+
+{{< collapse id="fierce" label="Performance" >}}
 
 Entering vinyāsa (2):
 
@@ -370,19 +418,24 @@ Exiting vinyāsa (2):
 1. inhale: stand up straight
 1. exhale: lower arms, returning to samasthitiḥ
 
+
+{{< /collapse >}}
+
 ### vīrabhadrāsana
 
 {{<audio src="/audio/virabhadra.m4a" span="3" title="Pronunciation">}}
 
-*English*: Auspicious Hero Posture[^virabhadra]
+*English*: Auspicious Hero Posture
 
-*Note*:  *vīra* = hero, warrior.  *bhadra* = blessed, auspicious.
+*Note*:  *vīra* = hero, warrior.  *bhadra* = blessed, auspicious". Vīrabhadra" is the name of an incarnation of Śiva.  <a href="https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php" target="_blank">Monier-Williams</a> says:
 
-[^virabhadra]: "Vīrabhadra" is the name of an incarnation of Śiva.  <a href="https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php" target="_blank">Monier-Williams</a> says:
+>... in the Vāyu-Purāṇa he is said to have been created from Śiva's mouth in order to spoil the sacrifice of Dakṣa, and is described as having a thousand heads, a thousand eyes, a thousand feet, and wielding a thousand clubs; his appearance is fierce and terrific, he is clothed in a tiger's skin dripping with blood, and he bears a blazing bow and battle-axe; in another Purāṇa he is described as produced from a drop of Śiva's sweat.
 
-    >... in the Vāyu-Purāṇa he is said to have been created from Śiva's mouth in order to spoil the sacrifice of Dakṣa, and is described as having a thousand heads, a thousand eyes, a thousand feet, and wielding a thousand clubs; his appearance is fierce and terrific, he is clothed in a tiger's skin dripping with blood, and he bears a blazing bow and battle-axe; in another Purāṇa he is described as produced from a drop of Śiva's sweat.
+{{< collapse id="vira" label="Performance" >}}
 
 There are two phases:  A and B.
+
+
 
 Entering vinyāsa into A (4):
 
@@ -418,19 +471,31 @@ Exiting vinyāsa (4):
 1. exhale: to Down Dog
 1. inhale: step/jump through to seated position
 
+
+{{< /collapse >}}
+
 ### daṇḍāsana
 
 {{<audio src="/audio/danda.m4a" span="3" title="Pronunciation">}}
 
 *English*: Stick Posture
 
+{{< collapse id="danda" label="Performance" >}}
+
 No encompassing vinyāsa:  simply hold for the usual five breaths.
+
+
+{{< /collapse >}}
 
 ### paścimottānāsana
 
 {{<audio src="/audio/paschimottana.m4a" span="3" title="Pronunciation">}}
 
 *English*: West Stretching out Posture
+
+**Note**:  *paścima* means "western".  Since in Vedic ritual tradition the primary agent of the sacrifice faced East, the "west" refers to the back of a purson.  The idea is that in a forward bend the back gets a stretch.
+
+{{< collapse id="pashcima" label="Performance" >}}
 
 There are three phases:  A, B and C.
 
@@ -453,11 +518,18 @@ Exiting vinyāsa from C (1):
 
 1. inhale: straighten the spine and look up
 
+
+{{< /collapse >}}
+
 ### pūrvottānāsana
 
 {{<audio src="/audio/purvottana.m4a" span="3" title="Pronunciation">}}
 
 *English*: East Stretching out Posture
+
+**Note**:  *pūrva* means "eastern".  Since the Vedic sacrficer faces East, the term also refers to the front of a person.  The idea is that one's front gets a stretch when the body is lifted.
+
+{{< collapse id="purva" label="Performance" >}}
 
 Entering Vinyāsa (3):
 
@@ -477,11 +549,16 @@ The following sequence of vinyāsas, often referred to as "taking your vinyāsa"
 1. exhale: to Down Dog
 1. inhale: jump/step through to sitting
 
+
+{{< /collapse >}}
+
 ### ardhabaddhapadmapaścimottānāsana
 
 {{<audio src="/audio/ardhabaddhapadmapaschima.m4a" span="3" title="Pronunciation">}}
 
 *English*: Half Bound Lotus West Stretching out Posture
+
+{{< collapse id="ardhabaddha" label="Performance" >}}
 
 Entering vinyāsa (4):
 
@@ -501,6 +578,9 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+
+{{< /collapse >}}
+
 ### tryaṅgamukhaikapādapaścimottānāsana
 
 {{<audio src="/audio/tryanga.m4a" span="3" title="Pronunciation">}}
@@ -508,6 +588,8 @@ Then:
 *Analysis*:  tri + aṅga + mukha + eka + pāda + paścima + uttāna + āsana.
 
 *English*: Three-Limbed Face to One Leg West Stretching out Posture
+
+{{< collapse id="tryanga" label="Performance" >}}
 
 Entering vinyāsa (4):
 
@@ -527,6 +609,9 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+
+{{< /collapse >}}
+
 ### jānuśīrṣāsana A
 
 {{<audio src="/audio/janushirsha.m4a" span="3" title="Pronunciation">}}
@@ -534,6 +619,8 @@ Then:
 *English*: Head to Knee Posture
 
 This posture has three variants:  A, B and C.
+
+{{< collapse id="janu" label="Performance" >}}
 
 Entering vinyāsa (2):
 
@@ -591,13 +678,17 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+{{< /collapse >}}
+
 ### marīcyāsana A
 
 {{<audio src="/audio/marici.m4a" span="3" title="Pronunciation">}}
 
-*English*: Marīci Posture[^marici]
+*English*: Marīci Posture
 
-[^marici]: This posture is dedicated to the sage <a href="https://en.wikipedia.org/wiki/Marichi" target="_blank">Marīci</a>.]
+*Note*: This posture is dedicated to the sage <a href="https://en.wikipedia.org/wiki/Marichi" target="_blank">Marīci</a>.
+
+{{< collapse id="marici" label="Performance" >}}
 
 There are four variations:  A, B, C and D.
 
@@ -691,6 +782,8 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+{{< /collapse >}}
+
 ### nāvāsana
 
 {{<audio src="/audio/nava.m4a" span="3" title="Pronunciation">}}
@@ -698,6 +791,8 @@ Then:
 
 
 *English*: Boat Posture
+
+{{< collapse id="nava" label="Performance" >}}
 
 This posture is repeated five times.
 
@@ -710,9 +805,12 @@ Transition vinyāsa between repetitions (2):
 1. inhale: lift up
 1. exhale: lower down, raise the legs and hold out the arms
 
-Then take your vinyāsa.[^half-primary]
+Then take your vinyāsa.
 
-[^half-primary]: This concludes what is known as "Half-Primary Series."]
+**Note**: This concludes what is known as "Half-Primary Series."]
+
+
+{{< /collapse >}}
 
 ### bhujapīḍāsana
 
@@ -721,6 +819,8 @@ Then take your vinyāsa.[^half-primary]
 *English*: Pressure on the Shoulders Posture
 
 *Note*:  *pīḍā* usually means somehting like "pain", or "annoyance", but here probably substitutes for *pīḍana*, "pressing".
+
+{{< collapse id="bhuja" label="Performance" >}}
 
 This postures has two phases:  A and B.
 
@@ -744,11 +844,16 @@ Exiting vinyāsa:
 
 Continue taking your vinyāsa.
 
+
+{{< /collapse >}}
+
 ### kūrmāsana
 
 {{<audio src="/audio/kurma.m4a" span="3" title="Pronunciation">}}
 
 *English*: Tortoise Posture
+
+{{< collapse id="kurma" label="Performance" >}}
 
 Entering vinyāsa into A (4+):
 
@@ -756,11 +861,15 @@ Entering vinyāsa into A (4+):
 1. one or more breaths, ending on an exhale: flatten torso towards the floor, with arms out wide under legs, palms down
 
 
+{{< /collapse >}}
+
 ### suptakūrmāsana
 
 {{<audio src="/audio/suptakurma.m4a" span="3" title="Pronunciation">}}
 
 *English*: Sleeping Tortoise Posture
+
+{{< collapse id="suptakurma" label="Performance" >}}
 
 Entering vinyāsa (2+):
 
@@ -773,7 +882,12 @@ Exiting vinyāsa (2):
 
 Then take your vinyāsa.
 
+
+{{< /collapse >}}
+
 ### garbhapiṇḍāsana
+
+{{< collapse id="garbha" label="Performance" >}}
 
 {{<audio src="/audio/garbha.m4a" span="3" title="Pronunciation">}}
 
@@ -789,15 +903,20 @@ Entering vinyāsa:
 1. inhale/exhale: left arm through gap
 1. inhale: place palms on sides of head
 
-Exhaling roll back, inhaling roll up; repeat 5-9 times.[^garbha]
+Exhaling roll back, inhaling roll up; repeat 5-9 times.
 
-[^garbha]: This is the one of only two postures that are held while moving!]
+**Note**: This is the one of only two postures that are held while moving!]
+
+
+{{< /collapse >}}
 
 ### kukkuṭāsana
 
 {{<audio src="/audio/kukkuta.m4a" span="3" title="Pronunciation">}}
 
 *English*: Rooster Posture
+
+{{< collapse id="kukkuta" label="Performance" >}}
 
 Come up into it on inhale from final roll of garbhapiṇḍāsana.
 
@@ -811,11 +930,15 @@ Exiting vinyāsa (3):
 
 Take your vinyāsa.
 
+{{< /collapse >}}
+
 ### baddhakoṇāsana
 
 {{<audio src="/audio/baddhakona.m4a" span="3" title="Pronunciation">}}
 
 *English*: Bound Angle Posture
+
+{{< collapse id="baddhakona" label="Performance" >}}
 
 This posture has two phases:  A and B.
 
@@ -836,6 +959,8 @@ Exiting vinyāsa (2):
 
 Take your vinyāsa.
 
+{{< /collapse >}}
+
 ### upaviṣṭakoṇāsana
 
 {{<audio src="/audio/upavishta.m4a" span="3" title="Pronunciation">}}
@@ -843,6 +968,8 @@ Take your vinyāsa.
 *English*: "Entered-into" Angle Posture
 
 *Note*: *upaviṣṭa* frequently means "seated" but also can mean "entered into" any state or condition. Here it may refer to how one's forward-folding torso "enters into" the angle formed by one's legs.]
+
+{{< collapse id="upa" label="Performance" >}}
 
 This posture has two phases:  A and B.
 
@@ -857,11 +984,16 @@ Transition vinyāsa to B (2):
 1. inhale: bring legs up
 1. exhale: straighten legs, sit back to balance, looking up
 
+
+{{< /collapse >}}
+
 ### suptakoṇāsana
 
 {{<audio src="/audio/suptakona.m4a" span="3" title="Pronunciation">}}
 
 *English*: Sleeping Angle Posture
+
+{{< collapse id="suptakona" label="Performance" >}}
 
 This posture has two phases:  A and B.
 
@@ -881,11 +1013,16 @@ Exiting vinyāsa (2):
 
 Take your vinyāsa.
 
+
+{{< /collapse >}}
+
 ### suptapādāṅguṣṭhāsana
 
 {{<audio src="/audio/suptapada.m4a" span="3" title="Pronunciation">}}
 
 *English*: Sleeping Thumb-to-Foot Posture
+
+{{< collapse id="suptapada" label="Performance" >}}
 
 This posture has four phases:  A, B, C, D.
 
@@ -919,6 +1056,9 @@ Repeat the posture on the left side.
 
 Consider taking chakrāsana for the transition to the next posture (or just sit up and take the regular vinyāsana).
 
+
+{{< /collapse >}}
+
 ### ubhayapādāṅguṣṭhāsana
 
 {{<audio src="/audio/ubhayapada.m4a" span="3" title="Pronunciation">}}
@@ -926,6 +1066,8 @@ Consider taking chakrāsana for the transition to the next posture (or just sit 
 *English*: Thumbs to Both Feet Posture
 
 *Note*:  *ubhaya* = "both".
+
+{{< collapse id="ubhaya" label="Performance" >}}
 
 This posture has two phases:  A and B.
 
@@ -939,11 +1081,15 @@ Transition vinyāsa to B (1):
 1. final exhale of A: roll back onto shoulders
 
 
+{{< /collapse >}}
+
 ### ūrdhvamukhapaścimottānāsana
 
 {{<audio src="/audio/urdhvamukha.m4a" span="3" title="Pronunciation">}}
 
 *English*: Upward Face West Stretching out Posture
+
+{{< collapse id="urdhvamukha" label="Performance" >}}
 
 Entering vinyāsa (2):
 
@@ -956,6 +1102,8 @@ Exiting vinyāsa (1):
 
 Take your vinyāsa.
 
+{{< /collapse >}}
+
 ### setubandhāsana
 
 {{<audio src="/audio/setu.m4a" span="3" title="Pronunciation">}}
@@ -964,15 +1112,15 @@ Take your vinyāsa.
 
 *Note*:  *setu* = "bridge", *bandha* = "binding".  The compound refers to the forming of a dam or bridge.
 
+{{< collapse id="setu" label="Performance" >}}
+
 Entering vinyāsa (5):
 
 1. exhale: lie back
 1. inhale: draw feet one third of the way toward the hips
 1. exhale: place hands under upper thighs
 1. inhale: arch and place crown of head on floor
-1. exhale: press up and back, moving hands to floor palms down for support[^setu]
-
-[^setu]: Or the advanced version:  arms crossed over chest.]
+1. exhale: press up and back, moving hands to floor palms down for support (or in the advanced version, cross your arms over your chest)]
 
 Exiting vinyāsa (1):
 
@@ -981,11 +1129,15 @@ Exiting vinyāsa (1):
 
 Consider taking chakrāsana for the transition to the next posture (or just sit up and take the regular vinyāsana).
 
+{{< /collapse >}}
+
 ### ūrdhvadhanurāsana
 
 {{<audio src="/audio/urdhvadhanu.m4a" span="3" title="Pronunciation">}}
 
 *English*: Upward Bow Posture
+
+{{< collapse id="urdhvadhanu" label="Performance" >}}
 
 Entering vinyāsa (3):
 
@@ -1004,6 +1156,8 @@ Afterwards, sit up and do some kind of forward fold.
 
 Take your vinyāsa.
 
+{{< /collapse >}}
+
 ## Closing Sequence
 
 Postures in this sequence are held for eight breaths, unless otherwise indicated.
@@ -1018,6 +1172,8 @@ Postures in this sequence are held for eight breaths, unless otherwise indicated
 
 *Note*:  *ālambha* = "taking, seizing, touching".  The prefix *sa* carries the meaning "with", so here *sālambha*, "with touching" may refer to the way the hands contact the lower back to support the body.
 
+{{< collapse id="sarva" label="Performance" >}}
+
 Entering vinyāsa (5):
 
 1. exhale: lie down
@@ -1029,17 +1185,23 @@ Entering vinyāsa (5):
 Hold the posture for 10-25 breaths.
 
 
+{{< /collapse >}}
+
 ### hālāsana
 
 {{<audio src="/audio/hala.m4a" span="3" title="Pronunciation">}}
 
 *English*: Plow Posture
 
+{{< collapse id="hala" label="Performance" >}}
+
 Entering vinyāsa (1):
 
-1. final exhale of sālambhasarvāṅgāsana: legs down until toes touch floor behind head, hands to floor, palms down, for support[^plow]
+1. final exhale of sālambhasarvāṅgāsana: legs down until toes touch floor behind head, hands to floor, palms down, for support
 
-[^plow]: You may also clasp hands together on the floor.]
+**Note**: You may also clasp hands together on the floor.]
+
+{{< /collapse >}}
 
 ### karṇapīḍāsana
 
@@ -1047,10 +1209,14 @@ Entering vinyāsa (1):
 
 *English*: Pressure on the Ears Posture
 
+{{< collapse id="karna" label="Performance" >}}
+
 Entering vinyāsa (1):
 
 1. final exhale of hālāsana: bend the knees, bringing them near the ears
 
+
+{{< /collapse >}}
 
 ### ūrdhvapadmāsana
 
@@ -1058,11 +1224,15 @@ Entering vinyāsa (1):
 
 *English*: Upward Lotus Posture
 
+{{< collapse id="urdhvapadma" label="Performance" >}}
+
 Entering vinyāsa (4):
 
 1. inhale:  lift legs back to Shoulder Stand, hands return to the back
 1. exhale/inhale/exhale: place legs in lotus (you may remove hands form back to assist in this), by the end the hands are on the knees with arms straight
 
+
+{{< /collapse >}}
 
 ### piṇḍāsana
 
@@ -1070,9 +1240,13 @@ Entering vinyāsa (4):
 
 *English*: Embryo Posture
 
+{{< collapse id="pinda" label="Performance" >}}
+
 Entering vinyāsa (1):
 
 1. final exhale of ūrdhvapadmāsana: staying in lotus, bring the knees down, clasping hands around to hug around the legs
+
+{{< /collapse >}}
 
 ### matsyāsana
 
@@ -1080,17 +1254,23 @@ Entering vinyāsa (1):
 
 *English*: Fish Posture
 
+{{< collapse id="matsya" label="Performance" >}}
+
 Entering vinyāsa (5):
 
 1. final exhale of piṇḍāsana:  roll down along spine
 1. inhale:  hands under upper thigns, lift hips slightly, supporting lower bodu on elbows
 1. exhale/inhale/exhale: arch back, work crown of head to floor, place hands on feet with arms straight
 
+{{< /collapse >}}
+
 ### uttānapādāsana
 
 {{<audio src="/audio/uttanapada.m4a" span="3" title="Pronunciation">}}
 
 *English*: Legs Stretching out Posture
+
+{{< collapse id="uttana" label="Performance" >}}
 
 Entering vinyāsa (2):
 
@@ -1099,12 +1279,16 @@ Entering vinyāsa (2):
 
 Consider taking chakrāsana for the transition to the next posture (or just sit up and take the regular vinyāsana), but only halfway (see next posture).
 
+{{< /collapse >}}
+
 
 ### śīrṣāsana
 
 {{<audio src="/audio/sirsha.m4a" span="3" title="Pronunciation">}}
 
 *English*: Head[stand] Posture
+
+{{< collapse id="shirsha" label="Performance" >}}
 
 Entering vinyāsa:
 
@@ -1114,11 +1298,16 @@ Entering vinyāsa:
 
 Hold for 10-15 breaths.
 
+
+{{< /collapse >}}
+
 ### ūrdhvadaṇḍāsana
 
 {{<audio src="/audio/urdhvadanda.m4a" span="3" title="Pronunciation">}}
 
 *English*: Upward Stick Posture
+
+{{< collapse id="urdhvadanda" label="Performance" >}}
 
 This posture has two phases:  A and B.
 
@@ -1137,9 +1326,12 @@ For B:
 1. exhale: lower legs until toes nearly touch the floor
 1. inhale: raise legs back up to śīrṣāsana
 
-Repeat the above motion ten times.[^up-down]
+Repeat the above motion ten times.
 
-[^up-down]: This is the second and last posture that is "held" while moving]
+**Note**: This is the second and last posture that is "held" while moving.
+
+
+{{< /collapse >}}
 
 ### bālāsana
 
@@ -1147,18 +1339,23 @@ Repeat the above motion ten times.[^up-down]
 
 *English*: Child Posture
 
+{{< collapse id="bala" label="Performance" >}}
+
 Entering vinyāsa:
 
 1.  exhale: lower legs until toes touch the floor, bend knees, come down into posture
 
 Hold this posture 4-5 breaths.
 
+{{< /collapse >}}
 
 ### baddhapadmāsana
 
 {{<audio src="/audio/baddhapadma.m4a" span="3" title="Pronunciation">}}
 
 *English*: Bound Lotus Posture
+
+{{< collapse id="baddhapadma" label="Performance" >}}
 
 Entering vinyāsa: Most people just rise from bālāsana and sit down, then:
 
@@ -1175,6 +1372,8 @@ Exiting vinyāsa (1):
 
 1. inhale: rise back up, release feet
 
+{{< /collapse >}}
+
 
 ### padmāsana
 
@@ -1182,19 +1381,25 @@ Exiting vinyāsa (1):
 
 *English*: Lotus Posture
 
+{{< collapse id="padma" label="Performance" >}}
+
 Entering vinyāsa (1):
 
 1. exhale: hands to knees, in mudrā
 
 Hold this posture 10-25 breaths.
 
+{{< /collapse >}}
+
 ### tolāsana
 
 {{<audio src="/audio/tola.m4a" span="3" title="Pronunciation">}}
 
-*English*: Tola Posture[^tolana]
+*English*: Tola Posture
 
-[^tolana]: Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*. But *tola* itself is a classical standard measure, said to be the weight of 100 Gunja seeds.  This amounts to only 12 grams more or less, so perhaps the idea was to make a joke for beginning practitioners.  When BNS Iyengar started recommedning that practitioners perform *bhastrika* breathing while in this posture, he began to refer to it as *utpluthiḥ*, "jumping up".
+**Note**: Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*. But *tola* itself is a classical standard measure, said to be the weight of 100 Gunja seeds.  This amounts to only 12 grams more or less, so perhaps the idea was to make a joke for beginning practitioners.  When BNS Iyengar started recommending that practitioners perform *bhastrika* breathing while in this posture, he began to refer to it as *utpluthiḥ*, "jumping up".
+
+{{< collapse id="tola" label="Performance" >}}
 
 Entering vinyāsa:
 
@@ -1207,10 +1412,16 @@ Exiting vinyāsa (1):
 1. exhale:  lower back down
 1. inhale/exhale: release lotus, lie down into śāvāsana
 
+{{< /collapse >}}
+
 ### śāvāsana
 
 {{<audio src="/audio/sava.m4a" span="3" title="Pronunciation">}}
 
 *English*: Corpse Posture
 
+{{< collapse id="shava" label="Performance" >}}
+
 Release all bandhas, cease ujjāyi breathing.  Relax for at least five minutes.
+
+{{< /collapse >}}
