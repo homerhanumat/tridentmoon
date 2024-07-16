@@ -64,11 +64,13 @@ The old posture-sheets from BNS Iyengar's original Yogashala in Mysore, India:
 
 ### Steiner's Sheets
 
-Dr. Ronald Steiner collects a number of useful Aṣṭāṅga resources on his website, including "cheat-sheets" for the series <a href="https://www.ashtangayoga.info/ashtanga-yoga/cheat-sheets-pdf/" target="_blank">here</a>.^[Steiner's site is in German, with an option for English.  If you see a popup asking what you want to do about "cookies", it will probably be in German.  The button to accept cookies is the one on the left.]  You'll want the sheets for:
+Dr. Ronald Steiner collects a number of useful Aṣṭāṅga resources on his website, including "cheat-sheets" for the series <a href="https://www.ashtangayoga.info/ashtanga-yoga/cheat-sheets-pdf/" target="_blank">here</a>.  You'll want the sheets for:
 
 * Sun Salutation A & B
 * Fundamental Positions with BNS Iyengar
 * Primary Series with BNS Iyengar
+
+**Note**: Steiner's site is in German, with an option for English.  If you see a popup asking what you want to do about "cookies", it will probably be in German.  The button to accept cookies is the one on the left.]
 
 {{< rawhtml >}}
 </div>  <!-- end previous accordion content -->

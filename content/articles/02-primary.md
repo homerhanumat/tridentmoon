@@ -191,6 +191,8 @@ Exiting vinyāsa (2):
 
 {{<audio src="/audio/prasarita.m4a" span="3" title="Pronunciation">}}
 
+*Analysis*:  prasārita + pāda + uttāna + āsana
+
 *English*: Stretching Out to Spread Feet Posture
 
 There are four phases:  A, B, C, D.
@@ -279,7 +281,9 @@ Exiting Vinyāsa (2):
 
 {{<audio src="/audio/utthitahasta.m4a" span="3" title="Pronunciation">}}
 
-*English*: Big Toe of the Foot [grasped] with Risen Hand Posture
+*English*: Standing Hand-to-Big-Toe-of-the-Foot Posture
+
+*Note*:  *utthita* = "stood up", standing
 
 There are four phases:  A, B, C, D.
 
@@ -338,7 +342,9 @@ Repeat posture on the left side.
 
 *English*: Fierce Posture
 
-**Note**:  In this posture the body resembles a jagged lightening-bolt; some people say this is why it is "fierce".
+*Note*:  *utkaṭa* = "exceeding the usual measure, immense, gigantic.
+
+**Note**:  Some people say that in this posture the body resembles a jagged lightening-bolt.  This may come from a lesser-used meaning of *utkaṭa*:  "uneven".
 
 Entering vinyāsa (2):
 
@@ -355,6 +361,8 @@ Exiting vinyāsa (2):
 {{<audio src="/audio/virabhadra.m4a" span="3" title="Pronunciation">}}
 
 *English*: Auspicious Hero Posture[^virabhadra]
+
+*Note*:  *vīra* = hero, warrior.  *bhadra* = blessed, auspicious.
 
 [^virabhadra]: "Vīrabhadra" is the name of an incarnation of Śiva.  <a href="https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php" target="_blank">Monier-Williams</a> says:
 
@@ -482,6 +490,8 @@ Then:
 ### tryaṅgamukhaikapādapaścimottānāsana
 
 {{<audio src="/audio/tryanga.m4a" span="3" title="Pronunciation">}}
+
+*Analysis*:  tri + aṅga + mukha + eka + pāda + paścima + uttāna + āsana.
 
 *English*: Three-Limbed Face to One Leg West Stretching out Posture
 
@@ -696,6 +706,8 @@ Then take your vinyāsa.[^half-primary]
 
 *English*: Pressure on the Shoulders Posture
 
+*Note*:  *pīḍa* usually means somehting like "pain", or "annoyance", but here probably substitutes for *pīḍana*, "pressing".
+
 This postures has two phases:  A and B.
 
 Entering vinyāsa into A (4):
@@ -752,6 +764,8 @@ Then take your vinyāsa.
 {{<audio src="/audio/garbha.m4a" span="3" title="Pronunciation">}}
 
 *English*: Embryo in the Womb Posture
+
+*Note*:  *garbha* is a womb.  *piṇḍa* is a lump or piece of anything, especially a ball of rice, but a classical lexicon also offers the meaning "embryo".
 
 Entering vinyāsa:
 
@@ -812,9 +826,9 @@ Take your vinyāsa.
 
 {{<audio src="/audio/upavishta.m4a" span="3" title="Pronunciation">}}
 
-*English*: "Entered-into" Angle Posture[^entered-into]
+*English*: "Entered-into" Angle Posture
 
-[^entered-into]: *upaviṣṭa* can mean "seated" but here it most likely refers to the way that the forward-folding torso "enters into" the angle formed by the legs.]
+*Note*: *upaviṣṭa* frequently means "seated" but also can mean "entered into" any state or condition. Here it may refer to how one's forward-folding torso "enters into" the angle formed by one's legs.]
 
 This posture has two phases:  A and B.
 
@@ -897,6 +911,8 @@ Consider taking chakrāsana for the transition to the next posture (or just sit 
 
 *English*: Thumbs to Both Feet Posture
 
+*Note*:  *ubhaya* = "both".
+
 This posture has two phases:  A and B.
 
 Entering vinyāsa into A (2):
@@ -931,6 +947,8 @@ Take your vinyāsa.
 {{<audio src="/audio/setu.m4a" span="3" title="Pronunciation">}}
 
 *English*: Bridge-Binding Posture
+
+*Note*:  *setu* = "bridge", *bandha* = "binding".  The compound refers to the forming of a dam or bridge.
 
 Entering vinyāsa (5):
 
@@ -980,7 +998,11 @@ Postures in this sequence are held for eight breaths, unless otherwise indicated
 
 {{<audio src="/audio/salambha.m4a" span="3" title="Pronunciation">}}
 
-*English*: Posture where All Limbs have Suppport (AKA Shoulder Stand)
+*Analysis*:  sa + ālambha + sarva + aṅga + āsana
+
+*English*: Posture where All Limbs are Help Up (AKA Shoulder Stand)
+
+*Note*:  *ālambha* = "taking, seizing, touching".  The prefix *sa* carries the meaning "with", so here *sālambha*, "with touching" may refer to the way the hands contact the lower back to support the body.
 
 Entering vinyāsa (5):
 
@@ -1156,9 +1178,9 @@ Hold this posture 10-25 breaths.
 
 {{<audio src="/audio/tola.m4a" span="3" title="Pronunciation">}}
 
-*English*: Lift Posture[^tolana]
+*English*: Tola Posture[^tolana]
 
-[^tolana]: Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*.]
+[^tolana]: Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*. But *tola* itself is a classical standard measure, said to be the weight of 100 Gunja seeds.  This amounts to only 12 grams more or less, so perhaps the idea was to make a joke for beginning practitioners.
 
 Entering vinyāsa:
 
