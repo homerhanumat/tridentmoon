@@ -28,6 +28,12 @@ Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" t
 
 ### sūryanamaskāra A Sequence
 
+{{< collapse id="yo" label="there" >}}
+some stuff
+{{< /collapse >}}
+
+{{< collapse id="surya-a" label="Performance" >}}
+
 Repeat this sequence 4-5 times.  Only one posture of the sequence (adhomukhaśvānāsana) is held.
 
 Begin in __samasthitiḥ__ ("Even Standing").
@@ -42,6 +48,8 @@ Begin in __samasthitiḥ__ ("Even Standing").
 1. exhale: fold down to __uttanāsana A__
 1. inhale: up to __ūrdhvavṛkṣāsana__
 1. exhale: to __samasthitiḥ__
+
+{{< /collapse >}}
 
 ### sūryanamaskāra B Sequence
 
