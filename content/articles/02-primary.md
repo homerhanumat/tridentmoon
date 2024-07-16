@@ -1000,7 +1000,7 @@ Postures in this sequence are held for eight breaths, unless otherwise indicated
 
 *Analysis*:  sa + ālambha + sarva + aṅga + āsana
 
-*English*: Posture where All Limbs are Help Up (AKA Shoulder Stand)
+*English*: Posture where All Limbs are Held Up (AKA Shoulder Stand)
 
 *Note*:  *ālambha* = "taking, seizing, touching".  The prefix *sa* carries the meaning "with", so here *sālambha*, "with touching" may refer to the way the hands contact the lower back to support the body.
 
