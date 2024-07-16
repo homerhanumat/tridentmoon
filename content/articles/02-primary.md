@@ -30,7 +30,7 @@ Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" t
 
 Repeat this sequence 4-5 times.  Only one posture of the sequence (adhomukhaśvānāsana) is held.
 
-Begin in __samasthitiḥ__.
+Begin in __samasthitiḥ__ ("Even Standing").
 
 1. inhale: raise arms and look up, to __ūrdhvavṛkṣāsana__ (Upward Tree Posture)
 1. exhale: fold down to __uttanāsana A__ (Stretching Out Posture A)
@@ -77,6 +77,8 @@ Begin in __samasthitiḥ__ from the final iteration of the sūryanamakāra A seq
 
 *English*: Thumb to Foot Posture
 
+**Note**:  Possibly "Big Toe of the Foot Posture", as *aṅguśṭha* means both "thumb" and "big toe".
+
 Entering vinyāsa (4):
 
 1. inhale: step left, hands to hips, look up
@@ -90,7 +92,7 @@ Entering vinyāsa (4):
 
 {{<audio src="/audio/padahastasana.m4a" span="3" title="Pronunciation">}}
 
-*English*: Hand [under] Foot Posture
+*English*: Hand under Foot Posture
 
 Entering vinyāsa (4):
 
@@ -131,6 +133,8 @@ Exiting vinyāsa (1):
 {{<audio src="/audio/parivrttatrikonasana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Revolved Triangle Posture
+
+**Note**:  *parivṛtta* = "turned around", "revolved".
 
 Entering vinyāsa (1):
 
@@ -194,6 +198,8 @@ Exiting vinyāsa (2):
 *Analysis*:  prasārita + pāda + uttāna + āsana
 
 *English*: Stretching Out to Spread Feet Posture
+
+**Note**:  *prasārita* is literally "caused to flow forth", and can mean "spread". The feet are spread apart from each other.
 
 There are four phases:  A, B, C, D.
 
@@ -283,7 +289,7 @@ Exiting Vinyāsa (2):
 
 *English*: Standing Hand-to-Big-Toe-of-the-Foot Posture
 
-*Note*:  *utthita* = "stood up", standing
+*Note*:  *utthita* = "stood up", thus "standing".
 
 There are four phases:  A, B, C, D.
 
@@ -342,7 +348,7 @@ Repeat posture on the left side.
 
 *English*: Fierce Posture
 
-*Note*:  *utkaṭa* = "exceeding the usual measure, immense, gigantic.
+*Note*:  *utkaṭa* = "exceeding the usual measure, immense, gigantic".
 
 **Note**:  Some people say that in this posture the body resembles a jagged lightening-bolt.  This may come from a lesser-used meaning of *utkaṭa*:  "uneven".
 
@@ -706,7 +712,7 @@ Then take your vinyāsa.[^half-primary]
 
 *English*: Pressure on the Shoulders Posture
 
-*Note*:  *pīḍa* usually means somehting like "pain", or "annoyance", but here probably substitutes for *pīḍana*, "pressing".
+*Note*:  *pīḍā* usually means somehting like "pain", or "annoyance", but here probably substitutes for *pīḍana*, "pressing".
 
 This postures has two phases:  A and B.
 
@@ -1180,7 +1186,7 @@ Hold this posture 10-25 breaths.
 
 *English*: Tola Posture[^tolana]
 
-[^tolana]: Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*. But *tola* itself is a classical standard measure, said to be the weight of 100 Gunja seeds.  This amounts to only 12 grams more or less, so perhaps the idea was to make a joke for beginning practitioners.
+[^tolana]: Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*. But *tola* itself is a classical standard measure, said to be the weight of 100 Gunja seeds.  This amounts to only 12 grams more or less, so perhaps the idea was to make a joke for beginning practitioners.  When BNS Iyengar started recommedning that practitioners perform *bhastrika* breathing while in this posture, he began to refer to it as *utpluthiḥ*, "jumping up".
 
 Entering vinyāsa:
 
