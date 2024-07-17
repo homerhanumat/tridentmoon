@@ -68,8 +68,6 @@ adhaḥ | downward
 
 ## Things
 
-{{<audio src="/audio/terms/things.m4a" span="3" title="Pronunciation">}}
-
 Sanskrit | English
 -------- | ----------
 sūrya | the sun
@@ -85,6 +83,8 @@ kukkuṭa | a rooster
 hāla | a plow
 koṇa | an angle
 dhanuḥ | a bow
+
+{{<audio src="/audio/terms/things.m4a" span="3" title="Pronunciation">}}
 
 ## Number-Related Words
 
@@ -102,7 +102,25 @@ sarva | all, every
 
 ## Joining Words
 
-TODO
+Most Sanskrit posture-names are *compounds*:  i.e., they consist of two or more basic words joined together.
+
+Now when we speak, we often modify adjacent words to make then easier to say.  For example, when we speak the question "Do you want play ball?", it usually sounds something like: "D'ya wanna play ball?"
+
+It's the same in Sanskirt, except that in the written language every effort is made to represent *exactly* how the spoken language sounds.  One consequence of this is that the words in Sanskrit compounds often undergo changes at the end when followed by another word, and at the beginning when preceeded by a word.
+
+For example, if you want to say "face to one foot" in Sanskrit, you will make a compound out of *mukha* ("face"), *eka* ("one"), and *pāda*, ("foot").  When you do so, there is a sound-change:
+
+>mukha + eka + pāda -> mukhaikapāda
+
+The "a" of *mukha* combines with the "e" of *pada* to make the "ai" sound. (No changes were required when joining *eka* and *pāda*.)
+
+Here are a few more examples:
+
+* paścima + uttāna + āsana -> paścimottānāsana
+* tri + aṅga -> tryaṅga
+* dhanuḥ + āsana -> dhanurāsana
+
+There is no need to learn the sound-change rules formally:  if you know the simple words well enough, then you can usually recognize them in compounds.
 
 {{< rawhtml >}}
 <script>
