@@ -8,7 +8,7 @@ summary: "This article lists the postures of the Primary Series as taught by BNS
 weight: 3
 ---
 
-This article lists the postures of the Primary Series as taught by BNS Iyngar, along with a rendering of the encompassing vinyāsa.[^vinyasa] The postures are identified first in Sanskrit and then in English translation.
+This article lists the postures of the Primary Series as taught by BNS Iyengar, along with a rendering of the encompassing vinyāsa.[^vinyasa] The postures are identified first in Sanskrit and then in English translation, with audio clips for pronunciation and miscellaneous notes.  For best results, please review the article on <a href="articles/sanskrit-vocabulary/">basic terms</a>.
 
 [^vinyasa]: The term *vinyāsa* is often used loosely to refer to the sequence of movments that form a transition from one seated posture to the next---liftng up, jumping/stepping back to plank, up-dog, down-down, jump/step through to a sitting position to begin the next posture---but here it is used in its strict sense as one-half of a breath (either the inhale or the exhale) that is to be associated with a particular movement between postures as opposed to breaths taken while in the postures themselves.
 
@@ -21,9 +21,9 @@ It is important to bear in mind that, just as the postures themselves should be 
 
 {{<audio src="/audio/suryanamaskara.m4a" span="3" title="Pronunciation">}}
 
-*English*:  Salutations to the Sun
+**Analysis**:  sūrya + namaḥ + kāra
 
-
+*English*:  Making a Bow to the Sun (AKA: Sun Salutations)
 
 Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" that is the Primary Series.
 

@@ -10,7 +10,26 @@ weight: 2
 
 ## Introduction
 
-TODO
+It's a good idea to learn, as much as possible, the Sanskrit names of the postures in the Aśṭāṅga Yoga system.  In the Yoga world, Sanskrit functions rather like Latin did in the Europe until recently:  as a way for educated folks to communicate across language barriers and even across regional differences in the same language.  At a Yoga studio in California when they lift the right leg, grab the big toe with thumb and first two fingers of the right hand, they might say they are going into "Extended Hand-to-Big-Toe Pose", and in a little practice group in Kentucky they might say "Standing Hand-to-Big-Toe-of-the-Foot Posture", but if everyone also knows it as *utthitahastapādāṅguṣṭhāsana*, then when they meet in a workshop at a rural retreat in Noble, Oklahoma, right away they can lift their right legs and proceed together.
+
+In this article we introduce some basic Sanskrit words that occur as parts of many posture-names, though the focus is on postures of the Primary Series.  If you invest the time to learn just these few words, you will find it much easier to take in the full names of the all the Primary Series postures, as covered in the follow-up <a href="articles/primary/">article</a>.
+
+### Pronunciation
+
+We write the Sanskrit words in the International Alphabet of Sanskrit Transliteration (<a href="https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration" target="_blank">IAST</a>). This alphabet looks pretty much like the familiar English alphabet, but with the possibility of *diacritic marks*---dots, dashes and such---above or below letters.  For example, you'll see not only the letter "s" (pronounced like the "s" in "sea", but also "ś" and "ṣ", which represent slightly different "sh"-sounds.
+
+If you want to go all-in on the principles of Sanskrit pronuniciation, you can consult other resources (like <a href="https://learnsanskrit.org/sounds/" target="_blank">this one</a> which gives you the option to use IAST), but you'll also get the hang of it if you listen to the audio files below, and keep in mind the following basics:
+
+* "c" is pronounced like the "ch" in "chip-monk";
+* "g" is pronounced like the second "g" in "gigantic" (not the first one!);
+* "a" is pronounced like the "u" in "cup";
+* "ā" is pronounced like the "a" in "father";
+* "ū" is pronounced like the "oo" in "moon";
+* "i" in pronounced like the "i" in "in";
+* "ī" is pronounced like "ee" in "green";
+* "e" is pronounced like the "e" in "grey";
+* "ś" and "ṣ" are slightly different "sh"-sounds;
+* consonant-letters with "h" right after---such as "bh", "ph", "dh", and "th"---are *aspirates*:  they are pronounced like the leading letter, but with a accompanying puff of air.  (Thus "ph" is *not* like the "ph" in "phantom"!)
 
 ## Action-Related Words
 
@@ -18,7 +37,8 @@ Sanskrit | English
 -------- | ----------
 uttāna | stretching out
 bandha | binding
-namaskāra | "making *namaḥ*", doing obesience
+namaḥ | salutation, a bow
+kāra | making, doing
 āsana | "sitting", a posture
 sthitiḥ | standing
 
