@@ -5,6 +5,7 @@ omit_header_text: true
 featured_image: images/shiva_moon_landscape.jpg
 summary: "Links to good teachers, useful practice videos, cheatsheets, and supplies."
 type: page
+weight: 1
 ---
 
 {{< rawhtml >}}
