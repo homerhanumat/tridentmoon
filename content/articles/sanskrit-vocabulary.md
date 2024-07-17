@@ -44,6 +44,14 @@ sthitiḥ | standing
 
 {{<audio src="/audio/terms/action.m4a" span="3" title="Pronunciation">}}
 
+{{< rawhtml >}}
+<style>
+th:hover {
+  color: #AAA7EA;
+}
+</style>
+{{< /rawhtml >}}
+
 ## Body Parts
 
 Sanskrit | English
