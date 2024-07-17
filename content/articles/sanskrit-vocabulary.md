@@ -33,6 +33,8 @@ If you want to go all-in on the principles of Sanskrit pronuniciation, you can c
 
 ## Action-Related Words
 
+**Note**:  In the table below and in all following tables, clicking inside a column-header will toggle between showing and hiding the contents of the cells underneath it.  This lets you practice going from Sanskrit to English, snd vice-versa.
+
 Sanskrit | English
 -------- | ----------
 uttāna | stretching out
@@ -132,9 +134,9 @@ sarva | all, every
 
 Most Sanskrit posture-names are *compounds*:  i.e., they consist of two or more basic words joined together.
 
-Now when we speak, we often modify adjacent words to make then easier to say.  For example, when we speak the question "Do you want play ball?", it usually sounds something like: "D'ya wanna play ball?"
+When we speak, we often modify adjacent words to make then easier to say.  For example, when someone asks: "Do you want play ball?", the question usually comes out sounding like: "D'ya wanna play ball?"
 
-It's the same in Sanskirt, except that in the written language every effort is made to represent *exactly* how the spoken language sounds.  One consequence of this is that the words in Sanskrit compounds often undergo changes at the end when followed by another word, and at the beginning when preceeded by a word.
+It's the same in Sanskrit, except that in the written language every effort is made to represent *exactly* how the spoken language sounds.  One consequence of this is that the words in written Sanskrit compounds often undergo changes at the end when followed by another word, and at the beginning when preceeded by a word.
 
 For example, if you want to say "face to one foot" in Sanskrit, you will make a compound out of *mukha* ("face"), *eka* ("one"), and *pāda*, ("foot").  When you do so, there is a sound-change:
 
@@ -160,7 +162,7 @@ There is no need to learn the sound-change rules formally:  if you know the simp
 
 function modifyColumn(table, columnIndex, language) {
     const headers = table.getElementsByTagName("th");
-    headers[columnIndex].innerHTML = `${language} (click to hide)`;
+    headers[columnIndex].innerHTML = `Hide ${language}`;
     headers[columnIndex].addEventListener("click", function(e) {
         console.log("hello");
         const rows = table.getElementsByTagName('tr');
@@ -172,10 +174,10 @@ function modifyColumn(table, columnIndex, language) {
               console.log(hidden);
               if (hidden) {
                 elem.style.visibility = "visible";
-                e.target.innerHTML = `${language} (click to hide)`;
+                e.target.innerHTML = `Hide ${language}`;
               } else {
                 elem.style.visibility = "hidden";
-                e.target.innerHTML = `${language} (click to show)`;
+                e.target.innerHTML = `Show ${language}`;
               }
             }
           }
