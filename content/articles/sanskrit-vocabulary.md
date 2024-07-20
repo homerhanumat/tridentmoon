@@ -125,6 +125,7 @@ eka | one
 tri | three
 catuḥ | four
 aśṭa | eight
+ardha | half
 ubhaya | both
 sarva | all, every
 
