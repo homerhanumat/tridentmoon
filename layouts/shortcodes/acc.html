@@ -1,0 +1,23 @@
+<!-- accordion-->
+{{ $contentdelim := .Get "contentdelim" }}
+{{ $labeldelim := .Get "labeldelim" }}
+{{ $contents := strings.Split .Inner $contentdelim }}
+
+<div class="accordion">
+
+    {{ range $contents }}
+    <div class="accordion-item">
+        {{ $item := strings.Split . $labeldelim}}
+        <input type="radio" class="dn" name="slides" id="slide1" checked>
+        <label for="slide1" class="accordion-item-label db pv3 link black hover-blue pointer">
+            {{ index $item 0 | markdownify }}
+        </label>
+        <hr>
+        <div class="accordion-content">
+        {{ index $item 1 | markdownify }}
+        </div>  <!-- end previous accordion content -->
+    </div>  <!-- end previous accordion item -->
+    {{ end }}
+
+</div> <!-- end accordion -->
+  

@@ -66,8 +66,8 @@ function randomQuotes() {
 window.addEventListener('load', randomQuotes);
 
 /************************************************
-  * accordian
-  ************************************************/
+* accordian
+************************************************/
 
 const accordionItemLabels = document.querySelectorAll(".accordion-item-label");
 accordionItemLabels.forEach(label => {

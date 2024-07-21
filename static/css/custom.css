@@ -31,14 +31,19 @@
     padding: 0  15px 15px;
   }
 
-  /*  accordian.  inspiration from 
-  https://codepen.io/Anotherdago/pen/yjVxOB */
+/********************************************
+* accordian.  inspiration from 
+* https://codepen.io/Anotherdago/pen/yjVxOB 
+*********************************************/
 
- .accordion-content {
-    display: none;
-  }
+.accordion-content {
+  display: none;
+}
 
-/* for collapse shortcode */
+/********************************************
+* collapsible content.  inspiration from 
+* https://www.digitalocean.com/community/tutorials/css-collapsible 
+*********************************************/
 
 .wrap-collapsible input[type='checkbox'] {
   display: none;
@@ -46,7 +51,6 @@
 
 .lbl-toggle {
   display: block;
-
   font-weight: bold;
   font-family: monospace;
   font-size: 1.2rem;
@@ -55,7 +59,7 @@
 
   padding: 1rem;
 
-  color: #A77B0E;
+  color: #A77B0E !important;
   background: #e8ede6;
 
   cursor: pointer;
@@ -65,7 +69,7 @@
 }
 
 .lbl-toggle:hover {
-  color: #7C5A0B;
+  color: #7C5A0B !important;
 }
 
 .lbl-toggle::before {
@@ -112,6 +116,10 @@
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
+
+/**********************
+* table styling 
+************************/
 
 table {
   border-collapse: collapse;
