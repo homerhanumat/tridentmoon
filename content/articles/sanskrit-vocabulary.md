@@ -28,14 +28,15 @@ We write Sanskrit in the International Alphabet of Sanskrit Transliteration (<a 
 
 Should you desire to go all-in on the principles of Sanskrit pronuniciation, you may consult other resources (like <a href="https://learnsanskrit.org/sounds/" target="_blank">this one</a> which gives you the option to use IAST), but you'll get along well enough just by listening to the audio files below and bearing in mind the following basics:
 
-* "c" is pronounced like the "ch" in "chip-monk";
-* "g" is pronounced like the "g"s in "gangrene";
 * "a" is pronounced like the "u" in "cup";
 * "ā" is pronounced like the "a" in "father";
+* "u" is pronounced like the "u" in "put";
 * "ū" is pronounced like "oo" in "moon";
 * "i" in pronounced like the "i" in "in";
 * "ī" is pronounced like "ee" in "green";
 * "e" is pronounced like the "e" in "grey";
+* "g" is pronounced like the "g"s in "gangrene";
+* "c" is pronounced like the "ch" in "chip-monk";
 * "ś" and "ṣ" are slightly different "sh"-sounds;
 * consonant-letters with "h" right after---such as "bh", "ph", "dh", and "th"---are *aspirates*:  they are pronounced like the leading letter, but with an accompanying puff of air.  (Thus "ph" is *not* like "ph" in "phantom"!)
 
