@@ -56,6 +56,10 @@ Dr. Ronald Steiner collects a number of useful Aṣṭāṅga resources on his w
 
 :::
 
+The Practice Manual
+
+The classic hard-copy book is <a href="https://www.ashtanga.net/collections/the-practice-manual" target="_blank">*Ashtanga Yoga:  the Practice Manual*</a>, by David Swenson.  Its spiral binding allows the book to open flat so you can keep it beside your mat as you work through the postures.
+
 Primary Series Videos&&
 
 
