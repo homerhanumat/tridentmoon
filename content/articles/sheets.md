@@ -60,12 +60,13 @@ The Practice Manual
 
 The classic hard-copy book is <a href="https://www.ashtanga.net/collections/the-practice-manual" target="_blank">*Ashtanga Yoga:  the Practice Manual*</a>, by David Swenson.  Its spiral binding allows the book to open flat so you can keep it beside your mat as you work through the postures.
 
-Primary Series Videos&&
+Primary Series Videos
 
 
 * I teach a version of Primary Series of Aṣṭāṅga Yoga that was passed down by BNS Iyengar of Mysore, India, to my own teacher Andrew Eppler.  One of Andrew's students, Joey Paz, has produced a very accurate video of himself performing the BNS Iyengar Primary Series.  It can be purchased for a low price <a href="https://www.joeypazyoga.com/bns-primary-series" target="_blank">here</a>.
 * In this <a href="https://www.youtube.com/watch?v=1Krp4W0TlAU" target="_blank">Youtube video</a>, <a href="https://www.petriandwambui.com/wambui/" target="_blank">Wambui Njuguna-Räisänen</a> leads a student through a large fraction of the Primary Series, offering very sensible modifications to the postures. (Wambui follows the more-commonly seen "Patabhi Jois" version of the Primary Series, so you'll notice a few small difference from what we do in class.)
 * The jump-through portion of the vinyāsa transition is a frequent point of inquiry among students.  In <a href="https://www.youtube.com/watch?v=Y1SL70mDLOw" target="_blank">this video</a> Laruga Glaser describes a sequence of modifications that many people find useful to train for the full jump-through.
+* <a href="https://yogamyoldfriend.com/the-big-difference-between-half-full-primary-ashtanga-series/" target="_blank">This site</a> collects a number of "short-form" videos, which you may find useful if you are just starting a home-practice.  (Beware:  you have to fight through a lot of ads to get to videos themselves.)
 
 :::
 
