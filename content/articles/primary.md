@@ -481,6 +481,12 @@ Exiting vinyāsa (4):
 
 *English*: Stick Posture
 
+{{< collapse id="dandapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/dandasana.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="danda" label="Performance" >}}
 
 No encompassing vinyāsa:  simply hold for the usual five breaths.
@@ -492,7 +498,24 @@ No encompassing vinyāsa:  simply hold for the usual five breaths.
 
 {{<audio src="/audio/paschimottana.m4a" span="3" title="Pronunciation">}}
 
-*English*: West Stretching out Posture
+*English*: West Stretching Out Posture
+
+{{< collapse id="paschipic" label="Image" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/paschi-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/paschi-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/paschi-c.jpeg">
+<figcaption>C</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 **Note**:  *paścima* means "western".  Since in Vedic ritual tradition the primary agent of the sacrifice faced East, the "west" refers to the back of a purson.  The idea is that in a forward bend the back gets a stretch.
 
@@ -528,6 +551,12 @@ Exiting vinyāsa from C (1):
 
 *English*: East Stretching out Posture
 
+{{< collapse id="pruvopic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/purvo.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 **Note**:  *pūrva* means "eastern".  Since the Vedic sacrficer faces East, the term also refers to the front of a person.  The idea is that one's front gets a stretch when the body is lifted.
 
 {{< collapse id="purva" label="Performance" >}}
@@ -558,6 +587,12 @@ The following sequence of vinyāsas, often referred to as "taking your vinyāsa"
 {{<audio src="/audio/ardhabaddhapadmapaschima.m4a" span="3" title="Pronunciation">}}
 
 *English*: Half Bound Lotus West Stretching out Posture
+
+{{< collapse id="abpppic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/abpp.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="ardhabaddha" label="Performance" >}}
 
@@ -590,6 +625,12 @@ Then:
 
 *English*: Three-Limbed Face to One Leg West Stretching out Posture
 
+{{< collapse id="triangapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/trianga.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="tryanga" label="Performance" >}}
 
 Entering vinyāsa (4):
@@ -619,9 +660,13 @@ Then:
 
 *English*: Head to Knee Posture
 
-This posture has three variants:  A, B and C.
+{{< collapse id="januapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/janu-a.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
-{{< collapse id="janu" label="Performance" >}}
+{{< collapse id="janua" label="Performance" >}}
 
 Entering vinyāsa (2):
 
@@ -639,7 +684,17 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+{{< /collapse >}}
+
 ### jānuśīrṣāsana B
+
+{{< collapse id="janubpic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/janu-b.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
+{{< collapse id="janub" label="Performance" >}}
 
 Entering vinyāsa (4):
 
@@ -659,7 +714,17 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+{{< /collapse >}}
+
 ### jānuśīrṣāsana C
+
+{{< collapse id="janucpic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/janu-c.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
+{{< collapse id="januc" label="Performance" >}}
 
 Entering vinyāsa:
 
@@ -689,9 +754,13 @@ Then:
 
 *Note*: This posture is dedicated to the sage <a href="https://en.wikipedia.org/wiki/Marichi" target="_blank">Marīci</a>.
 
-{{< collapse id="marici" label="Performance" >}}
+{{< collapse id="mariapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/mari-a.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
-There are four variations:  A, B, C and D.
+{{< collapse id="maria" label="Performance" >}}
 
 Entering vinyāsa into A (6):
 
@@ -713,7 +782,17 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+{{< /collapse >}}
+
 ### marīcyāsana B
+
+{{< collapse id="maribpic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/mari-b.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
+{{< collapse id="marib" label="Performance" >}}
 
 Entering vinyāsa into B (6):
 
@@ -735,7 +814,17 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+{{< /collapse >}}
+
 ### marīcyāsana C
+
+{{< collapse id="maricpic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/mari-c.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
+{{< collapse id="maric" label="Performance" >}}
 
 Entering vinyāsa into C (8):
 
@@ -759,7 +848,17 @@ Then:
 * repeat the posture on the other side
 * take your vinyāsa
 
+{{< /collapse >}}
+
 ### marīcyāsana D
+
+{{< collapse id="maridpic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/mari-d.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
+{{< collapse id="marid" label="Performance" >}}
 
 Entering vinyāsa into D (8):
 
@@ -793,6 +892,12 @@ Then:
 
 *English*: Boat Posture
 
+{{< collapse id="navapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/nava.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="nava" label="Performance" >}}
 
 This posture is repeated five times.
@@ -819,7 +924,20 @@ Then take your vinyāsa.
 
 *English*: Pressure on the Shoulders Posture
 
-*Note*:  *pīḍā* usually means somehting like "pain", or "annoyance", but here probably substitutes for *pīḍana*, "pressing".
+*Note*:  *pīḍā* usually means something like "pain", or "annoyance", but here probably substitutes for *pīḍana*, "pressing".
+
+{{< collapse id="bhujapic" label="Image" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/bhuja-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/bhuja-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="bhuja" label="Performance" >}}
 
@@ -854,9 +972,15 @@ Continue taking your vinyāsa.
 
 *English*: Tortoise Posture
 
+{{< collapse id="kurmapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/kurma.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="kurma" label="Performance" >}}
 
-Entering vinyāsa into A (4+):
+Entering vinyāsa (4+):
 
 1. inhale: jump/step forward, feet a bit beyond the hands
 1. one or more breaths, ending on an exhale: flatten torso towards the floor, with arms out wide under legs, palms down
@@ -869,6 +993,12 @@ Entering vinyāsa into A (4+):
 {{<audio src="/audio/suptakurma.m4a" span="3" title="Pronunciation">}}
 
 *English*: Sleeping Tortoise Posture
+
+{{< collapse id="suptakurmapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/suptak.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="suptakurma" label="Performance" >}}
 
@@ -888,13 +1018,19 @@ Then take your vinyāsa.
 
 ### garbhapiṇḍāsana
 
-{{< collapse id="garbha" label="Performance" >}}
-
 {{<audio src="/audio/garbha.m4a" span="3" title="Pronunciation">}}
 
 *English*: Embryo in the Womb Posture
 
 *Note*:  *garbha* is a womb.  *piṇḍa* is a lump or piece of anything, especially a ball of rice, but a classical lexicon also offers the meaning "embryo".
+
+{{< collapse id="garbhapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/garbha.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
+{{< collapse id="garbha" label="Performance" >}}
 
 Entering vinyāsa:
 
@@ -917,6 +1053,12 @@ Exhaling roll back, inhaling roll up; repeat 5-9 times.
 
 *English*: Rooster Posture
 
+{{< collapse id="kukkupic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/kukku.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="kukkuta" label="Performance" >}}
 
 Come up into it on inhale from final roll of garbhapiṇḍāsana.
@@ -938,6 +1080,19 @@ Take your vinyāsa.
 {{<audio src="/audio/baddhakona.m4a" span="3" title="Pronunciation">}}
 
 *English*: Bound Angle Posture
+
+{{< collapse id="baddhakpic" label="Image" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/baddhak-a.jpeg" alt="TODO (first attempt came out blurry).">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/baddhak-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="baddhakona" label="Performance" >}}
 
@@ -970,6 +1125,19 @@ Take your vinyāsa.
 
 *Note*: *upaviṣṭa* frequently means "seated" but also can mean "entered into" any state or condition. Here it may refer to how one's forward-folding torso "enters into" the angle formed by one's legs.]
 
+{{< collapse id="upapic" label="Image" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/upa-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/upa-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="upa" label="Performance" >}}
 
 This posture has two phases:  A and B.
@@ -993,6 +1161,19 @@ Transition vinyāsa to B (2):
 {{<audio src="/audio/suptakona.m4a" span="3" title="Pronunciation">}}
 
 *English*: Sleeping Angle Posture
+
+{{< collapse id="suptakonapic" label="Image" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/suptakona-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/upa-a.jpeg">
+<figcaption>B</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="suptakona" label="Performance" >}}
 
@@ -1022,6 +1203,27 @@ Take your vinyāsa.
 {{<audio src="/audio/suptapada.m4a" span="3" title="Pronunciation">}}
 
 *English*: Sleeping Thumb-to-Foot Posture
+
+{{< collapse id="suptapadaapic" label="Image" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/suptapada-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/suptapada-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/suptapada-c.jpeg">
+<figcaption>C</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/suptapada-d.jpeg">
+<figcaption>D</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="suptapada" label="Performance" >}}
 
@@ -1068,6 +1270,18 @@ Consider taking chakrāsana for the transition to the next posture (or just sit 
 
 *Note*:  *ubhaya* = "both".
 
+{{< collapse id="ubhayapic" label="Image" >}}
+<figure class="image-center-250">
+<img src="/images/primary/ubhaya-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/ubhaya-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+
+{{< /collapse >}}
+
 {{< collapse id="ubhaya" label="Performance" >}}
 
 This posture has two phases:  A and B.
@@ -1089,6 +1303,12 @@ Transition vinyāsa to B (1):
 {{<audio src="/audio/urdhvamukha.m4a" span="3" title="Pronunciation">}}
 
 *English*: Upward Face West Stretching out Posture
+
+{{< collapse id="urdhvamukhapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/urdhvamukha.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="urdhvamukha" label="Performance" >}}
 
@@ -1112,6 +1332,12 @@ Take your vinyāsa.
 *English*: Bridge-Binding Posture
 
 *Note*:  *setu* = "bridge", *bandha* = "binding".  The compound refers to the forming of a dam or bridge.
+
+{{< collapse id="setupic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/setu.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="setu" label="Performance" >}}
 

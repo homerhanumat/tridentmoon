@@ -31,6 +31,13 @@
     padding: 0  15px 15px;
   }
 
+  .image-center-250 {
+    width: 250px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 /********************************************
 * accordian.  inspiration from 
 * https://codepen.io/Anotherdago/pen/yjVxOB 
@@ -105,7 +112,7 @@
 
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 100vh;
+  max-height: max-content;
 }
 
 .toggle:checked + .lbl-toggle::before {
