@@ -494,44 +494,55 @@ No encompassing vinyāsa:  simply hold for the usual five breaths.
 
 {{< /collapse >}}
 
-### paścimottānāsana
+### paścimottānāsana A
 
 {{<audio src="/audio/paschimottana.m4a" span="3" title="Pronunciation">}}
 
 *English*: West Stretching Out Posture
 
-{{< collapse id="paschipic" label="Image" >}}
+**Note**:  *paścima* means "western".  Since in Vedic ritual tradition the primary agent of the sacrifice faced East, the "west" refers to the back of a purson.  The idea is that in a forward bend the back gets a stretch.
+
+{{< collapse id="paschiapic" label="Image" >}}
 {{< rawhtml >}}
-<figure class="image-center-250">
-<img src="/images/primary/paschi-a.jpeg">
-<figcaption>A</figcaption>
-</figure>
-<figure class="image-center-250">
-<img src="/images/primary/paschi-b.jpeg">
-<figcaption>B</figcaption>
-</figure>
-<figure class="image-center-250">
-<img src="/images/primary/paschi-c.jpeg">
-<figcaption>C</figcaption>
-</figure>
+<img class="image-center-250" src="/images/primary/paschi-a.jpeg">
 {{< /rawhtml >}}
 {{< /collapse >}}
 
-**Note**:  *paścima* means "western".  Since in Vedic ritual tradition the primary agent of the sacrifice faced East, the "west" refers to the back of a purson.  The idea is that in a forward bend the back gets a stretch.
-
-{{< collapse id="pashcima" label="Performance" >}}
-
-There are three phases:  A, B and C.
+{{< collapse id="pashcima-a" label="Performance" >}}
 
 Entering vinyāsa into A (2):
 
 1. inhale: take big toes with thumbs and forefingers, lengthen spine, look up
 1. exhale: fold forward
 
+{{< /collapse >}}
+
+### paścimottānāsana B
+
+{{< collapse id="paschibpic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/paschi-b.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
+{{< collapse id="pashcima-b" label="Performance" >}}
+
 Transition vinyāsa to B (2):
 
 1. inhale: straighten the spine and look up, grasping around soles of feet
 1. exhale: fold forward
+
+{{< /collapse >}}
+
+### paścimottānāsana C
+
+{{< collapse id="paschicpic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/paschi-c.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
+{{< collapse id="pashcima-c" label="Performance" >}}
 
 Transition vinyāsa to C (2):
 
