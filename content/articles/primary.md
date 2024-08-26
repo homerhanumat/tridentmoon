@@ -29,6 +29,54 @@ Andrew Eppler says that sūryanamaskāra are the meter and scale of the "song" t
 
 ### sūryanamaskāra A Sequence
 
+{{< collapse id="suryaa" label="Images" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/sama.jpeg">
+<figcaption>Samasthitiḥ</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/urdhvavrk.jpeg">
+<figcaption>Ūrdhvavṛkṣāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/uttana-a.jpeg">
+<figcaption>Uttānāsana A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/uttana-b.jpeg">
+<figcaption>Uttānāsana B</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/catur.jpeg">
+<figcaption>Caturaṅgadaṇḍāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/updog.jpeg">
+<figcaption>Ūrdhvamukhaśvānāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/downdog.jpeg">
+<figcaption>Adhomukhaśvānāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/uttana-b.jpeg">
+<figcaption>Uttānāsana B</figcaption>
+<figure class="image-center-250">
+<img src="/images/primary/uttana-a.jpeg">
+<figcaption>Uttānāsana A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/urdhvavrk.jpeg">
+<figcaption>Ūrdhvavṛkṣāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/sama.jpeg">
+<figcaption>Samasthitiḥ</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="surya-a" label="Performance" >}}
 
 Repeat this sequence 4-5 times.  Only one posture of the sequence (adhomukhaśvānāsana) is held.
@@ -49,6 +97,70 @@ Begin in __samasthitiḥ__ ("Even Standing").
 {{< /collapse >}}
 
 ### sūryanamaskāra B Sequence
+
+{{< collapse id="suryab" label="Images" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/sama.jpeg">
+<figcaption>Samasthitiḥ</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/utkata-sn.jpeg">
+<figcaption>Utkaṭāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/uttana-a.jpeg">
+<figcaption>Uttānāsana A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/uttana-b.jpeg">
+<figcaption>Uttānāsana B</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/catur.jpeg">
+<figcaption>Caturaṅgadaṇḍāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/updog.jpeg">
+<figcaption>Ūrdhvamukhaśvānāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/downdog.jpeg">
+<figcaption>Adhomukhaśvānāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/vira-1.jpeg">
+<figcaption>Vīrabhadrāsana (right)</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/downdog.jpeg">
+<figcaption>Adhomukhaśvānāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/vira-1-sn-2.jpeg">
+<figcaption>Vīrabhadrāsana (left)</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/downdog.jpeg">
+<figcaption>Adhomukhaśvānāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/uttana-b.jpeg">
+<figcaption>Uttānāsana B</figcaption>
+<figure class="image-center-250">
+<img src="/images/primary/uttana-a.jpeg">
+<figcaption>Uttānāsana A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/utkata-sn.jpeg">
+<figcaption>Utkaṭāsana</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/sama.jpeg">
+<figcaption>Samasthitiḥ</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="surya-b" label="Performance" >}}
 
@@ -87,6 +199,12 @@ Begin in __samasthitiḥ__ from the final iteration of the sūryanamakāra A seq
 
 **Note**:  Possibly "Big Toe of the Foot Posture", as *aṅguśṭha* means both "thumb" and "big toe".
 
+{{< collapse id="padangushthapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/padangusta.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="padanga" label="Performance" >}}
 
 Entering vinyāsa (4):
@@ -105,6 +223,12 @@ Entering vinyāsa (4):
 {{<audio src="/audio/padahastasana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Hand under Foot Posture
+
+{{< collapse id="padahastapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/padahasta.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="padahasta" label="Performance" >}}
 
@@ -129,6 +253,12 @@ Exiting vinyāsa (4, ends in samasthitiḥ):
 {{<audio src="/audio/trikonasana.m4a" span="3" title="Pronunciation">}}
 
 *English*: Triangle Posture
+
+{{< collapse id="trikonapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/trikona.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="trikona" label="Performance" >}}
 
@@ -156,6 +286,12 @@ Exiting vinyāsa (1):
 
 **Note**:  *parivṛtta* = "turned around", "revolved".
 
+{{< collapse id="parivrttatrikonapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/parivrttatrikona.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="paritri" label="Performance" >}}
 
 
@@ -182,6 +318,12 @@ Exiting vinyāsa (2):
 
 *English*: Side Angle Posture
 
+{{< collapse id="parsvakonapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/parsvakona.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="parshva" label="Performance" >}}
 
 Entering vinyāsa (2):
@@ -206,6 +348,12 @@ Exiting vinyāsa (1):
 {{<audio src="/audio/parivrttaparshva.m4a" span="3" title="Pronunciation">}}
 
 *English*: Revolved Side Angle Posture
+
+{{< collapse id="parivrttaparsvakonapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/parivrttaparsvakona.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="pariparsh" label="Performance" >}}
 
@@ -235,6 +383,27 @@ Exiting vinyāsa (2):
 *English*: Stretching Out to Spread Feet Posture
 
 **Note**:  *prasārita* is literally "caused to flow forth", and can mean "spread". The feet are spread apart from each other.
+
+{{< collapse id="prasaritapic" label="Image" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/prasarita-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/prasarita-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/prasarita-c.jpeg">
+<figcaption>C</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/prasarita-d.jpeg">
+<figcaption>D</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="prasarita" label="Performance" >}}
 
@@ -301,6 +470,12 @@ Exiting vinyāsa from D (4):
 
 *English*: Stretching Out to the Side Posture
 
+{{< collapse id="parsvapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/parsva.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="parshvottana" label="Performance" >}}
 
 Entering vinyāsa (4):
@@ -335,6 +510,27 @@ Exiting Vinyāsa (2):
 *English*: Standing Hand-to-Big-Toe-of-the-Foot Posture
 
 *Note*:  *utthita* = "stood up", thus "standing".
+
+{{< collapse id="utthitahastapic" label="Images" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/utthitahasta-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/utthitahasta-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/utthitahasta-c.jpeg">
+<figcaption>C</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/utthitahasta-d.jpeg">
+<figcaption>D</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="utthita" label="Performance" >}}
 
@@ -376,6 +572,12 @@ Then perform all four phases using the left leg.
 
 *English*: Stretching out in Half Bound Lotus Posture
 
+{{< collapse id="ardhabaddhapadmottanapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/ardhabaddhapadmottana.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="hop" label="Performance" >}}
 
 Entering vinyāsa (4):
@@ -407,6 +609,12 @@ Repeat posture on the left side.
 
 **Note**:  Some people say that in this posture the body resembles a jagged lightening-bolt.  This may come from a lesser-used meaning of *utkaṭa*:  "uneven".
 
+{{< collapse id="utkatapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/utkata.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="fierce" label="Performance" >}}
 
 Entering vinyāsa (2):
@@ -431,6 +639,19 @@ Exiting vinyāsa (2):
 *Note*:  *vīra* = hero, warrior.  *bhadra* = blessed, auspicious". Vīrabhadra" is the name of an incarnation of Śiva.  <a href="https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php" target="_blank">Monier-Williams</a> says:
 
 >... in the Vāyu-Purāṇa he is said to have been created from Śiva's mouth in order to spoil the sacrifice of Dakṣa, and is described as having a thousand heads, a thousand eyes, a thousand feet, and wielding a thousand clubs; his appearance is fierce and terrific, he is clothed in a tiger's skin dripping with blood, and he bears a blazing bow and battle-axe; in another Purāṇa he is described as produced from a drop of Śiva's sweat.
+
+{{< collapse id="virabhadrapic" label="Images" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/vira-1.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/vira-2.jpeg">
+<figcaption>B</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="vira" label="Performance" >}}
 
@@ -937,7 +1158,7 @@ Then take your vinyāsa.
 
 *Note*:  *pīḍā* usually means something like "pain", or "annoyance", but here probably substitutes for *pīḍana*, "pressing".
 
-{{< collapse id="bhujapic" label="Image" >}}
+{{< collapse id="bhujapic" label="Images" >}}
 {{< rawhtml >}}
 <figure class="image-center-250">
 <img src="/images/primary/bhuja-a.jpeg">
@@ -1092,7 +1313,7 @@ Take your vinyāsa.
 
 *English*: Bound Angle Posture
 
-{{< collapse id="baddhakpic" label="Image" >}}
+{{< collapse id="baddhakpic" label="Images" >}}
 {{< rawhtml >}}
 <figure class="image-center-250">
 <img src="/images/primary/baddhak-a.jpeg" alt="TODO (first attempt came out blurry).">
@@ -1136,7 +1357,7 @@ Take your vinyāsa.
 
 *Note*: *upaviṣṭa* frequently means "seated" but also can mean "entered into" any state or condition. Here it may refer to how one's forward-folding torso "enters into" the angle formed by one's legs.]
 
-{{< collapse id="upapic" label="Image" >}}
+{{< collapse id="upapic" label="Images" >}}
 {{< rawhtml >}}
 <figure class="image-center-250">
 <img src="/images/primary/upa-a.jpeg">
@@ -1173,7 +1394,7 @@ Transition vinyāsa to B (2):
 
 *English*: Sleeping Angle Posture
 
-{{< collapse id="suptakonapic" label="Image" >}}
+{{< collapse id="suptakonapic" label="Images" >}}
 {{< rawhtml >}}
 <figure class="image-center-250">
 <img src="/images/primary/suptakona-a.jpeg">
@@ -1215,7 +1436,7 @@ Take your vinyāsa.
 
 *English*: Sleeping Thumb-to-Foot Posture
 
-{{< collapse id="suptapadaapic" label="Image" >}}
+{{< collapse id="suptapadaapic" label="Images" >}}
 {{< rawhtml >}}
 <figure class="image-center-250">
 <img src="/images/primary/suptapada-a.jpeg">
@@ -1281,7 +1502,7 @@ Consider taking chakrāsana for the transition to the next posture (or just sit 
 
 *Note*:  *ubhaya* = "both".
 
-{{< collapse id="ubhayapic" label="Image" >}}
+{{< collapse id="ubhayapic" label="Images" >}}
 <figure class="image-center-250">
 <img src="/images/primary/ubhaya-a.jpeg">
 <figcaption>A</figcaption>
@@ -1375,6 +1596,12 @@ Consider taking chakrāsana for the transition to the next posture (or just sit 
 
 *English*: Upward Bow Posture
 
+{{< collapse id="urdhvadhanupic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/urdhvadhanu.jpeg" alt="Coming Soon!">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="urdhvadhanu" label="Performance" >}}
 
 Entering vinyāsa (3):
@@ -1410,6 +1637,12 @@ Postures in this sequence are held for eight breaths, unless otherwise indicated
 
 *Note*:  *ālambha* = "taking, seizing, touching".  The prefix *sa* carries the meaning "with", so here *sālambha*, "with touching" may refer to the way the hands contact the lower back to support the body.
 
+{{< collapse id="shoulderpic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/shoulder.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="sarva" label="Performance" >}}
 
 Entering vinyāsa (5):
@@ -1431,6 +1664,12 @@ Hold the posture for 10-25 breaths.
 
 *English*: Plow Posture
 
+{{< collapse id="halapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/hala.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="hala" label="Performance" >}}
 
 Entering vinyāsa (1):
@@ -1447,6 +1686,12 @@ Entering vinyāsa (1):
 
 *English*: Pressure on the Ears Posture
 
+{{< collapse id="karnapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/karna.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="karna" label="Performance" >}}
 
 Entering vinyāsa (1):
@@ -1461,6 +1706,12 @@ Entering vinyāsa (1):
 {{<audio src="/audio/urdhvapadma.m4a" span="3" title="Pronunciation">}}
 
 *English*: Upward Lotus Posture
+
+{{< collapse id="urdhvapadmapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/urdhvapadma.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="urdhvapadma" label="Performance" >}}
 
@@ -1478,6 +1729,12 @@ Entering vinyāsa (4):
 
 *English*: Embryo Posture
 
+{{< collapse id="pindapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/pinda.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="pinda" label="Performance" >}}
 
 Entering vinyāsa (1):
@@ -1491,6 +1748,12 @@ Entering vinyāsa (1):
 {{<audio src="/audio/matsya.m4a" span="3" title="Pronunciation">}}
 
 *English*: Fish Posture
+
+{{< collapse id="matsyapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/matsya.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="matsya" label="Performance" >}}
 
@@ -1507,6 +1770,12 @@ Entering vinyāsa (5):
 {{<audio src="/audio/uttanapada.m4a" span="3" title="Pronunciation">}}
 
 *English*: Legs Stretching out Posture
+
+{{< collapse id="uttanapadapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/uttanapada.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="uttana" label="Performance" >}}
 
@@ -1526,6 +1795,12 @@ Consider taking chakrāsana for the transition to the next posture (or just sit 
 
 *English*: Head[stand] Posture
 
+{{< collapse id="sirsapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/sirsa.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="shirsha" label="Performance" >}}
 
 Entering vinyāsa:
@@ -1544,6 +1819,19 @@ Hold for 10-15 breaths.
 {{<audio src="/audio/urdhvadanda.m4a" span="3" title="Pronunciation">}}
 
 *English*: Upward Stick Posture
+
+{{< collapse id="urdhvadandapic" label="Images" >}}
+{{< rawhtml >}}
+<figure class="image-center-250">
+<img src="/images/primary/urdhvadanda-a.jpeg">
+<figcaption>A</figcaption>
+</figure>
+<figure class="image-center-250">
+<img src="/images/primary/urdhvadanda-b.jpeg">
+<figcaption>B</figcaption>
+</figure>
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="urdhvadanda" label="Performance" >}}
 
@@ -1577,6 +1865,12 @@ Repeat the above motion ten times.
 
 *English*: Child Posture
 
+{{< collapse id="balapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/bala.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="bala" label="Performance" >}}
 
 Entering vinyāsa:
@@ -1592,6 +1886,12 @@ Hold this posture 4-5 breaths.
 {{<audio src="/audio/baddhapadma.m4a" span="3" title="Pronunciation">}}
 
 *English*: Bound Lotus Posture
+
+{{< collapse id="baddhapadmapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/baddhapadma.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="baddhapadma" label="Performance" >}}
 
@@ -1619,6 +1919,12 @@ Exiting vinyāsa (1):
 
 *English*: Lotus Posture
 
+{{< collapse id="padmapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/padma.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
+
 {{< collapse id="padma" label="Performance" >}}
 
 Entering vinyāsa (1):
@@ -1636,6 +1942,12 @@ Hold this posture 10-25 breaths.
 *English*: Tola Posture
 
 **Note**: Monier-Williams cites *tolana* as "lifting up" in the *Rāmāyana*. But *tola* itself is a classical standard measure, said to be the weight of 100 Gunja seeds.  This amounts to only 12 grams more or less, so perhaps the idea was to make a joke for beginning practitioners.  When BNS Iyengar started recommending that practitioners perform *bhastrika* breathing while in this posture, he began to refer to it as *utpluthiḥ*, "jumping up".
+
+{{< collapse id="tolapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/tola.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="tola" label="Performance" >}}
 
@@ -1657,6 +1969,12 @@ Exiting vinyāsa (1):
 {{<audio src="/audio/sava.m4a" span="3" title="Pronunciation">}}
 
 *English*: Corpse Posture
+
+{{< collapse id="savapic" label="Image" >}}
+{{< rawhtml >}}
+<img class="image-center-250" src="/images/primary/sava.jpeg">
+{{< /rawhtml >}}
+{{< /collapse >}}
 
 {{< collapse id="shava" label="Performance" >}}
 
