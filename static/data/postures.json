@@ -208,5 +208,245 @@
         "english": "Head to Knee Posture C",
         "audio": "/audio/janushirsha.m4a",
         "image": "/images/primary/janu-c.jpeg"
+    },
+    {
+        "sanskrit": "marīcyāsana A",
+        "english": "Marīci Posture A",
+        "audio": "/audio/marici.m4a",
+        "image": "/images/primary/mari-a.jpeg"
+    },
+    {
+        "sanskrit": "marīcyāsana B",
+        "english": "Marīci Posture B",
+        "audio": "/audio/marici.m4a",
+        "image": "/images/primary/mari-b.jpeg"
+    },
+    {
+        "sanskrit": "marīcyāsana C",
+        "english": "Marīci Posture C",
+        "audio": "/audio/marici.m4a",
+        "image": "/images/primary/mari-c.jpeg"
+    },
+    {
+        "sanskrit": "marīcyāsana D",
+        "english": "Marīci Posture D",
+        "audio": "/audio/marici.m4a",
+        "image": "/images/primary/mari-d.jpeg"
+    },
+    {
+        "sanskrit": "marīcyāsana A",
+        "english": "Marīci Posture A",
+        "audio": "/audio/marici.m4a",
+        "image": "/images/primary/mari-a.jpeg"
+    },
+    {
+        "sanskrit": "nāvāsana",
+        "english": "Boat Posture",
+        "audio": "/audio/nava.m4a",
+        "image": "/images/primary/nava.jpeg"
+    },
+    {
+        "sanskrit": "bhujapīḍāsana A",
+        "english": "Pressure on the Shoulders Posture A",
+        "audio": "/audio/bhuja.m4a",
+        "image": "/images/primary/bhuja-a.jpeg"
+    },
+    {
+        "sanskrit": "bhujapīḍāsana B",
+        "english": "Pressure on the Shoulders Posture B",
+        "audio": "/audio/bhuja.m4a",
+        "image": "/images/primary/bhuja-b.jpeg"
+    },
+    {
+        "sanskrit": "kūrmāsana",
+        "english": "Tortoise Posture",
+        "audio": "/audio/kurma.m4a",
+        "image": "/images/primary/kurma.jpeg"
+    },
+    {
+        "sanskrit": "suptakūrmāsana",
+        "english": "Sleeping Tortoise Posture",
+        "audio": "/audio/suptakurma.m4a",
+        "image": "/images/primary/suptak.jpeg"
+    },
+    {
+        "sanskrit": "garbhapiṇḍāsana",
+        "english": "Embryo in the Womb Posture",
+        "audio": "/audio/garbha.m4a",
+        "image": "/images/primary/garbha.jpeg"
+    },
+    {
+        "sanskrit": "kukkuṭāsana",
+        "english": "Rooster Posture",
+        "audio": "/audio/kukkuta.m4a",
+        "image": "/images/primary/kukku.jpeg"
+    },
+    {
+        "sanskrit": "baddhakoṇāsana A",
+        "english": "Bound Angle Posture A",
+        "audio": "/audio/baddhakona.m4a",
+        "image": "/images/primary/baddhak-a.jpeg"
+    },
+    {
+        "sanskrit": "baddhakoṇāsana B",
+        "english": "Bound Angle Posture B",
+        "audio": "/audio/baddhakona.m4a",
+        "image": "/images/primary/baddhak-b.jpeg"
+    },
+    {
+        "sanskrit": "upaviṣṭakoṇāsana A",
+        "english": "'Entered-into' Angle Posture A (same as Sleeping Angle Posture B",
+        "audio": "/audio/upavishta.m4a",
+        "image": "/images/primary/upa-a.jpeg"
+    },
+    {
+        "sanskrit": "upaviṣṭakoṇāsana B",
+        "english": "'Entered-into' Angle Posture B",
+        "audio": "/audio/upavishta.m4a",
+        "image": "/images/primary/upa-b.jpeg"
+    },
+    {
+        "sanskrit": "suptakoṇāsana A",
+        "english": "Sleeping Angle Posture A",
+        "audio": "/audio/suptakona.m4a",
+        "image": "/images/primary/suptak.jpeg"
+    },
+    {
+        "sanskrit": "suptapādāṅguṣṭhāsana A",
+        "english": "Sleeping Sleeping Thumb-to-Foot Posture A",
+        "audio": "/audio/suptapada.m4a",
+        "image": "/images/primary/suptapada-a.jpeg"
+    },
+    {
+        "sanskrit": "suptapādāṅguṣṭhāsana B",
+        "english": "Sleeping Sleeping Thumb-to-Foot Posture B",
+        "audio": "/audio/suptapada.m4a",
+        "image": "/images/primary/suptapada-b.jpeg"
+    },
+    {
+        "sanskrit": "suptapādāṅguṣṭhāsana C",
+        "english": "Sleeping Sleeping Thumb-to-Foot Posture C",
+        "audio": "/audio/suptapada.m4a",
+        "image": "/images/primary/suptapada-c.jpeg"
+    },
+    {
+        "sanskrit": "suptapādāṅguṣṭhāsana D",
+        "english": "Sleeping Sleeping Thumb-to-Foot Posture D",
+        "audio": "/audio/suptapada.m4a",
+        "image": "/images/primary/suptapada-d.jpeg"
+    },
+    {
+        "sanskrit": "suptapādāṅguṣṭhāsana A",
+        "english": "Sleeping Sleeping Thumb-to-Foot Posture A",
+        "audio": "/audio/suptapada.m4a",
+        "image": "/images/primary/suptapada-a.jpeg"
+    },
+    {
+        "sanskrit": "ubhayapādāṅguṣṭhāsana A",
+        "english": "Thumbs to Both Feet Posture A",
+        "audio": "/audio/ubhayapada.m4a",
+        "image": "/images/primary/ubhaya-a.jpeg"
+    },
+    {
+        "sanskrit": "ubhayapādāṅguṣṭhāsana B",
+        "english": "Thumbs to Both Feet Posture B",
+        "audio": "/audio/ubhayapada.m4a",
+        "image": "/images/primary/ubhaya-b.jpeg"
+    },
+    {
+        "sanskrit": "ūrdhvamukhapaścimottānāsana",
+        "english": "Upward Face West Stretching out Posture",
+        "audio": "/audio/urdhvamukha.m4a",
+        "image": "/images/primary/urdhvamukha.jpeg"
+    },
+    {
+        "sanskrit": "setubandhāsana",
+        "english": "Bridge-Binding Posture",
+        "audio": "/audio/setu.m4a",
+        "image": "/images/primary/setu.jpeg"
+    },
+    {
+        "sanskrit": "sālambhasarvāṅgāsana",
+        "english": "Posture where All Limbs are Held Up (AKA Shoulder Stand)",
+        "audio": "/audio/salambha.m4a",
+        "image": "/images/primary/shoulder.jpeg"
+    },
+    {
+        "sanskrit": "hālāsana",
+        "english": "Plow Posture",
+        "audio": "/audio/hala.m4a",
+        "image": "/images/primary/hala.jpeg"
+    },
+    {
+        "sanskrit": "ūrdhvapadmāsana",
+        "english": "Upward Lotus Posture",
+        "audio": "/audio/urdhvapadma.m4a",
+        "image": "/images/primary/urdhvapadma.jpeg"
+    },
+    {
+        "sanskrit": "piṇḍāsana",
+        "english": "Embryo Posture",
+        "audio": "/audio/pinda.m4a",
+        "image": "/images/primary/pinda.jpeg"
+    },
+    {
+        "sanskrit": "matsyāsana",
+        "english": "Fish Posture",
+        "audio": "/audio/matsya.m4a",
+        "image": "/images/primary/matsya.jpeg"
+    },
+    {
+        "sanskrit": "uttānapādāsana",
+        "english": "Legs Stretching out Posture",
+        "audio": "/audio/uttanapada.m4a",
+        "image": "/images/primary/uttanapada.jpeg"
+    },
+    {
+        "sanskrit": "śīrṣāsana",
+        "english": "Headstand",
+        "audio": "/audio/sirsha.m4a",
+        "image": "/images/primary/sirsa.jpeg"
+    },
+    {
+        "sanskrit": "ūrdhvadaṇḍāsana A",
+        "english": "Upward Stick Posture A",
+        "audio": "/audio/urdhvadanda.m4a",
+        "image": "/images/primary/urdhvadanda-a.jpeg"
+    },
+    {
+        "sanskrit": "ūrdhvadaṇḍāsana B",
+        "english": "Upward Stick Posture B",
+        "audio": "/audio/urdhvadanda.m4a",
+        "image": "/images/primary/urdhvadanda-b.jpeg"
+    },
+    {
+        "sanskrit": "bālāsana",
+        "english": "Child Posture",
+        "audio": "/audio/bala.m4a",
+        "image": "/images/primary/bala.jpeg"
+    },
+    {
+        "sanskrit": "baddhapadmāsana",
+        "english": "Bound Lotus Posture",
+        "audio": "/audio/baddhapadma.m4a",
+        "image": "/images/primary/baddhapadma.jpeg"
+    },
+    {
+        "sanskrit": "padmāsana",
+        "english": "Lotus Posture",
+        "audio": "/audio/padma.m4a",
+        "image": "/images/primary/padma.jpeg"
+    },
+    {
+        "sanskrit": "tolāsana",
+        "english": "'Tola' Posture",
+        "audio": "/audio/tola.m4a",
+        "image": "/images/primary/tola.jpeg"
+    },
+    {
+        "sanskrit": "śāvāsana",
+        "english": "Corpse Posture",
+        "audio": "/audio/sava.m4a",
+        "image": "/images/primary/sava.jpeg"
     }
 ]
