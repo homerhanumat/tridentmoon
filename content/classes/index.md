@@ -39,7 +39,6 @@ The Pavilion is run by Georgetown/Scott County Parks and Recreation.  Classes ar
 
 The new <a href="https://www.instagram.com/solecollective.studio/" target="_blank">Sole Collective</a> is conveniently located in downtown Georgetown.  Currently my schedule there is:
 
-* Tuesdays and Thursday, 9:00-10:45am;
 * Thursdays, 5:30-7:00pm.
 
 I'll accomodate people who are new to Aṣṭāṅga, but the aim will be to move people quickly into guided Primary Series.
