@@ -1,0 +1,212 @@
+[
+    {
+      "sanskrit": "samasthitiḥ",
+      "english": "Even Standing",
+      "audio": "/audio/samasthiti.m4a",
+      "image": "/images/primary/sama.jpeg"
+    },
+    {
+        "sanskrit": "uttānasana A",
+        "english": "Stretching Out A",
+        "audio": "/audio/uttana-a.m4a",
+        "image": "/images/primary/uttana-a.jpeg"
+    },
+    {
+        "sanskrit": "uttānasana B",
+        "english": "Stretching Out B",
+        "audio": "/audio/uttana-b.m4a",
+        "image": "/images/primary/uttana-b.jpeg"
+    },
+    {
+        "sanskrit": "caturaṅgadaṇḍāsana",
+        "english": "Four-Limbed Stick Posture",
+        "audio": "/audio/catur.m4a",
+        "image": "/images/primary/catur.jpeg"
+    },
+    {
+        "sanskrit": "ūrdhvamukhaśvānāsana",
+        "english": "Upward-Face Dog Posture",
+        "audio": "/audio/updog.m4a",
+        "image": "/images/primary/updog.jpeg"
+    },
+    {
+        "sanskrit": "adhomukhaśvānāsana",
+        "english": "Downward-Face Dog Posture",
+        "audio": "/audio/downdog.m4a",
+        "image": "/images/primary/adhomukha.jpeg"
+    },
+    {
+        "sanskrit": "pādāṅguṣṭhāsana",
+        "english": "Thumb to Foot Posture (or Big Toe of the Foot Posture)",
+        "audio": "/audio/padangusta.m4a",
+        "image": "/images/primary/padangushthasana.jpeg"
+    },
+    {
+        "sanskrit": "pādahastāsana",
+        "english": "Hand under Foot Posture",
+        "audio": "/audio/padahastasana.m4a",
+        "image": "/images/primary/padahasta.jpeg"
+    },
+    {
+        "sanskrit": "trikoṇāsana",
+        "english": "Triangle Posture",
+        "audio": "/audio/trikonasana.m4a",
+        "image": "/images/primary/trikona.jpeg"
+    },
+    {
+        "sanskrit": "parivṛttatrikoṇāsana",
+        "english": "Revolved Triangle Posture",
+        "audio": "/audio/parivrttatrikonasana.m4a",
+        "image": "/images/primary/parivrttatrikona.jpeg"
+    },
+    {
+        "sanskrit": "parivṛttatrikoṇāsana",
+        "english": "Revolved Triangle Posture",
+        "audio": "/audio/parshvakona.m4a",
+        "image": "/images/primary/parsvakona.jpeg"
+    },
+    {
+        "sanskrit": "parivṛttatrikoṇāsana",
+        "english": "Revolved Triangle Posture",
+        "audio": "/audio/parivrttaparshva.m4a",
+        "image": "/images/primary/parivrttaparsvakona.jpeg"
+    },
+    {
+        "sanskrit": "prasāritapādottānāsana A",
+        "english": "Stretching Out to Spread Feet Posture A",
+        "audio": "/audio/prsarita.m4a",
+        "image": "/images/primary/prasarita-a.jpeg"
+    },
+    {
+        "sanskrit": "prasāritapādottānāsana B",
+        "english": "Stretching Out to Spread Feet Posture B",
+        "audio": "/audio/prsarita.m4a",
+        "image": "/images/primary/prasarita-b.jpeg"
+    },
+    {
+        "sanskrit": "prasāritapādottānāsana C",
+        "english": "Stretching Out to Spread Feet Posture C",
+        "audio": "/audio/prsarita.m4a",
+        "image": "/images/primary/prasarita-c.jpeg"
+    },
+    {
+        "sanskrit": "prasāritapādottānāsana D",
+        "english": "Stretching Out to Spread Feet Posture D",
+        "audio": "/audio/prsarita.m4a",
+        "image": "/images/primary/prasarita-d.jpeg"
+    },
+    {
+        "sanskrit": "parśvottānāsana",
+        "english": "Stretching Out to the Side Posture",
+        "audio": "/audio/parshvottana.m4a",
+        "image": "/images/primary/parsva.jpeg"
+    },
+    {
+        "sanskrit": "utthitahastapādāṅguṣṭhāsana A",
+        "english": "Standing Hand-to-Big-Toe-of-the-Foot Posture A",
+        "audio": "/audio/utthitahasta.m4a",
+        "image": "/images/primary/utthitahasta-a.jpeg"
+    },
+    {
+        "sanskrit": "utthitahastapādāṅguṣṭhāsana B",
+        "english": "Standing Hand-to-Big-Toe-of-the-Foot Posture B",
+        "audio": "/audio/utthitahasta.m4a",
+        "image": "/images/primary/utthitahasta-b.jpeg"
+    },
+    {
+        "sanskrit": "utthitahastapādāṅguṣṭhāsana C",
+        "english": "Standing Hand-to-Big-Toe-of-the-Foot Posture C",
+        "audio": "/audio/utthitahasta.m4a",
+        "image": "/images/primary/utthitahasta-c.jpeg"
+    },
+    {
+        "sanskrit": "utthitahastapādāṅguṣṭhāsana D",
+        "english": "Standing Hand-to-Big-Toe-of-the-Foot Posture D",
+        "audio": "/audio/utthitahasta.m4a",
+        "image": "/images/primary/utthitahasta-d.jpeg"
+    },
+    {
+        "sanskrit": "ardhabaddhapadmottānāsana",
+        "english": "Stretching out in Half Bound Lotus Posture",
+        "audio": "/audio/ardhabaddhapadmottana.m4a",
+        "image": "/images/primary/ardhabaddhapadmottana.jpeg"
+    },
+    {
+        "sanskrit": "utkaṭāsana",
+        "english": "Fierce Posture (often called Chair Posture)",
+        "audio": "/audio/utkata.m4a",
+        "image": "/images/primary/utkata.jpeg"
+    },
+    {
+        "sanskrit": "vīrabhadrāsana A",
+        "english": "Auspicious Hero Posture A (also called Warrior Posture)",
+        "audio": "/audio/virabhadra.m4a",
+        "image": "/images/primary/vira-1.jpeg"
+    },
+    {
+        "sanskrit": "vīrabhadrāsana B",
+        "english": "Auspicious Hero Posture B (also called Warrior Posture)",
+        "audio": "/audio/virabhadra.m4a",
+        "image": "/images/primary/vira-2.jpeg"
+    },
+    {
+        "sanskrit": "caturaṅgadaṇḍāsana",
+        "english": "Stick Posture",
+        "audio": "/audio/danda.m4a",
+        "image": "/images/primary/dandasana.jpeg"
+    },
+    {
+        "sanskrit": "paścimottānāsana A",
+        "english": "West Stretching Out Posture A",
+        "audio": "/audio/paschimottana.m4a",
+        "image": "/images/primary/paschi-a.jpeg"
+    },
+    {
+        "sanskrit": "paścimottānāsana B",
+        "english": "West Stretching Out Posture B",
+        "audio": "/audio/paschimottana.m4a",
+        "image": "/images/primary/paschi-b.jpeg"
+    },
+    {
+        "sanskrit": "paścimottānāsana C",
+        "english": "West Stretching Out Posture C",
+        "audio": "/audio/paschimottana.m4a",
+        "image": "/images/primary/paschi-c.jpeg"
+    },
+    {
+        "sanskrit": "pūrvottānāsana",
+        "english": "East Stretching out Posture",
+        "audio": "/audio/purvottana.m4a",
+        "image": "/images/primary/purvo.jpeg"
+    },
+    {
+        "sanskrit": "ardhabaddhapadmapaścimottānāsana",
+        "english": "Half Bound Lotus West Stretching out Posture",
+        "audio": "/audio/ardhabaddhapadmapaschima.m4a",
+        "image": "/images/primary/abpp.jpeg"
+    },
+    {
+        "sanskrit": "tryaṅgamukhaikapādapaścimottānāsana",
+        "english": "Three-Limbed Face to One Leg West Stretching out Posture",
+        "audio": "/audio/tryanga.m4a",
+        "image": "/images/primary/trianga.jpeg"
+    },
+    {
+        "sanskrit": "jānuśīrṣāsana A",
+        "english": "Head to Knee Posture A",
+        "audio": "/audio/janushirsha.m4a",
+        "image": "/images/primary/janu-a.jpeg"
+    },
+    {
+        "sanskrit": "jānuśīrṣāsana B",
+        "english": "Head to Knee Posture B",
+        "audio": "/audio/janushirsha.m4a",
+        "image": "/images/primary/janu-b.jpeg"
+    },
+    {
+        "sanskrit": "jānuśīrṣāsana C",
+        "english": "Head to Knee Posture C",
+        "audio": "/audio/janushirsha.m4a",
+        "image": "/images/primary/janu-c.jpeg"
+    }
+]
