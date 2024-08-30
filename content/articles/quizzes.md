@@ -12,7 +12,7 @@ This is a work in progress.  Check back for more quiz options!
 
 {{< rawhtml >}}
 <p id = "accounting"></p>
-<div id="question"></div>
+<div id="question"> </div>
 <button id="go-again" type="button">Give me another!</button> 
 <button id="start-over" type="button">Start Over</button> 
 {{< /rawhtml >}}
