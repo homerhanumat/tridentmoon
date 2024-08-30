@@ -6,10 +6,16 @@
 
 // globals
 let attempts = {
-    "image-to-sanskrit": 0
+    "image-to-sanskrit": 0,
+    "sanskrit-to-image": 0,
+    "sanskrit-to-english": 0,
+    "english-to-sanskrit": 0
 };
 let numberCorrect = {
-    "image-to-sanskrit": 0
+    "image-to-sanskrit": 0,
+    "sanskrit-to-image": 0,
+    "sanskrit-to-english": 0,
+    "english-to-sanskrit": 0
 }
 
 function questionSetup(starting, quizType) {
@@ -126,8 +132,20 @@ function questionSetup(starting, quizType) {
             const label = document.createElement('label');
             label.htmlFor = radio.id;
             label.className = "quiz-form-control";
-            label.innerHTML = `<img src="${option.label}" class="sanskrit-image-quiz" alt="check filename">`;
+            label.innerHTML = 
+                `
+                <figure>
+                <img src="${option.label}" class="sanskrit-image-quiz" alt="check filename">
+                <figcaption>
+                <span>${option.all.sanskrit}</span>
+                <br>
+                <a href="${option.all.details}" target="_blank">Review details in new tab</a>
+                </figcaption>
+                </figure>
+                `;
             label.setAttribute("quiz-type", quizType);
+            const caption = label.getElementsByTagName("figcaption")[0];
+            caption.style.visibility = "hidden";
 
             radio.addEventListener("change", function(e) {
                 if (e.target === radio) {
@@ -153,19 +171,115 @@ function questionSetup(starting, quizType) {
                     const checkmark = document.createElement("span");
                     checkmark.innerHTML = "&#10004; ";
                     labelCorrect.prepend(checkmark);
-                    const labels = document.querySelectorAll(`label[quiz-type="${quizType}"]`);
-                    console.log(labels);
-                    for (let i = 0; i < labels.length; i++) {
-                        let detailsLink = ` <a href="${options[i].all.details}" target="_blank">Review details in new tab</a>`
-                        labels[i].innerHTML += detailsLink;
-                    }
+                    const captions = document.querySelectorAll(`label[quiz-type="${quizType}"] figcaption`);
+                    captions.forEach(function(caption) {
+                        caption.style.visibility = "visible";
+                    });
                 }
             });  //end radio add event listener
 
             container.appendChild(radio);
             container.appendChild(label);
             container.appendChild(document.createElement('br'));
-        }
+        } // end sanskrit-to-image
+
+        if (quizType == "sanskrit-to-english") {
+            const label = document.createElement('label');
+            label.htmlFor = radio.id;
+            label.className = "quiz-form-control";
+            label.innerHTML = 
+                `
+                <span>${option.all.english} </span>
+                <a href="${option.all.details}" target="_blank">Review details in new tab</a>
+                `;
+            label.setAttribute("quiz-type", quizType);
+            const anchor = label.getElementsByTagName("a")[0];
+            anchor.style.visibility = "hidden";
+
+            radio.addEventListener("change", function(e) {
+                if (e.target === radio) {
+
+                    attempts[quizType] += 1;
+
+                    document.getElementById(`${quizType}-go-again`).style.visibility = "visible";
+                    document.getElementById(`${quizType}-start-over`).style.visibility = "visible";
+
+                    let choice = e.target.value;
+                    if (choice == "0") {
+                        numberCorrect[quizType] +=1;
+                        accounting.innerHTML = `Right! ${numberCorrect[quizType]} / ${attempts[quizType]} so far. `;
+                    } else {
+                        const labelThis = document.querySelector(`label[for="${radio.id}"]`);
+                        const xmark = document.createElement("span");
+                        xmark.innerHTML = "&#10060; ";
+                        labelThis.prepend(xmark);
+                        accounting.innerHTML = `Sorry, incorrect choice. ${numberCorrect[quizType]} / ${attempts[quizType]} so far. `;
+                    }
+                    const radioCorrect = document.querySelector(`input[quiz-type="${quizType}"][value="0"]`);
+                    const labelCorrect = document.querySelector(`label[for="${radioCorrect.id}"]`);
+                    const checkmark = document.createElement("span");
+                    checkmark.innerHTML = "&#10004; ";
+                    labelCorrect.prepend(checkmark);
+                    const anchors = document.querySelectorAll(`label[quiz-type="${quizType}"] a`);
+                    anchors.forEach(function(anchor) {
+                        anchor.style.visibility = "visible";
+                    });
+                }
+            });  //end radio add event listener
+
+            container.appendChild(radio);
+            container.appendChild(label);
+            container.appendChild(document.createElement('br'));
+        } // end sanskrit-to-english
+
+        if (quizType == "english-to-sanskrit") {
+            const label = document.createElement('label');
+            label.htmlFor = radio.id;
+            label.className = "quiz-form-control";
+            label.innerHTML = 
+                `
+                <span>${option.all.sanskrit} </span>
+                <a href="${option.all.details}" target="_blank">Review details in new tab</a>
+                `;
+            label.setAttribute("quiz-type", quizType);
+            const anchor = label.getElementsByTagName("a")[0];
+            anchor.style.visibility = "hidden";
+
+            radio.addEventListener("change", function(e) {
+                if (e.target === radio) {
+
+                    attempts[quizType] += 1;
+
+                    document.getElementById(`${quizType}-go-again`).style.visibility = "visible";
+                    document.getElementById(`${quizType}-start-over`).style.visibility = "visible";
+
+                    let choice = e.target.value;
+                    if (choice == "0") {
+                        numberCorrect[quizType] +=1;
+                        accounting.innerHTML = `Right! ${numberCorrect[quizType]} / ${attempts[quizType]} so far. `;
+                    } else {
+                        const labelThis = document.querySelector(`label[for="${radio.id}"]`);
+                        const xmark = document.createElement("span");
+                        xmark.innerHTML = "&#10060; ";
+                        labelThis.prepend(xmark);
+                        accounting.innerHTML = `Sorry, incorrect choice. ${numberCorrect[quizType]} / ${attempts[quizType]} so far. `;
+                    }
+                    const radioCorrect = document.querySelector(`input[quiz-type="${quizType}"][value="0"]`);
+                    const labelCorrect = document.querySelector(`label[for="${radioCorrect.id}"]`);
+                    const checkmark = document.createElement("span");
+                    checkmark.innerHTML = "&#10004; ";
+                    labelCorrect.prepend(checkmark);
+                    const anchors = document.querySelectorAll(`label[quiz-type="${quizType}"] a`);
+                    anchors.forEach(function(anchor) {
+                        anchor.style.visibility = "visible";
+                    });
+                }
+            });  //end radio add event listener
+
+            container.appendChild(radio);
+            container.appendChild(label);
+            container.appendChild(document.createElement('br'));
+        } // end english-to-sanskrit
 
     });  // end options forEach
 
@@ -232,6 +346,60 @@ function questionSetup(starting, quizType) {
         }
         insertRadioButtons(quizType, "choices", options);
     }  // end sanskrit-to-image
+
+    // sanskrit-to-english
+    if (quizType == "sanskrit-to-english") {
+        const sanskrit = document.createElement("div");
+        sanskrit.innerHTML = 
+            `<p>${answer.sanskrit}</p>
+            <p>(click <span class="pronounce-button"><strong>here</strong></span> for pronunciation)</p>
+            `;
+        sanskrit.setAttribute("quiz-type", quizType);
+        sanskrit.classList.add("text-question");
+        const pronouncer = sanskrit.querySelector("span strong");
+        const audioElement = new Audio(answer.audio);
+        audioElement.controls = false;
+        pronouncer.addEventListener("click", function() {
+            audioElement.play();
+        });
+
+        question.appendChild(sanskrit);
+        question.appendChild(document.createElement('br'));
+        const options = [];
+        for (let i of scrambledIndices) {
+            let obj = {
+                value: i,
+                label: posturesInvolved[i].english,
+                all: posturesInvolved[i]
+            }
+            options.push(obj);
+        }
+        insertRadioButtons(quizType, "choices", options);
+    }  // end sanskrit-to-english
+
+        // english-to-sanskrit
+        if (quizType == "english-to-sanskrit") {
+            const english = document.createElement("div");
+            english.innerHTML = 
+                `<p>${answer.english}</p>
+                `;
+            english.setAttribute("quiz-type", quizType);
+            english.classList.add("text-question");
+    
+            question.appendChild(english);
+            question.appendChild(document.createElement('br'));
+            const options = [];
+            for (let i of scrambledIndices) {
+                let obj = {
+                    value: i,
+                    label: posturesInvolved[i].sanskrit,
+                    all: posturesInvolved[i]
+                }
+                options.push(obj);
+            }
+            insertRadioButtons(quizType, "choices", options);
+        }  // end english-to-sanskrit
+
 }  // end questionSetup
 
 function addListeners(quizType) {
@@ -252,6 +420,8 @@ function addListeners(quizType) {
 
 addListeners("image-to-sanskrit");
 addListeners("sanskrit-to-image");
+addListeners("sanskrit-to-english");
+addListeners("english-to-sanskrit");
 
 
 

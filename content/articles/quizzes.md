@@ -8,7 +8,14 @@ summary: "Grow your knowlege of the Sanskrit names for postures with this quizzi
 weight: 4
 ---
 
-This is a work in progress.  Check back for more quiz options and prettier formatting!
+## Introduction
+
+After you have studied [basic Sanskrit vocabulary](/articles/sanskrit-vocabulary/) and the postures of the [Primary Series](/articles/primary), you can solidify your knowledge with the following quizzes.
+
+Notes:
+
+* This is a work in progress.  Check back for more quiz options and prettier formatting!
+* Remember that we work with the BNS Iynegar version of the Primary series, which differs in minor ways from the Primary series as taught in the Patabhi Jois lineage.
 
 ## From Image to Sanskrit Name
 
@@ -30,11 +37,21 @@ This is a work in progress.  Check back for more quiz options and prettier forma
 
 ## From Sanskrit Name to English Name
 
-Coming soon!
+{{< rawhtml >}}
+<div quiz-type="sanskrit-to-english" id="sanskrit-to-english-question"></div>
+<p quiz-type= "sanskrit-to-english" id="sanskrit-to-english-accounting"></p>
+<button quiz-type="sanskrit-to-english" class="quiz-button" id="sanskrit-to-english-go-again" type="button">Give me another!</button> 
+<button quiz-type="sanskrit-to-english" class="quiz-button hide-at-start" id="sanskrit-to-english-start-over" type="button">Start Over</button> 
+{{< /rawhtml >}}
 
 ## From English Name to Sanskrit Name
 
-Coming soon!
+{{< rawhtml >}}
+<div quiz-type="english-to-sanskrit" id="english-to-sanskrit-question"></div>
+<p quiz-type= "english-to-sanskrit" id="english-to-sanskrit-accounting"></p>
+<button quiz-type="english-to-sanskrit" class="quiz-button" id="english-to-sanskrit-go-again" type="button">Give me another!</button> 
+<button quiz-type="english-to-sanskrit" class="quiz-button hide-at-start" id="english-to-sanskrit-start-over" type="button">Start Over</button> 
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <script>
