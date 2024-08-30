@@ -5,24 +5,27 @@
 ***********************************************************/
 
 // globals
-let attempts = 0;
-let numberCorrect = 0;
+let attempts = {
+    "image-to-sanskrit": 0
+};
+let numberCorrect = {
+    "image-to-sanskrit": 0
+}
 
-const accounting = document.getElementById("accounting");
-accounting.innerHTML = `${numberCorrect} out of ${attempts} correct so far. `;
-
-function questionSetup(starting) {
+function questionSetup(starting, quizType) {
     
     // parameters
     numberOfChoices = 4;
 
     // handle counts
     if (starting) {
-        attempts = 0;
-        numberCorrect = 0;
-        
+        attempts[quizType] = 0;
+        numberCorrect[quizType] = 0;
+        document.getElementById(`${quizType}-start-over`).style.visibility = "hidden";
     }
-    accounting.innerHTML = `${numberCorrect} out of ${attempts} correct so far. `;
+
+    const accounting = document.getElementById(`${quizType}-accounting`);
+    accounting.innerHTML = `${numberCorrect[quizType]} out of ${attempts[quizType]} correct so far. `;
 
     // utility
     function getRandomInt(min, max) {
@@ -50,17 +53,17 @@ function questionSetup(starting) {
         return ind.map(index => arr[index]);
     }
 
-    function insertRadioButtons(containerId, name, options) {
-        const container = document.getElementById(containerId);
+    function insertRadioButtons(quizType, name, options) {
+        const container = document.getElementById(`${quizType}-question`);
   
         options.forEach((option, index) => {
           // Create radio input element
           const radio = document.createElement('input');
           radio.type = 'radio';
-          radio.id = `${name}${index}`;
-          radio.name = name;
+          radio.id = `${quizType}-${name}-${index}`;
+          radio.name = `${quizType}-${name}`;
           radio.value = option.value;
-          radio.setAttribute("quiz-type", "image-to-sanskrit");
+          radio.setAttribute("quiz-type", quizType);
   
           // Create label for the radio button
           const label = document.createElement('label');
@@ -69,7 +72,7 @@ function questionSetup(starting) {
           label.innerHTML = `<em>${option.label}</em>`;
           const span = document.createElement("span");
           span.innerHTML = ` (click <span class="pronounce-button"><strong>here</strong></span> for pronunciation)`;
-          span.setAttribute("quiz-type", "image-to-sanskrit");
+          span.setAttribute("quiz-type", quizType);
           const pronouncer = span.getElementsByTagName("strong")[0];
           console.log(pronouncer);
           const audioElement = new Audio(option.all.audio);
@@ -81,24 +84,29 @@ function questionSetup(starting) {
 
           radio.addEventListener("change", function(e) {
             if (e.target === radio) {
-                attempts += 1;
+
+                attempts[quizType] += 1;
+
+                document.getElementById(`${quizType}-go-again`).style.visibility = "visible";
+                document.getElementById(`${quizType}-start-over`).style.visibility = "visible";
+
                 let choice = e.target.value;
                 if (choice == "0") {
-                    numberCorrect +=1;
-                    accounting.innerHTML = `Right! ${numberCorrect} / ${attempts} so far. `;
+                    numberCorrect[quizType] +=1;
+                    accounting.innerHTML = `Right! ${numberCorrect[quizType]} / ${attempts[quizType]} so far. `;
                 } else {
                     const labelThis = document.querySelector(`label[for="${radio.id}"]`);
                     const xmark = document.createElement("span");
                     xmark.innerHTML = "&#10060; ";
                     labelThis.prepend(xmark);
-                    accounting.innerHTML = `Sorry, incorrect choice. ${numberCorrect} / ${attempts} so far. `;
+                    accounting.innerHTML = `Sorry, incorrect choice. ${numberCorrect[quizType]} / ${attempts[quizType]} so far. `;
                 }
-                const radioCorrect = document.querySelector('input[quiz-type="image-to-sanskrit"][value="0"]');
+                const radioCorrect = document.querySelector(`input[quiz-type="${quizType}"][value="0"]`);
                 const labelCorrect = document.querySelector(`label[for="${radioCorrect.id}"]`);
                 const checkmark = document.createElement("span");
                 checkmark.innerHTML = "&#10004; ";
                 labelCorrect.prepend(checkmark);
-                const pronounceSpans = document.querySelectorAll('span[quiz-type="image-to-sanskrit"]');
+                const pronounceSpans = document.querySelectorAll(`span[quiz-type="${quizType}"]`);
                 for (let i = 0; i < pronounceSpans.length; i++) {
                     let detailsLink = ` <a href="${options[i].all.details}" target="_blank">Review details in new tab</a>`
                     pronounceSpans[i].innerHTML = detailsLink;
@@ -114,13 +122,11 @@ function questionSetup(starting) {
         });
       }
 
-    
-
     let randomIndices = generateDistinctIntegers(numberOfChoices, 0, postures.length - 1);
     let posturesInvolved = elementsAtIndices(postures, randomIndices);
     let scrambledIndices = generateDistinctIntegers(numberOfChoices, 0, numberOfChoices - 1);
     let answer = posturesInvolved[0];
-    const question = document.getElementById("question");
+    const question = document.getElementById(`${quizType}-question`);
     const img = document.createElement("img");
     img.src = answer.image;
     img.alt = 'Check image filename';
@@ -142,18 +148,21 @@ function questionSetup(starting) {
         }
         options.push(obj);
     }
-    insertRadioButtons("question", "choices", options);
+    insertRadioButtons(quizType, "choices", options);
 
 }
   
 window.addEventListener('load', function() {
-    questionSetup(true);
+    questionSetup(true, "image-to-sanskrit");
 });
 
-document.getElementById("go-again").addEventListener("click", function() {
-    questionSetup(false);
+const goAgain = document.getElementById("image-to-sanskrit-go-again");
+goAgain.addEventListener("click", function() {
+        questionSetup(false, "image-to-sanskrit");
 });
 
-document.getElementById("start-over").addEventListener("click", function() {
-    questionSetup(true);
+const startOver = document.getElementById("image-to-sanskrit-start-over");
+startOver.addEventListener("click", function() {
+    questionSetup(true, "image-to-sanskrit");
 });
+

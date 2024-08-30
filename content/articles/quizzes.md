@@ -13,11 +13,28 @@ This is a work in progress.  Check back for more quiz options and prettier forma
 ## From Image to Sanskrit Name
 
 {{< rawhtml >}}
-<div id="question"></div>
-<p id="accounting"></p>
-<button id="go-again" type="button">Give me another!</button> 
-<button id="start-over" type="button">Start Over</button> 
+<div quiz-type="image-to-sanskrit" id="image-to-sanskrit-question"></div>
+<p quiz-type= "image-to-sanskrit" id="image-to-sanskrit-accounting"></p>
+<button quiz-type="image-to-sanskrit" class="quiz-button" id="image-to-sanskrit-go-again" type="button">Give me another!</button> 
+<button quiz-type="image-to-sanskrit" class="quiz-button hide-at-start" id="image-to-sanskrit-start-over" type="button">Start Over</button> 
 {{< /rawhtml >}}
+
+## From Sanskrit Name to Image
+
+{{< rawhtml >}}
+<div quiz-type="sanskrit-to-image" id="sanskrit-to-image-question"></div>
+<p quiz-type= "sanskrit-to-image" id="sanskrit-to-image-accounting"></p>
+<button quiz-type="sanskrit-to-image" class="quiz-button" id="sanskrit-to-image-go-again" type="button">Give me another!</button> 
+<button quiz-type="sanskrit-to-image" class="quiz-button hide-at-start" id="sanskrit-to-image-start-over" type="button">Start Over</button> 
+{{< /rawhtml >}}
+
+## From Sanskrit Name to English Name
+
+Coming soon!
+
+## From English Name to Sanskrit Name
+
+Coming soon!
 
 {{< rawhtml >}}
 <script>
@@ -536,22 +553,6 @@ const postures = [
 ]
 </script>
 {{< /rawhtml >}}
-
-
-## From Sanskrit Name to Image
-
-Coming soon!
-
-## From Sanskrit Name to English Name
-
-Coming soon!
-
-## From English Name to Sanskrit Name
-
-Coming soon!
-
-
-
 
 {{< rawhtml >}}
 <script src="/js/quiz.js"></script>

@@ -57,6 +57,10 @@
   padding-left: 5px;
 }
 
+.hide-at-start {
+  visibility: hidden;
+}
+
 /********************************************
 * accordian.  inspiration from 
 * https://codepen.io/Anotherdago/pen/yjVxOB 
