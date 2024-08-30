@@ -77,7 +77,7 @@ const postures = [
     {
         "sanskrit": "adhomukhaśvānāsana",
         "english": "Downward-Face Dog Posture",
-        "audio": "/audio/downdog.m4a",
+        "audio": "/audio/adhomukha.m4a",
         "image": "/images/primary/downdog.jpeg",
         "details": "/articles/primary/index.html#sūryanamaskāra-a-sequence"
     },
@@ -85,7 +85,7 @@ const postures = [
         "sanskrit": "pādāṅguṣṭhāsana",
         "english": "Thumb to Foot Posture (or Big Toe of the Foot Posture)",
         "audio": "/audio/padangusta.m4a",
-        "image": "/images/primary/padangushthasana.jpeg",
+        "image": "/images/primary/padangusta.jpeg",
         "details": "/articles/primary/index.html#pādāṅguṣṭhāsana"
     },
     {
@@ -126,28 +126,28 @@ const postures = [
     {
         "sanskrit": "prasāritapādottānāsana A",
         "english": "Stretching Out to Spread Feet Posture A",
-        "audio": "/audio/prsarita.m4a",
+        "audio": "/audio/prasarita.m4a",
         "image": "/images/primary/prasarita-a.jpeg",
         "details": "/articles/primary/index.html#prasāritapādottānāsana"
     },
     {
         "sanskrit": "prasāritapādottānāsana B",
         "english": "Stretching Out to Spread Feet Posture B",
-        "audio": "/audio/prsarita.m4a",
+        "audio": "/audio/prasarita.m4a",
         "image": "/images/primary/prasarita-b.jpeg",
         "details": "/articles/primary/index.html#prasāritapādottānāsana"
     },
     {
         "sanskrit": "prasāritapādottānāsana C",
         "english": "Stretching Out to Spread Feet Posture C",
-        "audio": "/audio/prsarita.m4a",
+        "audio": "/audio/prasarita.m4a",
         "image": "/images/primary/prasarita-c.jpeg",
         "details": "/articles/primary/index.html#prasāritapādottānāsana"
     },
     {
         "sanskrit": "prasāritapādottānāsana D",
         "english": "Stretching Out to Spread Feet Posture D",
-        "audio": "/audio/prsarita.m4a",
+        "audio": "/audio/prasarita.m4a",
         "image": "/images/primary/prasarita-d.jpeg",
         "details": "/articles/primary/index.html#prasāritapādottānāsana"
     },
