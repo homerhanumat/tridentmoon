@@ -20,8 +20,9 @@ function questionSetup(starting) {
     if (starting) {
         attempts = 0;
         numberCorrect = 0;
-        accounting.innerHTML = `${numberCorrect} out of ${attempts} correct so far. `;
+        
     }
+    accounting.innerHTML = `${numberCorrect} out of ${attempts} correct so far. `;
 
     // utility
     function getRandomInt(min, max) {
@@ -59,13 +60,15 @@ function questionSetup(starting) {
           radio.id = `${name}${index}`;
           radio.name = name;
           radio.value = option.value;
+          radio.setAttribute("quiz-type", "image-to-sanskrit");
   
           // Create label for the radio button
           const label = document.createElement('label');
           label.htmlFor = radio.id;
-          label.innerHTML = `${option.label}`;
+          label.className = "quiz-form-control";
+          label.innerHTML = `<em>${option.label}</em>`;
           const span = document.createElement("span");
-          span.innerHTML = ` (Click <span class="pronounce-button"><strong>here</strong></span> for pronunciation)`;
+          span.innerHTML = ` (click <span class="pronounce-button"><strong>here</strong></span> for pronunciation)`;
           const pronouncer = span.getElementsByTagName("strong")[0];
           console.log(pronouncer);
           const audioElement = new Audio(option.all.audio);
@@ -81,8 +84,19 @@ function questionSetup(starting) {
                 let choice = e.target.value;
                 if (choice == "0") {
                     numberCorrect +=1;
+                    accounting.innerHTML = `Right! ${numberCorrect} / ${attempts} so far. `;
+                } else {
+                    const labelThis = document.querySelector(`label[for="${radio.id}"]`);
+                    const xmark = document.createElement("span");
+                    xmark.innerHTML = "&#10060; ";
+                    labelThis.prepend(xmark);
+                    accounting.innerHTML = `Sorry, incorrect choice. ${numberCorrect} / ${attempts} so far. `;
                 }
-                accounting.innerHTML = `${numberCorrect} out of ${attempts} correct so far. `;
+                const radioCorrect = document.querySelector('input[quiz-type="image-to-sanskrit"][value="0"]');
+                const labelCorrect = document.querySelector(`label[for="${radioCorrect.id}"]`);
+                const checkmark = document.createElement("span");
+                checkmark.innerHTML = "&#10004; ";
+                labelCorrect.prepend(checkmark);
             }
           })
   
@@ -104,7 +118,7 @@ function questionSetup(starting) {
     const img = document.createElement("img");
     img.src = answer.image;
     img.alt = 'Check image filename';
-    img.className = "image-center-250";
+    img.className = "image-quiz";
 
     // remove any previous material:
     while (question.firstChild) {
@@ -112,6 +126,7 @@ function questionSetup(starting) {
     }
 
     question.appendChild(img);
+    question.appendChild(document.createElement('br'));
     const options = [];
     for (let i of scrambledIndices) {
         let obj = {

@@ -56,7 +56,7 @@ const postures = [
         "sanskrit": "adhomukhaśvānāsana",
         "english": "Downward-Face Dog Posture",
         "audio": "/audio/downdog.m4a",
-        "image": "/images/primary/adhomukha.jpeg"
+        "image": "/images/primary/downdog.jpeg"
     },
     {
         "sanskrit": "pādāṅguṣṭhāsana",
