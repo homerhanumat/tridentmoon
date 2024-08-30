@@ -1,4 +1,25 @@
-[
+---
+title: Posture-Vocabulary Quizzes
+description: ""
+omit_header_text: false
+featured_image: images/shiva_moon_landscape-2.jpg
+type: page
+summary: "Grow your knowlege of the Sanskrit names for postures with this quizzing app!"
+weight: 4
+---
+
+This is a work in progress.  Check back for more quiz options!
+
+{{< rawhtml >}}
+<p id = "accounting"></p>
+<div id="question"></div>
+<button id="go-again" type="button">Give me another!</button> 
+<button id="start-over" type="button">Start Over</button> 
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<script>
+const postures = [
     {
       "sanskrit": "samasthitiḥ",
       "english": "Even Standing",
@@ -450,3 +471,11 @@
         "image": "/images/primary/sava.jpeg"
     }
 ]
+</script>
+{{< /rawhtml >}}
+
+
+{{< rawhtml >}}
+<script src="/js/quiz.js">
+{{< /rawhtml >}}
+
