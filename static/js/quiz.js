@@ -9,7 +9,7 @@ let attempts = 0;
 let numberCorrect = 0;
 
 const accounting = document.getElementById("accounting");
-accounting.innerHTML = `Attempts: ${attempts}; Number Right: ${numberCorrect}`;
+accounting.innerHTML = `${numberCorrect} out of ${attempts} correct so far. `;
 
 function questionSetup(starting) {
     
@@ -20,7 +20,7 @@ function questionSetup(starting) {
     if (starting) {
         attempts = 0;
         numberCorrect = 0;
-        accounting.innerHTML = `Attempts: ${attempts}; Number Right: ${numberCorrect}`;
+        accounting.innerHTML = `${numberCorrect} out of ${attempts} correct so far. `;
     }
 
     // utility
@@ -63,20 +63,33 @@ function questionSetup(starting) {
           // Create label for the radio button
           const label = document.createElement('label');
           label.htmlFor = radio.id;
-          label.textContent = option.label;
+          label.innerHTML = `${option.label}`;
+          const span = document.createElement("span");
+          span.innerHTML = ` (Click <span class="pronounce-button"><strong>here</strong></span> for pronunciation)`;
+          const pronouncer = span.getElementsByTagName("strong")[0];
+          console.log(pronouncer);
+          const audioElement = new Audio(option.all.audio);
+          audioElement.controls = false;
+          pronouncer.addEventListener("click", function() {
+            console.log("hello");
+            audioElement.play();
+          });
 
           radio.addEventListener("change", function(e) {
-            attempts += 1;
-            let choice = e.target.value;
-            if (choice == "0") {
-                numberCorrect +=1;
+            if (e.target === radio) {
+                attempts += 1;
+                let choice = e.target.value;
+                if (choice == "0") {
+                    numberCorrect +=1;
+                }
+                accounting.innerHTML = `${numberCorrect} out of ${attempts} correct so far. `;
             }
-            accounting.innerHTML = `Attempts: ${attempts}; Number Right: ${numberCorrect}`;
           })
   
           // Append radio button and label to the container
           container.appendChild(radio);
           container.appendChild(label);
+          container.appendChild(span);
           container.appendChild(document.createElement('br'));
         });
       }

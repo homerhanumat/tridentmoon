@@ -39,6 +39,14 @@
   }
 
 /********************************************
+* styling for quizzes 
+*********************************************/
+
+.pronounce-button:hover {
+  cursor: pointer;
+}
+
+/********************************************
 * accordian.  inspiration from 
 * https://codepen.io/Anotherdago/pen/yjVxOB 
 *********************************************/

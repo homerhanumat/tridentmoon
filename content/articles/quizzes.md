@@ -8,11 +8,13 @@ summary: "Grow your knowlege of the Sanskrit names for postures with this quizzi
 weight: 4
 ---
 
-This is a work in progress.  Check back for more quiz options!
+This is a work in progress.  Check back for more quiz options and prettier formatting!
+
+## From Image to Sanskrit Name
 
 {{< rawhtml >}}
-<p id="accounting"></p>
 <div id="question"></div>
+<p id="accounting"></p>
 <button id="go-again" type="button">Give me another!</button> 
 <button id="start-over" type="button">Start Over</button> 
 {{< /rawhtml >}}
@@ -473,6 +475,21 @@ const postures = [
 ]
 </script>
 {{< /rawhtml >}}
+
+
+## From Sanskrit Name to Image
+
+Coming soon!
+
+## From Sanskrit Name to English Name
+
+Coming soon!
+
+## From English Name to Sanskrit Name
+
+Coming soon!
+
+
 
 
 {{< rawhtml >}}
