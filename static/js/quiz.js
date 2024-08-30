@@ -69,6 +69,7 @@ function questionSetup(starting) {
           label.innerHTML = `<em>${option.label}</em>`;
           const span = document.createElement("span");
           span.innerHTML = ` (click <span class="pronounce-button"><strong>here</strong></span> for pronunciation)`;
+          span.setAttribute("quiz-type", "image-to-sanskrit");
           const pronouncer = span.getElementsByTagName("strong")[0];
           console.log(pronouncer);
           const audioElement = new Audio(option.all.audio);
@@ -97,6 +98,11 @@ function questionSetup(starting) {
                 const checkmark = document.createElement("span");
                 checkmark.innerHTML = "&#10004; ";
                 labelCorrect.prepend(checkmark);
+                const pronounceSpans = document.querySelectorAll('span[quiz-type="image-to-sanskrit"]');
+                for (let i = 0; i < pronounceSpans.length; i++) {
+                    let detailsLink = ` <a href="${options[i].all.details}" target="_blank">Review details in new tab</a>`
+                    pronounceSpans[i].innerHTML = detailsLink;
+                }
             }
           })
   
