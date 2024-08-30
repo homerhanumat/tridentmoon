@@ -453,6 +453,13 @@ const postures = [
         "details": "/articles/primary/index.html#setubandhāsana"
     },
     {
+        "sanskrit": "ūrdhvadhanurāsana",
+        "english": "Upward Bow Posture",
+        "audio": "/audio/urdhvadhanu.m4a",
+        "image": "/images/primary/urdhvadhanurasana.jpeg",
+        "details": "/articles/primary/index.html#ūrdhvadhanurāsana"
+    },
+    {
         "sanskrit": "sālambhasarvāṅgāsana",
         "english": "Posture where All Limbs are Held Up (AKA Shoulder Stand)",
         "audio": "/audio/salambha.m4a",

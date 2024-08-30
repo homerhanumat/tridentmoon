@@ -1598,7 +1598,7 @@ Consider taking chakrāsana for the transition to the next posture (or just sit 
 
 {{< collapse id="urdhvadhanupic" label="Image" >}}
 {{< rawhtml >}}
-<img class="image-center-250" src="/images/primary/urdhvadhanu.jpeg" alt="Coming Soon!">
+<img class="image-center-250" src="/images/primary/urdhvadhanurasana.jpeg" alt="Coming Soon!">
 {{< /rawhtml >}}
 {{< /collapse >}}
 
