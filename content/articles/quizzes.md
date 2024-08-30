@@ -332,7 +332,7 @@ const postures = [
         "sanskrit": "suptakoṇāsana A",
         "english": "Sleeping Angle Posture A",
         "audio": "/audio/suptakona.m4a",
-        "image": "/images/primary/suptak.jpeg"
+        "image": "/images/primary/suptakona-a.jpeg"
     },
     {
         "sanskrit": "suptapādāṅguṣṭhāsana A",
