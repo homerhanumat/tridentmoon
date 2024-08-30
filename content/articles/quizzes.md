@@ -11,8 +11,8 @@ weight: 4
 This is a work in progress.  Check back for more quiz options!
 
 {{< rawhtml >}}
-<p id = "accounting"></p>
-<div id="question"> </div>
+<p id="accounting"></p>
+<div id="question"></div>
 <button id="go-again" type="button">Give me another!</button> 
 <button id="start-over" type="button">Start Over</button> 
 {{< /rawhtml >}}
@@ -476,6 +476,6 @@ const postures = [
 
 
 {{< rawhtml >}}
-<script src="/js/quiz.js">
+<script src="/js/quiz.js"></script>
 {{< /rawhtml >}}
 
