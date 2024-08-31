@@ -415,7 +415,7 @@ const postures = [
     },
     {
         "sanskrit": "suptapādāṅguṣṭhāsana A",
-        "english": "Sleeping Sleeping Thumb-to-Foot Posture A",
+        "english": "Sleeping Thumb-to-Foot Posture A",
         "audio": "/audio/suptapada.m4a",
         "image": "/images/primary/suptapada-a.jpeg",
         "details": "/articles/primary/index.html#suptapādāṅguṣṭhāsana"

@@ -59,6 +59,24 @@ function questionSetup(starting, quizType) {
         return ind.map(index => arr[index]);
     }
 
+    function reducePostures(postures) {
+        let reduced = [];
+        let namesReduced = [];
+        postures.forEach(function(posture) {
+            let name = posture.sanskrit.replace(/ \/.*/, '');
+            name = name.replace(/ [A-Z].*$/, "");
+            if (!namesReduced.includes(name)) {
+                namesReduced.push(name);
+                posture.sanskrit = name;
+                let englishName = posture.english.replace(/ \/.*/, '');
+                englishName = englishName.replace(/ \(.*/, '');
+                posture.english = englishName.replace(/ [A-Z]$/, "");
+                reduced.push(posture);
+            }
+        });
+        return reduced;
+    }
+
     function insertRadioButtons(quizType, name, options) {
 
         const container = document.getElementById(`${quizType}-question`);
@@ -285,8 +303,16 @@ function questionSetup(starting, quizType) {
 
     } // end insertRadioButtons
 
-    let randomIndices = generateDistinctIntegers(numberOfChoices, 0, postures.length - 1);
-    let posturesInvolved = elementsAtIndices(postures, randomIndices);
+    let workingPostureSet;
+    if (["sanskrit-to-english", "english-to-sanskrit"].includes(quizType)) {
+        workingPostureSet = reducePostures(postures);
+    } else {
+        workingPostureSet = postures;
+    }
+    console.log(quizType);
+    console.log(workingPostureSet);
+    let randomIndices = generateDistinctIntegers(numberOfChoices, 0, workingPostureSet.length - 1);
+    let posturesInvolved = elementsAtIndices(workingPostureSet, randomIndices);
     let scrambledIndices = generateDistinctIntegers(numberOfChoices, 0, numberOfChoices - 1);
     let answer = posturesInvolved[0];
     const question = document.getElementById(`${quizType}-question`);
