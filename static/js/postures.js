@@ -1,4 +1,4 @@
-[
+const postures = [
     {
       "sanskrit": "samasthitiḥ",
       "english": "Even Standing",
@@ -517,4 +517,4 @@
         "image": "/images/primary/sava.jpeg",
         "details": "/articles/primary/index.html#śāvāsana"
     }
-]
+];
