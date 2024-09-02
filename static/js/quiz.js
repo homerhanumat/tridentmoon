@@ -137,6 +137,11 @@ function questionSetup(starting, quizType) {
                         let detailsLink = ` <a href="${options[i].all.details}" target="_blank">Review details in new tab</a>`
                         pronounceSpans[i].innerHTML = detailsLink;
                     }
+                    const allButtons = document.querySelectorAll(`input[type= "radio"][quiz-type="${quizType}"]`);
+                    console.log(allButtons);
+                    allButtons.forEach(radio => {
+                        radio.disabled = true;
+                    });
                 }
             });  //end radio add event listener
             // Append radio button and label to the container
@@ -193,6 +198,11 @@ function questionSetup(starting, quizType) {
                     captions.forEach(function(caption) {
                         caption.style.visibility = "visible";
                     });
+                    const allButtons = document.querySelectorAll(`input[type= "radio"][quiz-type="${quizType}"]`);
+                    console.log(allButtons);
+                    allButtons.forEach(radio => {
+                        radio.disabled = true;
+                    });
                 }
             });  //end radio add event listener
 
@@ -242,6 +252,11 @@ function questionSetup(starting, quizType) {
                     anchors.forEach(function(anchor) {
                         anchor.style.visibility = "visible";
                     });
+                    const allButtons = document.querySelectorAll(`input[type= "radio"][quiz-type="${quizType}"]`);
+                    console.log(allButtons);
+                    allButtons.forEach(radio => {
+                        radio.disabled = true;
+                    });
                 }
             });  //end radio add event listener
 
@@ -290,6 +305,11 @@ function questionSetup(starting, quizType) {
                     const anchors = document.querySelectorAll(`label[quiz-type="${quizType}"] a`);
                     anchors.forEach(function(anchor) {
                         anchor.style.visibility = "visible";
+                    });
+                    const allButtons = document.querySelectorAll(`input[type= "radio"][quiz-type="${quizType}"]`);
+                    console.log(allButtons);
+                    allButtons.forEach(radio => {
+                        radio.disabled = true;
                     });
                 }
             });  //end radio add event listener
