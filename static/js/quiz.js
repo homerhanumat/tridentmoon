@@ -62,15 +62,16 @@ function questionSetup(starting, quizType) {
     function reducePostures(postures) {
         let reduced = [];
         let namesReduced = [];
-        postures.forEach(function(posture) {
+        let posturesTemp = postures;
+        posturesTemp.forEach(function(posture) {
             let name = posture.sanskrit.replace(/ \/.*/, '');
             name = name.replace(/ [A-Z].*$/, "");
             if (!namesReduced.includes(name)) {
                 namesReduced.push(name);
-                posture.sanskrit = name;
+                posturesTemp.sanskrit = name;
                 let englishName = posture.english.replace(/ \/.*/, '');
                 englishName = englishName.replace(/ \(.*/, '');
-                posture.english = englishName.replace(/ [A-Z]$/, "");
+                posturesTemp.english = englishName.replace(/ [A-Z]$/, "");
                 reduced.push(posture);
             }
         });
@@ -138,7 +139,6 @@ function questionSetup(starting, quizType) {
                         pronounceSpans[i].innerHTML = detailsLink;
                     }
                     const allButtons = document.querySelectorAll(`input[type= "radio"][quiz-type="${quizType}"]`);
-                    console.log(allButtons);
                     allButtons.forEach(radio => {
                         radio.disabled = true;
                     });
@@ -199,7 +199,6 @@ function questionSetup(starting, quizType) {
                         caption.style.visibility = "visible";
                     });
                     const allButtons = document.querySelectorAll(`input[type= "radio"][quiz-type="${quizType}"]`);
-                    console.log(allButtons);
                     allButtons.forEach(radio => {
                         radio.disabled = true;
                     });
@@ -253,7 +252,6 @@ function questionSetup(starting, quizType) {
                         anchor.style.visibility = "visible";
                     });
                     const allButtons = document.querySelectorAll(`input[type= "radio"][quiz-type="${quizType}"]`);
-                    console.log(allButtons);
                     allButtons.forEach(radio => {
                         radio.disabled = true;
                     });
@@ -307,7 +305,6 @@ function questionSetup(starting, quizType) {
                         anchor.style.visibility = "visible";
                     });
                     const allButtons = document.querySelectorAll(`input[type= "radio"][quiz-type="${quizType}"]`);
-                    console.log(allButtons);
                     allButtons.forEach(radio => {
                         radio.disabled = true;
                     });
@@ -329,8 +326,6 @@ function questionSetup(starting, quizType) {
     } else {
         workingPostureSet = postures;
     }
-    console.log(quizType);
-    console.log(workingPostureSet);
     let randomIndices = generateDistinctIntegers(numberOfChoices, 0, workingPostureSet.length - 1);
     let posturesInvolved = elementsAtIndices(workingPostureSet, randomIndices);
     let scrambledIndices = generateDistinctIntegers(numberOfChoices, 0, numberOfChoices - 1);
