@@ -14,7 +14,7 @@ Anyone can join this class at any time.  We go slow enough that newcomers can le
 
 Meeting Times:
 
-* Fridays, 10-11am.
+* Fridays, 10-11am.  (**Note**:  No class on October 4 or October 11, as I must be out of town on those days.)
 
 
 ### Aṣṭāṅga Yoga Primary Series
