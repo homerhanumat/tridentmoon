@@ -7,7 +7,17 @@ outputDir = "docs"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 6
+
+
+
+[pagination]
+  disableAliases = false
+  pagerSize = 6
+  path = 'page'
+
+
+
+
 googleAnalytics = ""
 enableRobotsTXT = true
 enableEmoji = true
