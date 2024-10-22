@@ -1,7 +1,7 @@
 baseURL = 'https://homerhanumat.github.io'
 languageCode = 'en-us'
 title = 'Trident Moon'
-theme = ["ananke"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 outputDir = "docs"
 
 MetaDataFormat = "yaml"
@@ -50,18 +50,22 @@ enableEmoji = true
   page_header_text_background_color = "rgba(50, 50, 50, 0.7)"
   custom_css = ["css/custom.css"]
 
-[[params.ananke_socials]]
-  name = "facebook"
-  url = "https://www.facebook.com/profile.php?id=61556987980351"
 
-[[params.ananke_socials]]
-  name = "instagram"
-  url = "https://www.instagram.com/tridentmoonyoga"
+[params.ananke.social.follow]
+  new_window_icon = false
+  networks = [
+    "facebook",
+    "instagram"
+  ]
 
-[[params.ananke_socials]]
-  name = "email"
-  url = "mailto:tridentmoonyoga@gmail.com"
-  #label = "Email"
+[params.ananke.social.instagram]
+username = "tridentmoonyoga"
+
+[params.ananke.social.facebook]
+profilelink = "https://www.facebook.com/profile.php?id=61556987980351"
+
+[params.ananke.social.email]
+profilelink = "mailto:tridentmoonyoga@gmail.com"
 
 
 [markup.goldmark.renderer]

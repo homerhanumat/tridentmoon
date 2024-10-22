@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ site.LanguageCode | default site.Language.Lang  }}" {{- with partialCached "func/GetLanguageDirection" "GetLanguageDirection" }} dir="{{ . }}" {{- end }}>
+<html lang="{{ site.Language.LanguageCode }}" {{- with partialCached "func/GetLanguageDirection" "GetLanguageDirection" }} dir="{{ . }}" {{- end }}>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.headdescription }}{{ . }}{{ end }}{{ end }}">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
     {{ hugo.Generator }}
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
-    {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") }}
+    {{ $production := hugo.IsProduction }}
     {{ $public := not .Params.private }}
     {{ if and $production $public }}
       <meta name="robots" content="index, follow">
@@ -51,19 +51,21 @@
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
 
-    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+    {{ if hugo.IsProduction }}
       {{ template "_internal/google_analytics.html" . }}
     {{ end }}
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
   </head>
 
-  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  {{- $environment := hugo.Environment | default "production" -}}
+  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}} {{ $environment }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <!-- theme has class pb7 -->
+    <!-- theme has pb7 -->
     <main class="pb5" role="main">
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
   </body>
 </html>
+
