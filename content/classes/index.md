@@ -8,22 +8,18 @@ type: page
 
 ## Pavilion Classes
 
-### Introduction to Aṣṭāṅga Yoga
-
-Anyone can join this class at any time.  We go slow enough that newcomers can learn the Sun Salutations, experience a few of the fundamental standing postures, and get a taste of things to come.
-
-Meeting Times:
-
-* Fridays, 10-11am.  (**Note**:  No class on December 20 and December 27.)
-
 
 ### Aṣṭāṅga Yoga
 
 Meeting Times:
 
-* Mondays and Wednesdays, 10-11:30am.  ((**Note**:  No class on December 16 and December 18.))
+* Mondays and Wednesdays, 10-11:30am.
 
-This class presumes familiarity with Sun Salutations and the fundamental standing postures, such as might be acquired by attending the introductory class 2-3 times.  We had got into a pattern of doing Primary Series through Nāvāsana, then work-shopping selected subsequent postures, but lately we have also been developing an accessible version of Second Series so people can experience more back-bending.  The class runs 90 minutes, but folks who are pressed for time (or decide they have had enough) should feel free to leave early.
+This class presumes familiarity with Sun Salutations and the fundamental standing postures, such as might be acquired by attending the introductory class 2-3 times.  Content varies:  sometimes we focus on Primary Series through about Nāvāsana, sometmes on Second Series through the backbends, but usually we follow up with a focused study of a selected theme such as hip-opening or inversions. The class runs 90 minutes, but folks who are pressed for time (or decide they have had enough) should feel free to leave early.
+
+#### Note for Beginners
+
+Complete beginners are welcome! Try to arrive on time or even a little bit early, so I can arrange to take you aise for the first half-hour or so to introduce you to the basic ideas of the Yoga and the fundemanetal opening postures.  After that we'll rejoin the class and you can follow along as much as you like.
 
 ### Location and Pricing
 
