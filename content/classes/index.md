@@ -19,7 +19,7 @@ This class presumes familiarity with Sun Salutations and the fundamental standin
 
 #### Note for Beginners
 
-Complete beginners are welcome! Try to arrive on time or even a little bit early, so I can arrange to take you aise for the first half-hour or so to introduce you to the basic ideas of the Yoga and the fundemanetal opening postures.  After that we'll rejoin the class and you can follow along as much as you like.
+Complete beginners are welcome! Try to arrive on time or even a little bit early, though, so I can arrange to take you aside for the first half-hour or so to introduce you to the basic themes of the Yoga and to its fundamental opening postures.  After that we'll rejoin the class and you can follow along as much as you like.
 
 ### Location and Pricing
 
