@@ -11,9 +11,11 @@ type: page
 
 ### Aṣṭāṅga Yoga
 
-We are scaling back our public offerings as we prepare for our move to Prestonsburg, KY later in the Spring.  Beginning in March the only class will be:
+We are scaling back our public offerings in Georgetown, KY as we prepare for our move to Prestonsburg, KY later in the Spring.  Beginning in March the only class will be:
 
 * Wednesdays, 10-11:30am.
+
+The last class will be April 30.
 
 **Description**:  This class presumes familiarity with Sun Salutations and the fundamental standing postures.  Content varies:  sometimes we focus on Primary Series through about Nāvāsana, sometmes on Second Series through the backbends, but usually we follow up with a focused study of a selected theme such as hip-opening or inversions. The class runs 90 minutes, but folks who are pressed for time (or decide they have had enough) should feel free to leave early.
 
@@ -26,3 +28,7 @@ Complete beginners are welcome! Try to arrive on time or even a little bit early
 All classes are at <a href="https://gscparks.com/facilities/the-pavilion/" target="_blank">The Pavilion</a> in Georgetown, KY.
 
 The Pavilion is run by Georgetown/Scott County Parks and Recreation.  Classes are free for Pavilion members.
+
+## Prestonsburg Classes
+
+We are beginning to teach a bit in Prestonsburg, the town to which we are moving.  On Saturday April 19 at 4pm we will offer an Introduction ot Aṣṭāṅga class at <a href="https://beautywithinyoga.com/" target="_blank">Beauty Within</a> Yoga Studio in Prestonsburg.  You can register through the Beauty Within website.
