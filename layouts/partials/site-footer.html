@@ -1,22 +1,20 @@
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-    <div class="flex justify-between">
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
-      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-    </a>
-    {{/* next div added by me for random quotes */}}
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
+    &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
+  </a>
+  {{/* next div added by me for random quotes */}}
     <div class="pa4">
       <blockquote class="athelas ml0 mt0 pl4 white-90 bl bw2 b--blue">
         <p id="quotation" class="f5 f4-m f3-l white-90 lh-copy measure mt0"></p>
         <cite id="quote-source" class="f6 ttu tracked fs-normal"></cite>
       </blockquote>
     </div>
-    
-    <div>{{ partialCached "social/follow.html" . }}</div>
-      
-    </div>
-  </footer>
+    <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+  </div>
+</footer>
 <!--
-  
+  general custom js at the end:
 -->
 <script src="/js/custom.js"></script>
 
