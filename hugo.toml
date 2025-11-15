@@ -55,6 +55,8 @@ enableEmoji = true
   page_header_text_background_color = "rgba(50, 50, 50, 0.7)"
   custom_css = ["css/custom.css"]
 
+[params.ananke]
+  show_recent_posts = false # do not show recent posts on home page
 
 [params.ananke.social.follow]
   new_window_icon = false
